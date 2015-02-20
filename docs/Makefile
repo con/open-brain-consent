@@ -177,6 +177,9 @@ pseudoxml:
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
 
 
+# We need to commit those in since readthedocs would not be capable of
+# running git-annex
 generate_annex_indexes:
-	mkdir -p build/_generated
-	../tools/generate_index_of_annex ../samples/* > build/_generated/samples_index.rst
+	mkdir -p _generated_git
+	../tools/generate_index_of_annex ../samples/* > _generated_git/samples_index.rst
+	git add _generated_git/samples_index.rst

@@ -16,4 +16,4 @@ available online.
 
 And here you can find a list of those files contained under `samples/`:
 
-.. include:: ../build/_generated/samples_index.rst
+.. include:: ../_generated_git/samples_index.rst
