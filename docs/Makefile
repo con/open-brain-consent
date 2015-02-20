@@ -49,7 +49,7 @@ help:
 clean:
 	rm -rf $(BUILDDIR)/*
 
-html:
+html: generate_annex_indexes
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
@@ -175,3 +175,8 @@ pseudoxml:
 	$(SPHINXBUILD) -b pseudoxml $(ALLSPHINXOPTS) $(BUILDDIR)/pseudoxml
 	@echo
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
+
+
+generate_annex_indexes:
+	mkdir -p build/_generated
+	../tools/generate_index_of_annex ../samples/* > build/_generated/samples_index.rst

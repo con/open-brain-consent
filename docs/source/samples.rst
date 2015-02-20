@@ -15,3 +15,5 @@ available online.
 .. _git annex: http://git-annex.branchable.com
 
 And here you can find a list of those files contained under `samples/`:
+
+.. include:: ../build/_generated/samples_index.rst
