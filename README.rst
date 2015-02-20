@@ -76,9 +76,10 @@ Annonimization
 --------------
 
 Data must be de-identified before distribution.  We will collect
-information on ref:`existing <annonimization_tools>`_ and possibly
-establishing new pipelines to standardize annonimization of
-neuroimaging data to simplify data sharing.
+information on :ref:`existing <chap_annonimization_tools>` and
+possibly establishing an *ultimate* easy to use pipeline to
+standardize annonimization of neuroimaging data to simplify data
+sharing.
 
 
 Useful links
