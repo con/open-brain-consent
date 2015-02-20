@@ -5,45 +5,52 @@ Make open data sharing a no-brainer for ethics committees.
 Statement of the problem
 ========================
 
-The ideology of open and reproducible science make their ways into
-various fields of science.  In many disciplines scientific research is
-heavily data driven and thus requires unrestricted exchange/sharing of
-data to attain the load goals of the open science.  In neuroimaging,
-as in other fields of human-subjects research such as bio-informatics,
-making imaging data publicly available requires staying within
-established legal norms, i.e. addressing the aspect of subjects
-privacy.  Those norms are usually established by institutional review
-boards (IRB, or otherwise called ethics committees), which are in turn
-"governed" by the federal regulations, such as
-`45 Code of Federal Regulations Part 46
-<http://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html>`
-in US.
+The ideology of open and reproducible science makes its ways into
+various fields of science.  Neuroimaging is a driving force today
+behind many fields of brain sciences.  Despite possibly terabytes of
+neuroimaging data collected for research daily, just a small fraction
+becomes publicly available. Partially it is because management of
+neuroimaging data requires to confirm to established legal norms,
+i.e. addressing the aspect of subjects privacy.  Those norms are
+usually established by institutional review boards (IRB, or otherwise
+called ethics committees), which are in turn "governed" by the federal
+regulations, such as `45 Code of Federal Regulations Part 46
+<http://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html>`_ in US.
 
 Flexibility in interpretation of original regulations established in
 the past century, decentralization of those committees, and lack of a
-"community" influence over them created the problem: *for neuroimaging
-studies there is no commonly accepted version of a Consent form
-template which would allow for collected imaging data to be shared as
-openly as possible while providing adequate guarantees for subjects'
-privacy*.  In majority of the cases, used Consent forms simply do not
-include **any** provision for public sharing of the data to get a
-"speedy" IRB approval for a study.
-
-Situation is particularly *tricky* because major granting agencies
-(e.g. NIH, NSF) demand data sharing, but do not explicitly 
+"community" influence over them created the problem: **for
+neuroimaging studies there is no commonly accepted version of a
+Consent form template which would allow for collected imaging data to
+be shared as openly as possible while providing adequate guarantees
+for subjects' privacy**.  In majority of the cases, used Consent forms
+simply do not include **any** provision for public sharing of the data
+to get a "speedy" IRB approval for a study.  Situation is particularly
+tricky because major granting agencies (e.g. NIH, NSF) nowadays
+require public data sharing, but do not provide explicit instructions
+on *how*.
 
 Overall approach
 ================
 
-Initially we would like to concentrate on the problem as pertinent to
-neuroimaging (and associated behavioral) data. But if reaches enough
-traction -- it would be great to cover any kind of scientific data
-which has similar concerns.
+We would like to facilitate neuroimaging data sharing by any research
+group by providing a "out of the box" solution address subjects
+privacy:
 
-Goal minimum
+- generally acceptable consent form allowing deposition of annonymized
+  data to public data archives
+
+- collection of tools/pipelines to help annonymisation of neuroimaging
+  data making it ready for sharing
+
+
+Consent form
 ------------
 
-To address this problem we decided to collect consent forms which have
+Goal minimum
+~~~~~~~~~~~~
+
+To address this problem we decided to collect :ref:`chap_consent_samples` which have
 been previously approved by ethic committees in different
 institutions.  Such samples could serve a basis for introducing
 similar *ad-hoc* consent forms at other institutions so they fulfill
@@ -51,25 +58,27 @@ the desires of any particular committee, while allowing public sharing
 of collected data.
 
 Ultimate goal
--------------
+~~~~~~~~~~~~~
 
-Analysis of those might allow us to distill an *ultimate* form (or a
-set of those for different use-cases and jurisdictions, and/or
-guidelines) which would be compliant with all regulatory statues,
-while allowing for open sharing and access to the neuroimaging data.
+Analysis of those might allow us to distill an
+:ref:`chap_consent_ultimate` (or a set of those for different
+use-cases and jurisdictions, and/or guidelines) which would be
+compliant with all regulatory statues, while allowing for open sharing
+and access to the neuroimaging data.
 
-If regulated by the federal/state law, there is really no objective
-reason why there could be no consensus among IRB committees within the
-same jurisdictions. Although somewhat a utopian statement, we hope
-that with examples/precedent cases and possibly **your** enthusiastic
-involvement we cold achieve our goal.
+If regulated by the same federal/state laws, there is really no
+objective reason why there could be no consensus among IRB committees
+within the same jurisdiction. Although somewhat a utopian statement,
+we hope that with examples/precedent cases and possibly **your**
+enthusiastic involvement we cold achieve our goal.
 
-Side goals
-----------
+Annonimization
+--------------
 
 Data must be de-identified before distribution.  We will collect
-information on existing and possibly establishing new pipelines to
-standardize annonimization of neuroimaging data to simplify sharing.
+information on ref:`existing <annonimization_tools>`_ and possibly
+establishing new pipelines to standardize annonimization of
+neuroimaging data to simplify data sharing.
 
 
 Useful links

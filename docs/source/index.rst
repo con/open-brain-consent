@@ -6,8 +6,6 @@
 .. include:: ../../README.rst
    :end-before: link list
 
-.. include:: ../../README.rst
-   :start-after: link list
 
 Content
 =======
@@ -18,9 +16,10 @@ Content
    samples.rst
    recommendations.rst
    discussions.rst
+   ultimate.rst
+   annon_tools.rst
+   contribute.rst
 
 
-Indices and tables
-==================
-
-:ref:`genindex` | :ref:`modindex` | :ref:`search`
+.. include:: ../../README.rst
+   :start-after: link list
