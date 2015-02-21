@@ -90,6 +90,7 @@ Useful links
 
 .. link list
 
-`Bug tracker <https://github.com/neurodebian/open-brain-consent/issues>`_ |
+`Issues <https://github.com/neurodebian/open-brain-consent/issues>`_ |
+`Pull requests <https://github.com/neurodebian/open-brain-consent/pulls>`_ |
 `Build status <http://travis-ci.org/neurodebian/open-brain-consent>`_ |
-`Documentation <https://open-brain-consent.readthedocs.org>`_
+`Website <https://open-brain-consent.readthedocs.org>`_

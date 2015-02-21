@@ -1,0 +1,6 @@
+language: python
+install:
+  - pip install sphinx
+  - sudo apt-get install git-annex
+script: 
+  - make -C docs html
