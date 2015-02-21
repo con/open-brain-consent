@@ -33,12 +33,12 @@ on *how*.
 Overall approach
 ================
 
-We would like to facilitate neuroimaging data sharing by any research
-group by providing a "out of the box" solution address subjects
-privacy:
+We would like to facilitate neuroimaging data sharing by providing an "out of
+the box" solution addressing aforementioned human subjects concerns and
+consisting of
 
-- generally acceptable consent form allowing deposition of annonymized
-  data to public data archives
+- widely acceptable consent form allowing deposition of annonymized data
+  to public data archives
 
 - collection of tools/pipelines to help annonymisation of neuroimaging
   data making it ready for sharing
