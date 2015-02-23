@@ -45,8 +45,8 @@ We would welcome your feedback  very much, in particular
 Contact information
 ===================
 
-- directly via email open-brain-consent@neuro.debian.net
+- directly via email open-brain-consent@datalad.org
 - `GitHub issues`_ page
 
-.. _GitHub issues: https://github.com/neurodebian/open-brain-consent/issues
-.. _GitHub pull requests: https://github.com/neurodebian/open-brain-consent/pulls
+.. _GitHub issues: https://github.com/datalad/open-brain-consent/issues
+.. _GitHub pull requests: https://github.com/datalad/open-brain-consent/pulls

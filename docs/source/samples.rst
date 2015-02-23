@@ -11,7 +11,7 @@ web.  Our `git repository`_ is also a `git annex`_ repository so you
 should be to `git annex get` any file of interest, if it is still
 available online.
 
-.. _git repository: https://github.com/neurodebian/open-brain-consent/
+.. _git repository: https://github.com/datalad/open-brain-consent/
 .. _git annex: http://git-annex.branchable.com
 
 And here you can find a list of those files contained under `samples/`:
