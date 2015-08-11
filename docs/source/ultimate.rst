@@ -1,6 +1,6 @@
 .. _chap_consent_ultimate:
 
-Ultimate constent form
+Ultimate consent form
 ======================
 
 The following consent form has been put together, by merging best parts of existing consent forms and consulting with experts in research ethics.
