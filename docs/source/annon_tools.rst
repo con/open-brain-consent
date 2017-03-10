@@ -1,17 +1,17 @@
 .. _chap_annonimization_tools:
 
-Annonimization tools
+Anonimization tools
 ====================
 
-Sanitarization of headers/filenames
+Sanitization of headers/filenames
 -----------------------------------
 
 - see
   http://www.researchgate.net/post/Best_free_tool_for_DICOM_data_anonymization
-  discussion on sanitarization of DICOM headers
+  discussion on sanitization of DICOM headers
 - `DeID <http://www.nitrc.org/projects/deid>`_ (`see paper 
   <http://journal.frontiersin.org/article/10.3389/fnins.2015.00325/full>`_),
-  which provides an interactive tool for inspection and sanitarization
+  which provides an interactive tool for inspection and sanitization
   of Analyze and NIfTI images
 
 
@@ -21,14 +21,14 @@ Elimination of facial (and dental) features
 Skull stripping
 ~~~~~~~~~~~~~~~
 
-One of the approaches is perform complete skull stripping using the
-used analysis toolkit, e.g.
+One of the approaches is perform complete skull stripping, e.g. using
 
 - `BET <http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET>`_ of `FSL
   <http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/>`_
 - `3dSkullStrip
   <http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dSkullStrip.html>`_
   of `AFNI <http://afni.nimh.nih.gov/>`_
+-  `FreeSurfer <https://surfer.nmr.mgh.harvard.edu/>`_ 
 
 Some dedicated annonimization tools work on this principle, e.g. `DeID`_
 
@@ -55,4 +55,5 @@ facial features in the anatomical images:
 
 - `Obscuring Surface Anatomy in Volumetric Imaging Data <http://link.springer.com/article/10.1007%2Fs12021-012-9160-3>`_
   Used for HCP data
+- `QuickShear <https://github.com/nipy/quickshear/>`_ 
 
