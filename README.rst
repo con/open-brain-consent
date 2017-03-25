@@ -37,10 +37,10 @@ We would like to facilitate neuroimaging data sharing by providing an "out of
 the box" solution addressing aforementioned human subjects concerns and
 consisting of
 
-- widely acceptable consent form allowing deposition of annonymized data
+- widely acceptable consent form allowing deposition of anonymized data
   to public data archives
 
-- collection of tools/pipelines to help annonymisation of neuroimaging
+- collection of tools/pipelines to help anonymization of neuroimaging
   data making it ready for sharing
 
 
@@ -72,13 +72,13 @@ within the same jurisdiction. Although somewhat a utopian statement,
 we hope that with examples/precedent cases and possibly **your**
 enthusiastic involvement we cold achieve our goal.
 
-Annonimization
+Anonymization
 --------------
 
 Data must be de-identified before distribution.  We will collect
-information on :ref:`existing <chap_annonimization_tools>` and
+information on :ref:`existing <chap_anonymization_tools>` and
 possibly establishing an *ultimate* easy to use pipeline to
-standardize annonimization of neuroimaging data to simplify data
+standardize anonymization of neuroimaging data to simplify data
 sharing.
 
 
