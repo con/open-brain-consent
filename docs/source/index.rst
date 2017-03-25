@@ -17,7 +17,7 @@ Content
    recommendations.rst
    discussions.rst
    ultimate.rst
-   annon_tools.rst
+   anon_tools.rst
    contribute.rst
 
 
