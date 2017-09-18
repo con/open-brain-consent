@@ -7,6 +7,8 @@ The following consent form has been put together, by merging best parts of exist
 
 Single access type version (all data shared publicly; recommended)
 ------------------------------------------------------------------
+English
+~~~~~~~
 
 The data and samples from this study might be used for other, future research projects in addition to the study you are currently participating in. Those future projects can focus on any topic that might be unrelated to the goals of this study. We will give access to the data we are collecting, including the imaging data, to the general public via the Internet and a fully open database.
 
@@ -24,8 +26,25 @@ We will keep the private portion (name, contact information etc.) of your data i
 
 By signing below, you agree to provide your data for future research. You agree that these may be shared with other investigators at other institutions from around the world. The details, results, and implications of these studies are unknown.
 
+German
+~~~~~~
+(translation courtesy of Sara Fernández)
+
+Wir möchten die in dieser Studie erhobenen Daten, inklusive der fMRT-Bilddaten, der Allgemeinheit zur Verfügung stellen (über eine öffentliche Internetdatenbank). Es ist daher möglich, dass die Daten der Untersuchung, an der Sie aktuell teilnehmen, zukünftig auch für andere Forschungsprojekte genutzt werden. Diese Projekte könnten andere Zielsetzungen verfolgen, als die aktuelle Studie.
+
+Alle Daten, die wir teilen, werden anonymisiert. Ihr Name wird nicht gespeichert, sondern nur eine Codenummer, so dass niemand weiß, welche Daten zu Ihnen gehören. Zusätzlich dazu werden wir Daten entfernen, die unter Umständen dazu führen könnten, dass Rückschlüsse auf ihre Person gezogen werden könnten (wie zum Beispiel Gesichtsmerkmale oder das Datum der Teilnahme). Wenn Sie Ihre Meinung ändern und die Zustimmung zur Teilnahme zurückziehen möchten, können Sie dies tun (dazu können Sie <experimenter name> unter <experimenter phone number> anrufen). In diesem Fall werden wir keine zusätzlichen Daten erheben und die bereits erhobenen Daten werden gelöscht, bevor diese in die Datenbank hochgeladen werden. **Allerdings können Daten und Forschungsergebnisse, die bereits auf die öffentliche Datenbank geladen und mit anderen Forschern geteilt wurden, nicht wieder gelöscht oder zurückgezogen werden.**
+
+Es ist möglich, dass Studien, die Ihre Informationen nutzen, zu neuen Entwicklungen zur Erforschung und zum Verständnis des Gehirns, zu neuen Methoden, neuen Diagnosemethoden oder neuen (pharmazeutischen) Produkten führen. Durch die Zustimmung zur freiwilligen Weitergabe der Daten gibt es keine Möglichkeit, an den Profiten durch diese Produkte teilzuhaben. Auch die Rechte an diesen Methoden oder Produkten werden nicht weitergegeben. 
+
+**Die Weitergabe Ihrer Daten ist freiwillig. Sie können trotzdem an der Studie teilnehmen, auch wenn Sie nicht wollen, dass die Daten weitergegeben werden.** 
+
+Mit Ihrer Unterschrift bestätigen Sie, dass Sie die Daten für zukünftige Forschungen bereitstellen. Sie stimmen zu, dass diese global mit anderen Forschern und Instituten geteilt werden. Die Einzelheiten, Resultate und Implikationen dieser Studien sind unbekannt.
+
+
 Two access types version (some data shared publicly, more data shared to approved researchers)
 ----------------------------------------------------------------------------------------------
+English
+~~~~~~~
 
 The data and samples from this study might be used for other, future research projects in addition to the study you are currently participating in. Those future projects can focus on any topic and might be unrelated to the goals of this study. We will give access to some of the data, including the imaging data, to the general public via the Internet and a fully open database. The data we will share publicly are limited to <explain what will you share publicly>. Additionally we will make all of our data available to other investigators through a controlled access database. To minimize risks to your privacy, a committee of experts will carefully review every data request from other scientists before allowing them to use this controlled access database, in order to make sure they can also protect your personal information. These other investigators may be at <your institution> or at other research centers (academic or commercial) around the world.
 
@@ -40,3 +59,4 @@ We will keep the private portion (name, contact information etc.) of your data i
 **Letting us use and share your data is voluntary.  However, you must be willing to share your data in this way in order to participate in this study. If you are not willing, you cannot participate in this study.**
 
 By signing below, you agree to provide your data for future research. You agree that these may be shared with other authorized investigators at other institutions from around the world. The details, results, and implications of these studies are unknown. 
+
