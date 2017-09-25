@@ -27,7 +27,7 @@ We will keep the private portion (name, contact information etc.) of your data i
 
 **Letting us use and share your data is voluntary.  However, you must be willing to share your data in this way in order to participate in this study. If you are not willing, you cannot participate in this study.**
 
-By signing below, you agree to provide your data for future research. You agree that these may be shared with other investigators at other institutions from around the world. The details, results, and implications of these studies are unknown.
+By signing below, you agree to provide your data for future research. You agree that these may be shared with other investigators at other institutions from around the world as well as general public. The details, results, and implications of these studies are unknown.
 
 
 Two access types version (some data shared publicly, more data shared to approved researchers)
