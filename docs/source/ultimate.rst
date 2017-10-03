@@ -36,9 +36,9 @@ Alle Daten, die wir teilen, werden anonymisiert. Ihr Name wird nicht gespeichert
 
 Es ist möglich, dass Studien, die Ihre Informationen nutzen, zu neuen Entwicklungen zur Erforschung und zum Verständnis des Gehirns, zu neuen Methoden, neuen Diagnosemethoden oder neuen (pharmazeutischen) Produkten führen. Durch die Zustimmung zur freiwilligen Weitergabe der Daten gibt es keine Möglichkeit, an den Profiten durch diese Produkte teilzuhaben. Auch die Rechte an diesen Methoden oder Produkten werden nicht weitergegeben. 
 
-**Die Weitergabe Ihrer Daten ist freiwillig. Sie können trotzdem an der Studie teilnehmen, auch wenn Sie nicht wollen, dass die Daten weitergegeben werden.** 
+**Die Weitergabe Ihrer Daten ist freiwillig. Jedoch ist die Teilnahme an dieser Studie nicht möglich wenn Sie nicht wollen, dass die Daten weitergegeben werden.** 
 
-Mit Ihrer Unterschrift bestätigen Sie, dass Sie die Daten für zukünftige Forschungen bereitstellen. Sie stimmen zu, dass diese global mit anderen Forschern und Instituten geteilt werden. Die Einzelheiten, Resultate und Implikationen dieser Studien sind unbekannt.
+Mit Ihrer Unterschrift bestätigen Sie, dass Sie die Daten für zukünftige Forschungen bereitstellen. Sie stimmen zu, dass diese global mit anderen Forschern und Instituten geteilt werden können. Die Einzelheiten, Resultate und Implikationen dieser Studien sind unbekannt.
 
 
 Two access types version (some data shared publicly, more data shared to approved researchers)
