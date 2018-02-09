@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Open Brain Consent'
-copyright = u'2015, Yaroslav Halchenko, Chris Filo Gorgolewski'
+copyright = u'2015-2018, Yaroslav Halchenko, Chris Filo Gorgolewski, and Contributors'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -200,7 +200,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'OpenBrainConsent.tex', u'Open Brain Consent Documentation',
-   u'Yaroslav Halchenko', 'manual'),
+   u'Yaroslav Halchenko and Chris Gorgolewski', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -230,7 +230,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'openbrainconsent', u'Open Brain Consent Documentation',
-     [u'Yaroslav Halchenko'], 1)
+     [u'Yaroslav Halchenko and Chris Gorgolewski'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -244,7 +244,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'OpenBrainConsent', u'Open Brain Consent Documentation',
-   u'Yaroslav Halchenko', 'OpenBrainConsent', 'One line description of project.',
+   u'Yaroslav Halchenko and Chris Gorgolewski', 'OpenBrainConsent', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -265,9 +265,9 @@ texinfo_documents = [
 
 # Bibliographic Dublin Core info.
 epub_title = u'Open Brain Consent'
-epub_author = u'Yaroslav Halchenko'
-epub_publisher = u'Yaroslav Halchenko'
-epub_copyright = u'2015, Yaroslav Halchenko'
+epub_author = u'Yaroslav Halchenko and Chris Gorgolewski'
+epub_publisher = u'Yaroslav Halchenko and Chris Gorgolewski'
+epub_copyright = u'2015-2018, Yaroslav Halchenko, Chris Gorgolewski, and Contributors'
 
 # The basename for the epub file. It defaults to the project name.
 #epub_basename = u'Open Brain Consent'
