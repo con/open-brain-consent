@@ -13,6 +13,9 @@ Sanitization of headers/filenames
   <http://journal.frontiersin.org/article/10.3389/fnins.2015.00325/full>`_),
   which provides an interactive tool for inspection and sanitization
   of Analyze and NIfTI images
+- `PyDICOM's deid <https://pydicom.github.io/deid/>`, the "best effort 
+  anonymization for medical images using python" assists in filtering out
+  DICOM fields and also masking out actual image data
 
 
 Elimination of facial (and dental) features
