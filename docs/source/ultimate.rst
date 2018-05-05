@@ -100,7 +100,7 @@ Conserveremo i tuoi dati sensibili (nome e cognome, informazioni per contattarti
 
 Firmando qui sotto, stai accettando di fornire i tuo dati per future ricerche. Accetti che questi possano essere condivisi con altri investigatori di altre istituzioni in tutto il mondo. I dettagli, i risultati e le implicazioni di questi studi sono sconosciuti.
 
-Chinese
+Chinese (Simplified)
 ~~~~~~
 (translation courtesy of Cheng Wang)
 
