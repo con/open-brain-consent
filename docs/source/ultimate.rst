@@ -88,7 +88,7 @@ I dati ed i campioni raccolti in questo studio potrebbero essere utilizzati per 
 
 I dati che verranno condivisi con il pubblico non saranno identificati dal tuo nome ma solo grazie ad un codice numerico, in modo che nessuno possa identificarti o sapere quali dati sono tuoi. Inoltre, al meglio delle nostre conoscenze, non condivideremo altre informazioni che potrebbero essere usate da qualcuno che ti conosce per risalire a quali sono i tuoi dati.
 
-Se tu dovessi cambiare idea e volessi ritirare il tuo consenso alla partecipazione a questo studio (per farlo, chiama <Nome Responsabile> al numero <Numero Telefono>), non raccoglieremo dati aggiuntivi su di te. Se tu dovessi ritirare il tuo consenso prima che i dati siano depositati nella banca dati, questi saranno eliminati. Tuttavia, dati e risultati eventualmente già condivisi con altri investigatori o con il grande pubblico non possono essere distrutti, rimossi o ritirati.
+Se tu dovessi cambiare idea e volessi ritirare il tuo consenso alla partecipazione a questo studio (per farlo, chiama <Nome Responsabile> al numero <Numero Telefono>), non raccoglieremo dati aggiuntivi su di te. Se tu dovessi ritirare il tuo consenso prima che i dati siano depositati nella banca dati, questi saranno eliminati. **Tuttavia, dati e risultati eventualmente già condivisi con altri investigatori o con il grande pubblico non possono essere distrutti, rimossi o ritirati.**
 
 Accettando di partecipare, farai un dono gratuito e generoso alla ricerca scientifica, potenzialmente utile ad altri. È possibile che alcune delle ricerche condotte usando i tuoi dati portino allo sviluppo di nuovi metodi per studiare il cervello, nuovi strumenti diagnostici, nuovi farmaci o altri prodotti commerciali. Se questo dovesse accadere, non riceverai alcuna parte dei profitti generati da tali prodotti sui quali non potrai avanzare alcun diritto di proprietà.
 
@@ -99,6 +99,30 @@ Conserveremo i tuoi dati sensibili (nome e cognome, informazioni per contattarti
 **Permetterci di usare e distribuire i tuoi dati è un’azione volontaria. Tuttavia, per poter partecipare a questo studio, devi essere disposto ad accettare questi termini di uso e distribuzione dei tuoi dati. Se non acconsenti a questa clausola, non puoi partecipare a questa ricerca.**
 
 Firmando qui sotto, stai accettando di fornire i tuo dati per future ricerche. Accetti che questi possano essere condivisi con altri investigatori di altre istituzioni in tutto il mondo. I dettagli, i risultati e le implicazioni di questi studi sono sconosciuti.
+
+Chinese
+~~~~~~
+(translation courtesy of Cheng Wang)
+
+本研究中的数据和样本除了用于你目前参与的研究之外，还可能用于将来开展的其他研究项目。这些项目的课题可能与本研究的目标并无关联。我们将会把我们正在收集的包括大脑影像在内的数据通过网络和开放数据库方式分享给公众。
+
+我们与公众分享的数据里不会保留你的姓名，我们将使用一个数字代码来代替你的名字，以此来保障你的名字和数据的隐密性。此外，如果我们认为有些信息能让认识你的人判断出哪些数据是你的，我们也不会分享这些信息。
+
+如果你改变主意，决定撤回参与此研究的知情同意书（你可以致电<电话号码>通知<主要研究者的姓名>），我们不会再收集关于你的任何数据。如果你决定退出时你的数据还未被录入数据库，我们将删除你的数据。**但是，一旦数据或研究结果已经分享给其他研究人员或公众，我们将无法销毁、撤销或撤回这些信息。**
+
+如果你同意参加本研究，你将会为科学研究共同体做出慷慨利他的贡献。使用你的信息完成的一部分研究可能会帮助人类发展出新的大脑研究方法、新的诊断测试、新的药物或其他的商业产品。若有此情况发生，你并不会得到与新产品相关的任何盈利，你也不拥有这些产品的所有权。
+
+我们将尽全力保证我们向公众公布的数据里没有信息可以直接让人辨认出你。分享的数据里不会保留你的名字，我们将使用一个数字代码来代替你的名字，以此来保障你的名字和数据的隐密性。如果我们认为一些信息可以能让认识你的人判断出哪些数据是你的，我们也不会分享这些信息，例如你的面部特征或参与研究的日期。如果我们要撰写研究报告或文章，或与他人分享研究数据，我们将保证你的信息不会被人辨认出来。但是，有人仍可能使用与你名字相关联的额外信息（例如你的医疗档案中的大脑扫描像）从我们的数据库中辨别出你的脑影像或其他信息。此外，安全漏洞（网络攻击等）也可能让人将你和你的数据关联起来。这种风险很低，因为你的数据会被保存在安全的数据库，而你的身份信息则被另外隔离保存，只有一个代码可以将二者联系起来。
+
+你数据里的隐私信息（姓名、联系方式等）将被我们安全地保存至少<X>年时间。如果使用我们共享数据的研究人员发现你大脑扫描像有需要进一步诊断的必要性，我们可以利用这些信息来联系你。在这段规定时间之后，我们将销毁这些信息，以此保护你的隐私。
+
+**是否让我们使用及分享你的数据将完全由你自愿决定。但是，只有同意按上述方式分享你的数据后，你才能参与本研究。如果你不同意数据的分享计划，你将不能参与本研究。**
+
+如果你在此签名，就是表明同意将你的数据提供给将来的研究。你同意这些数据可能被分享给世界各地研究机构的研究者，而这些研究的细节、结果及应用前景现在仍是未知。
+
+
+
+
 
 Two access types version (some data shared publicly, more data shared to approved researchers)
 ----------------------------------------------------------------------------------------------
