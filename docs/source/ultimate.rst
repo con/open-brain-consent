@@ -84,6 +84,47 @@ En signant ci dessous, vous acceptez de fournir vos données pour des recherches
 
 如果您在下方签名，代表您同意向未来的研究共享您的数据，同意与来自世界各地研究机构的研究者共享您的数据。这些未来研究的细节、结果和应用均是未知的。
 
+Spanish
+~~~~~~
+(translation courtesy of María de la Iglesia Vayá & Nicolas Pascual Leone Espinosa)
+
+Los datos y las muestras de este estudio puede que se usen para otros futuros proyectos de investigación además del estudio en que usted está participando actualmente. Esos futuros proyectos pueden estar enfocados en cualquier otra temática y puede que sean irrelevantes a los objetivos de este estudio preliminar. Le daremos acceso a los datos que estamos recogiendo, incluyendo los datos de imágenes vía internet y a un base de datos completamente en abierto.
+
+Los datos que compartimos con el público general no contendrán su nombre, solo un numero de código que no le identifican, las personas no sabrán ni su nombre ni que los datos son suyos. Además, no compartiremos ninguna otra
+información que creamos que podría identificarlo.
+
+Si cambia de opinión y retira su consentimiento para participar en este estudio (puede llamar a <nombre de investigador principal> al <numero de teléfono>), no recogeremos ningún dato adicional sobre usted. Eliminaremos sus datos si se retira antes de que los depositemos en la base de datos. **Sin embargo, cualquier datos o resultados de investigación que ya hayan sido compartidos con otros investigadores o al público general no podrán ser destruidos o retirados.**
+
+Al aceptar participar, estará haciendo una donación gratis y generosa para la investigación que podría ayudar a otros. Es posible que partes de la investigación llevada al cabo usando su información finalmente podría llevar al desarrollo de nuevos métodos para estudiar el cerebro, nuevas pruebas de diagnóstico, nuevos fármacos u otros productos comerciales. Si esto ocurre, no hay plan para proporcionarle a usted ninguna parte de los beneficios de estos productos y usted no tendrá ningún derecho de propiedad a estos productos.
+
+A nuestro entender, los datos que publicamos en abierto en general no contendrán información que puede identificarle directamente. La Base de Datos generada no contendrá su nombre, solo un código, de forma que el público no sabrá ni su nombre ni que los datos son suyos. Además, los datos no van a incluir información que pensemos podrían ayudar a personas cercanas a usted a adivinar qué los datos son suyos, como rasgos faciales o el día que participo. Si escribimos un reportaje o artículo sobre el estudio o compartimos los datos con otros, lo haremos de manera que usted no podrá ser identificado directamente. Sin embargo, usando datos adicionales relacionados con su nombre (por ejemplo, un escaneo cerebral obtenido de su historia clínica), uno posiblemente podría asociar su imagen u otra información en nuestra base de datos con usted. Además, si se produce una violación de seguridad (ataque cibernético) que pudiera hacer qué alguien le asociarse a usted con sus datos. Este riesgo es muy bajo porque sus datos están guardados en una base de datos segura, y la información sobre usted está guardado por separado, relacionados solo con un código.
+
+Mantendremos la parte privada de sus datos (nombre, información para contactarle, etc.) en un lugar seguro durante al menos <x> años. De esta manera, si uno de los investigadores que utilice los datos de este estudio encuentra algo en sus escaneos cerebrales que pudieran tener un valor diagnóstico, podremos contactar con usted. Después de este periodo de tiempo, destruiremos su información para proteger su privacidad.
+
+**Dejarnos usar y compartir sus datos es voluntario. Sin embargo, tiene que estar dispuesto a compartir sus datos de esta forma para poder participar en este estudio.**
+
+Si no está dispuesto, no podrá participar en el estudio. Al firmar abajo, está aceptando proporcionar sus datos a futuras investigaciones. De esta forma acepta que los datos podrán ser compartidos con otros investigadores de otras instituciones por todo el mundo. Los detalles, resultados, e implicaciones de estos estudios son desconocidos.
+
+Italian
+~~~~~~
+(translation courtesy of Valentina Borghesani and Matteo Visconti di Oleggio Castello)
+
+I dati ed i campioni raccolti in questo studio potrebbero essere utilizzati in futuro per altri progetti di ricerca oltre allo studio a cui sta attualmente prendendo parte. Tali ricerche potranno riguardare qualsiasi argomento, non necessariamente collegato a quello dello studio cui sta partecipando. I dati raccolti, inclusi i risultati dei metodi di neuroimaging adottati, saranno condivisi attraverso una piattaforma online ed una banca dati accessibile pubblicamente.
+
+I dati che verranno condivisi pubblicamente non saranno associati al suo nome, ma solo ad un codice numerico, in modo tale che nessuno possa identificarla o sapere quali sono i suoi dati. Inoltre, al meglio delle nostre conoscenze, non condivideremo altre informazioni che potrebbero essere usate per risalire a quali sono i suoi dati.
+
+Qualora cambiasse idea, e decidesse di rimuovere il suo consenso alla partecipazione a questo studio, contatti <Nome Reponsabile> al numero <Numero Telefono>. In tal caso non raccoglieremo ulteriori dati su di lei. Se lei dovessi ritirare il suo consenso prima che i dati siano depositati nella banca dati, questi saranno eliminati. **Tuttavia, dati e risultati eventualmente già condivisi con altri investigatori o pubblicamente non possono essere distrutti, rimossi o ritirati.**
+
+Con la sua partecipazione volontaria contribuirà generosamente alla ricerca scientifica. È possibile che alcune delle ricerche condotte usando i suoi dati portino allo sviluppo di nuovi metodi per studiare il cervello, nuovi strumenti diagnostici, nuovi farmaci o altri prodotti commerciali. Se questo dovesse accadere, lei non riceverà alcuna parte dei profitti generati da tali prodotti, e non potrà avanzare alcun diritto di proprietà.
+
+Per quanto ci è possibile sapere, i dati che verranno condivisi pubblicamente non conterranno alcuna informazione che sia direttamente ricollegabile a lei. I dati che verranno condivisi non saranno identificati dal suo nome ma solo grazie ad un codice numerico in modo tale da garantirne l'anonimato. Inoltre, non includeremo dati che pensiamo possano permettere alle persone che la conoscono di risalire a quali siano i suoi dati, come ad esempio le caratteristiche del suo volto o la data di partecipazione allo studio. Se dovessimo scrivere un articolo o report su questo studio, o se dovessimo condividere con altri i dati raccolti durante questo studio, lo faremo in modo da non compromettere il suo anonimato. Tuttavia, utilizzando altri dati connessi al suo nome (ad esempio delle immagini del suo cervello ottenute dalla sua cartella clinica), potrebbe essere possibile ricollegarla alle immagini od altri dati del nostro database. Inoltre, una violazione della sicurezza od un attacco informatico potrebbero permettere a qualcuno di accedere ai dati anonimizzati. Queste rischio è minimo, dato che i suoi dati saranno conservati in un database sicuro e le informazioni sulla sua identità conservate separatamente, collegate solo da un codice.
+
+Conserveremo i suoi dati sensibili (nome e cognome, informazioni per contattarla, ecc.) in un luogo sicuro per <x> anni. In questo modo, se uno dei ricercatori aventi accesso ai suoi dati dovesse scoprire qualcosa di utile per lei dal punto di vista diagnostico, saremo in grado di contattarla. Passato questo intervallo di tempo, distruggeremo queste informazioni per proteggere la sua privacy.
+
+**Permetterci di usare e distribuire i suoi dati è un’azione volontaria. Tuttavia, per poter partecipare a questo studio, deve essere disposto ad accettare questi termini di uso e distribuzione dei suoi dati. Se non acconsente a queste condizioni, non può partecipare a questa ricerca.**
+
+Firmando qui sotto, sta accettando di fornire i suoi dati per ricerche future. Accetta che i suoi dati possano essere condivisi con altri investigatori di altre istituzioni in tutto il mondo. I dettagli, i risultati e le implicazioni di questi studi sono impossibili da prevedere.
+
 
 Two access types version (some data shared publicly, more data shared to approved researchers)
 ----------------------------------------------------------------------------------------------
