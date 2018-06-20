@@ -14,6 +14,13 @@ TODO Summary
 ### Removed
 ### Security
 
+## [0.2] - 2018-06-20
+
+
+### Added
+- Ultimate Consent Form translations
+  - Italian and Spanish (public only portion)
+  - Chinese
 
 ## [0.1] - 2018-02-08
 
