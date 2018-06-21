@@ -14,8 +14,11 @@ TODO Summary
 ### Removed
 ### Security
 
-## [0.2] - 2018-06-20
+## [0.2.1] - 2018-06-21
+### Fixed
+- Minor reference syntax
 
+## [0.2] - 2018-06-20
 
 ### Added
 - Ultimate Consent Form translations
