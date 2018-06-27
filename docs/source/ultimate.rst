@@ -74,7 +74,7 @@ En signant ci dessous, vous acceptez de fournir vos données pour des recherches
 
 同意参与本研究，意味着您将给那些可能有助于人类的研究提供一份免费而慷慨的礼物。极有可能，使用您所共享数据的研究会开发出新的研究人脑的技术、新的诊断量表、新药物或其他产出。但是如果出现这些情况，您本人不会得到这些产品所带来的任何利润，也不会获得这些产品的任何所有权。
 
-根据我们充分了解到的情况，**我们向公众共享的数据中将不会包含能够直接识别出您身份的信息。**数据中没有您的名字、只有编码的数字，因此他人不会知道您的名字或者知道哪个数据是您。此外，数据中不会包括我们认为可能会让了解您的人猜测到哪个数据属于您的信息，比如您的面部特征或参与研究的日期等。如果我们就本研究撰写报告、文章，或者将本次研究的数据分享给他人，我们也将确保您不会被识别出来。
+根据我们充分了解到的情况，**我们向公众共享的数据中将不会包含能够直接识别出您身份的信息。**数据中没有您的名字、只有编码的数字，因此他人不会知道您的名字或者知道哪个数据是您。此外，数据中不会包括我们认为可能会让了解您的人猜测到哪个数据属于您的信息，比如您的面部特征或参与研究的日期等。如果我们就本研究撰写报告、文章，或者将本次研究的数据分享给他人，我们也将确保您不会被识别出来。**
 
 然而，通过其他与您的名字有关的数据（比如从您的医疗记录中所获得的脑部扫描图像），他人有可能能够将我们数据中您的神经影像数据或者其他信息与您联系起来。此外，非法的安全破坏（比如，网络入侵或网络攻击）也导致他人将您的数据识别出来。但是，这种风险很低，因为您的数据将储存在一个安全的数据库；并且，您的身份信息与数据是分开存储的，只有一个代码可以将二者联系起来。
 
@@ -85,7 +85,7 @@ En signant ci dessous, vous acceptez de fournir vos données pour des recherches
 如果您在下方签名，代表您同意向未来的研究共享您的数据，同意与来自世界各地研究机构的研究者共享您的数据。这些未来研究的细节、结果和应用均是未知的。
 
 Spanish
-~~~~~~
+~~~~~~~
 (translation courtesy of María de la Iglesia Vayá & Nicolas Pascual Leone Espinosa)
 
 Los datos y las muestras de este estudio puede que se usen para otros futuros proyectos de investigación además del estudio en que usted está participando actualmente. Esos futuros proyectos pueden estar enfocados en cualquier otra temática y puede que sean irrelevantes a los objetivos de este estudio preliminar. Le daremos acceso a los datos que estamos recogiendo, incluyendo los datos de imágenes vía internet y a un base de datos completamente en abierto.
@@ -106,7 +106,7 @@ Mantendremos la parte privada de sus datos (nombre, información para contactarl
 Si no está dispuesto, no podrá participar en el estudio. Al firmar abajo, está aceptando proporcionar sus datos a futuras investigaciones. De esta forma acepta que los datos podrán ser compartidos con otros investigadores de otras instituciones por todo el mundo. Los detalles, resultados, e implicaciones de estos estudios son desconocidos.
 
 Italian
-~~~~~~
+~~~~~~~
 (translation courtesy of Valentina Borghesani and Matteo Visconti di Oleggio Castello)
 
 I dati ed i campioni raccolti in questo studio potrebbero essere utilizzati in futuro per altri progetti di ricerca oltre allo studio a cui sta attualmente prendendo parte. Tali ricerche potranno riguardare qualsiasi argomento, non necessariamente collegato a quello dello studio cui sta partecipando. I dati raccolti, inclusi i risultati dei metodi di neuroimaging adottati, saranno condivisi attraverso una piattaforma online ed una banca dati accessibile pubblicamente.
@@ -165,7 +165,7 @@ Nous garderons la partie privée de vos données (nom, coordonnées, etc.) dans 
 En signant ci dessous, vous acceptez de fournir vos données pour des recherches futures. Vous acceptez que celles-ci puissent être partagées avec d’autres chercheurs à d’autres institutions du monde entier. Les détails, résultats et implications de ces études sont inconnues.
 
 中文(Chinese, simplified)
-~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 两种访问类型版本（仅部分数据共享给公众，更多数据共享给被批准的研究者）
 (translated by: Fengjuan Wang, Hua Zhu with contributions from Cheng Wang; Proofread: Yue Hu, Chuan-Peng Hu, Feilong Ma)
 (翻译：王凤娟、朱桦；校对：胡悦、胡传鹏)
@@ -176,9 +176,9 @@ En signant ci dessous, vous acceptez de fournir vos données pour des recherches
 
 如果您改变主意并想将此同意书撤回（您可以通过拨打『某号码』致电『本研究的主要负责人PI XXXX』来执行此操作），我们将不会录入关于您的任何额外数据。如果您在数据被录入数据库之前申请撤回，您的数据将能够被及时删除。**请注意，所有已经共享给其他研究者或公众的数据和研究结果将不能够再被销毁，退出或撤回。**
 
-同意参与本研究，意味着您将给那些可能有助于人类的研究提供一份免费而慷慨的礼物。极有可能，使用您所共享数据的研究会开发出新的研究人脑的技术、新的诊断量表、新药物或其他产出。**如果这些情况发生，您本人不会得到这些产品所带来的任何利润，也不会获得这些产品的任何所有权。**
+同意参与本研究，意味着您将给那些可能有助于人类的研究提供一份免费而慷慨的礼物。极有可能，使用您所共享数据的研究会开发出新的研究人脑的技术、新的诊断量表、新药物或其他产出。如果这些情况发生，您本人不会得到这些产品所带来的任何利润，也不会获得这些产品的任何所有权。
 
-**我们向其他研究人员或公众提供的数据中将不会包含能够直接识别出您身份的信息。**数据中没有您的名字、只有编码的数字，因此他人不会知道您的名字或者知道哪个数据是您。此外，数据中不会包括我们认为可能会让了解您的人猜测到哪个数据属于您的信息，比如您的面部特征或参与研究的日期等。如果我们就本研究撰写报告、文章，或者将本次研究的数据分享给他人，我们也将确保您不会被识别出来。
+我们向其他研究人员或公众提供的数据中将不会包含能够直接识别出您身份的信息。数据中没有您的名字、只有编码的数字，因此他人不会知道您的名字或者知道哪个数据是您。此外，数据中不会包括我们认为可能会让了解您的人猜测到哪个数据属于您的信息，比如您的面部特征或参与研究的日期等。如果我们就本研究撰写报告、文章，或者将本次研究的数据分享给他人，我们也将确保您不会被识别出来。
 
 然而，通过其他与您的名字有关的数据（比如从您的医疗记录中所获得的脑部扫描图像），他人有可能能够将我们数据中您的神经影像数据或者其他信息与您联系起来。此外，非法的安全破坏（比如，网络入侵或网络攻击）也导致他人将您的数据识别出来。但是，这种风险很低，因为您的数据将储存在一个安全的数据库；并且，您的身份信息与数据是分开存储的，只有一个代码可以将二者联系起来。
 
