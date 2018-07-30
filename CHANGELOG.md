@@ -14,6 +14,13 @@ TODO Summary
 ### Removed
 ### Security
 
+## [0.2.2] - 2018-07-29
+### Fixed
+- Minor fixes to Chinese translation
+### Added
+- Sample consent forms from psychLMU and GIN
+
+
 ## [0.2.1] - 2018-06-21
 ### Fixed
 - Minor reference syntax
