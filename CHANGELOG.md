@@ -14,6 +14,10 @@ TODO Summary
 ### Removed
 ### Security
 
+## [0.2.3] - 2018-09-07
+### Fixed
+- Fix to Arizona consent form URL
+
 ## [0.2.2] - 2018-07-29
 ### Fixed
 - Minor fixes to Chinese translation
