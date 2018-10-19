@@ -43,12 +43,18 @@ leaving skull, which might be important for some types of analysis.
 Usually achieved through alignment of pre-crafted mask to the subject
 anatomy and removing of the masked out regions.
 
+- `BIDSonym <https://github.com/PeerHerholz/BIDSonym>`_ - a BIDS app interfacing a
+  number of methods (`pydeface`_, `quickshear`_, `mri_deface`_) listed below
 - `mri_deface <https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface>`_
   from `FreeSurfer <https://surfer.nmr.mgh.harvard.edu/>`_ (`paper from
   2007 with overview  <http://onlinelibrary.wiley.com/doi/10.1002/hbm.20312/full>`_)
-- https://github.com/poldrack/openfmri/blob/master/pipeline/facemask/deface.py
+- `pydeface <https://github.com/poldracklab/pydeface>`_ (and former
+  `deface
+  <https://github.com/poldrack/openfmri/blob/master/pipeline/facemask/deface.py>`_ pipeline)
 - https://github.com/hanke/gumpdata/blob/master/scripts/conversion/convert_dicoms_anatomy#L26
 - https://github.com/hanke/mridefacer
+- `quickshear <https://github.com/nipy/quickshear/>`_
+
 
 Rendering faces unrecognizable
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -58,5 +64,4 @@ facial features in the anatomical images:
 
 - `Obscuring Surface Anatomy in Volumetric Imaging Data <http://link.springer.com/article/10.1007%2Fs12021-012-9160-3>`_
   Used for HCP data
-- `QuickShear <https://github.com/nipy/quickshear/>`_ 
 

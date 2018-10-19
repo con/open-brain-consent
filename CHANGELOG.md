@@ -14,6 +14,10 @@ TODO Summary
 ### Removed
 ### Security
 
+## [0.2.4] - 2018-10-19
+### Added
+- Pointer to BIDSonym and pydeface
+
 ## [0.2.3] - 2018-09-07
 ### Fixed
 - Fix to Arizona consent form URL
