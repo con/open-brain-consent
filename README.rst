@@ -2,6 +2,8 @@
 Make open data sharing a no-brainer for ethics committees.
 **********************************************************
 
+|Zenodo badge|
+
 Statement of the problem
 ========================
 
@@ -94,3 +96,6 @@ Useful links
 `Pull requests <https://github.com/datalad/open-brain-consent/pulls>`_ |
 `Build status <http://travis-ci.org/datalad/open-brain-consent>`_ |
 `Website <https://open-brain-consent.readthedocs.org>`_
+
+.. |Zenodo badge| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.1411525.svg
+   :target: https://doi.org/10.5281/zenodo.1411525
