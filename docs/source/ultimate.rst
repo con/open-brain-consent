@@ -125,6 +125,26 @@ Conserveremo i suoi dati sensibili (nome e cognome, informazioni per contattarla
 
 Firmando qui sotto, sta accettando di fornire i suoi dati per ricerche future. Accetta che i suoi dati possano essere condivisi con altri investigatori di altre istituzioni in tutto il mondo. I dettagli, i risultati e le implicazioni di questi studi sono impossibili da prevedere.
 
+Polish
+~~~~~~
+(translation courtesy of Karolina Finc and Monika Boruta-Żywiczyńska)
+
+Dane zgromadzenie w tym badaniu mogą zostać wykorzystane także w innych, przyszłych projektach badawczych, związanych lub niezwiązanych z celami niniejszego badania. Zgromadzone dane, łącznie z danymi z obrazowania mózgu, zostaną zanonimizowane i udostępnione publicznie w internetowej bazie danych. 
+
+Anonimizacja oznacza, że dane, które udostępnimy w internetowej bazie danych, nie będą zawierały Twojego imienia i nazwiska, a jedynie Twój kod uczestnika badania, co nie pozwoli na bezpośrednią identyfikację Twojej osoby. Dzięki temu, osoby trzecie nie będą mogły ustalić Twojej tożsamości, ani określić, które dane należą do Ciebie. Ponadto, nie będziemy udostępniać żadnych innych informacji, takich jak rysy twarzy czy data wykonania Twojego badania, które naszym zdaniem mogłyby pomóc osobom znającym Cię w odgadnięciu, które spośród zgromadzonych danych dotyczą Ciebie. 
+
+Jeśli zmienisz zdanie i wycofasz zgodę na udział w niniejszym badaniu (aby to zrobić możesz skontaktować się z <imię i nazwisko Kierownika Projektu> na <numer telefonu>), nie będziemy gromadzić żadnych dodatkowych danych o Tobie. Usuniemy Twoje dane, jeśli wycofasz się, zanim umieścimy je w internetowej bazie danych. **Niemniej jednak, dane oraz wyniki badania, które zostały już udostępnione innym za pośrednictwem internetowej bazy danych lub wykorzystane w publikacji w czasopiśmie naukowym, nie mogą zostać zniszczone, wycofane ani usunięte.**
+
+Będziemy przechowywać Twoje dane osobowe (imię i nazwisko, dane kontaktowe itp.) w bezpiecznym miejscu przez co najmniej <x> lat(a). Dzięki temu będziemy mogli się z Tobą skontaktować, jeśli któryś z badaczy korzystający ze zgromadzonych przez nas danych znajdzie w skanach Twojego mózgu coś, co mogłoby mieć wartość diagnostyczną. Po upływie tego czasu zniszczymy Twoje dane osobowe aby chronić Twoją prywatność.
+
+Twoje dane zostaną zanonimizowane, jednak dzięki wykorzystaniu danych powiązanych z Twoim imieniem w innych rejestrach (na przykład skanów mózgu uzyskanych z Twojej dokumentacji medycznej) można potencjalnie powiązać Twoje dane obrazowe lub inne informacje z naszej bazy, z powrotem z Tobą. Ponadto, naruszenie bezpieczeństwa (włamanie lub cyberatak) może doprowadzić do tego, że ktoś będzie w stanie zidentyfikować Twoje dane. Ryzyko wystąpienia takich zdarzeń jest bardzo niskie, ponieważ Twoje dane są przechowywane w bezpiecznej bazie danych, a informacje wiążące Twoją tożsamość z nadanym kodem uczestnika badania znajdują się w innym rejestrze.
+
+Twój udział w badaniu może wesprzeć wysiłki naukowców z całego świata i pomóc innym. Możliwe, że niektóre badania przeprowadzone przy użyciu Twoich danych przyczynią się do opracowania nowych metod badania mózgu, nowych testów diagnostycznych, nowych leków lub innych produktów komercyjnych. Jeśli tak się stanie, nie będziemy mogli zapewnić Ci prawa własności do takich produktów ani jakiejkolwiek części z zysków przez nie generowanych.
+
+**Umożliwienie nam wykorzystywania i udostępniania Twoich danych jest dobrowolne. Aby uczestniczyć w niniejszym badaniu, musisz zgodzić się na udostępnienie Twoich danych w opisany powyżej sposób. Jeśli nie chcesz wyrazić zgody, nie możesz wziąć udziału w niniejszym badaniu.**
+
+Podpisując się poniżej, zgadzasz się udostępnić swoje dane na potrzeby przyszłych badań. Zgadzasz się, aby Twoje dane były udostępniane badaczom z innych instytucji z całego świata. Szczegóły, wyniki i skutki tych badań są nieznane.
+
 
 Two access types version (some data shared publicly, more data shared to approved researchers)
 ----------------------------------------------------------------------------------------------
