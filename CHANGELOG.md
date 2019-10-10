@@ -14,6 +14,16 @@ TODO Summary
 ### Removed
 ### Security
 
+## [0.2.6] - 2019-??-??
+
+TODO Summary
+
+### Added
+### Changed
+### Fixed
+### Removed
+### Security
+
 ## [0.2.5] - 2019-10-10
 ### Added
 - Zenodo badge
