@@ -13,7 +13,7 @@ behind many fields of brain sciences.  Despite possibly terabytes of
 neuroimaging data collected for research daily, just a small fraction
 becomes publicly available. Partially it is because management of
 neuroimaging data requires to confirm to established legal norms,
-i.e. addressing the aspect of subjects privacy.  Those norms are
+i.e. addressing the aspect of research participants privacy.  Those norms are
 usually established by institutional review boards (IRB, or otherwise
 called ethics committees), which are in turn "governed" by the federal
 regulations, such as `45 Code of Federal Regulations Part 46
@@ -25,7 +25,7 @@ the past century, decentralization of those committees, and lack of a
 neuroimaging studies there is no commonly accepted version of a
 Consent form template which would allow for collected imaging data to
 be shared as openly as possible while providing adequate guarantees
-for subjects' privacy**.  In majority of the cases, used Consent forms
+for research participants' privacy**.  In majority of the cases, used Consent forms
 simply do not include **any** provision for public sharing of the data
 to get a "speedy" IRB approval for a study.  Situation is particularly
 tricky because major granting agencies (e.g. NIH, NSF) nowadays
@@ -36,7 +36,7 @@ Overall approach
 ================
 
 We would like to facilitate neuroimaging data sharing by providing an "out of
-the box" solution addressing aforementioned human subjects concerns and
+the box" solution addressing aforementioned human research participants concerns and
 consisting of
 
 - widely acceptable consent form allowing deposition of anonymized data
