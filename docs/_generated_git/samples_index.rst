@@ -1,6 +1,8 @@
   - `Arizona_consent.pdf <https://web.archive.org/web/20180210012809if_/http://www.arg.arizona.edu/papers/fmri/forms/consent.pdf>`_
   - `CMU_fmri-consent-v-april-201011.doc <https://web.archive.org/web/20151008030113/http://www.cmu.edu/research-compliance/human-subject-research/documents/fmri-consent-v-april-201011.doc>`_
   - `Dartmouth-fMRI-Consent-Template.doc <http://www.dartmouth.edu/~cphs/docs/forms/exp-fmri-consent-template.doc>`_
+  - `Donders_Centre_for_Cognitive_Neuroimaging-EEG.pdf <https://www.ru.nl/publish/library/397/eeg_binder_eng.pdf>`_
+  - `Donders_Centre_for_Cognitive_Neuroimaging-MRI.pdf <https://www.ru.nl/publish/library/397/mri_binder_eng.pdf>`_
   - `GIN_consent-fr.pdf <http://www.hal.inserm.fr/medihal-01773015/document>`_
   - `NMR_MGH_samplefMRIconsent.html <https://web.archive.org/web/20100720174727/www.nmr.mgh.harvard.edu/martinos/userInfo/human/docs/samplefMRIconsent.doc>`_
   - `UCB_SpatialRep_MRI.pdf <http://socrates.berkeley.edu/~lynnlab/internal/consent/UCBSpatialRep_MRI.pdf>`_
