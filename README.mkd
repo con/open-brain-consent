@@ -37,7 +37,7 @@ GLiMR approach for data sharing -- local vs global repository
 - 10.00 Introduction to the OBC (Stephan Heunis)
 - 10.20 Sharing brain MRI data under GDPR (Cyril Pernet)
 - 10.40 Issuing a Data User Agreement - exemple from the Donders (Robert Oostenvelt)
-- 11.00 Collecting and sharing Patients data ()
+- 11.00 Collecting and sharing Patients data (Francesca Benedetta Pizzini)
 - 11.30 General Discussion
 - 12.30 Lunch
 - 13.30 Split per working groups to update the documentation
