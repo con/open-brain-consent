@@ -41,7 +41,7 @@ GLiMR approach for data sharing -- local vs global repository
 11.30 General Discussion
 12.30 Lunch
 13.30 Split per working groups to update the documentation
-16.00 Wrap-up 
+16.00 Wrap-up
 
 ## Participants
 
@@ -54,5 +54,5 @@ GLiMR approach for data sharing -- local vs global repository
 | Benedetta Pizzini  | Francesca 	| francesca.pizzini@aovr.veneto.it	| clinical|
 | Barker	           | Gareth	    | gareth.barker@kcl.ac.uk	          | ethic,  multi-centre trials|
 | Heunis 	           | Stephan 	  | jsheunis@gmail.com                | |
-| herholz            |	peer 	    | herholz.peer@gmail.com            | |
+| Herholz            | Peer 	    | herholz.peer@gmail.com            | |
 | Oostenveld	       | Robert	    | r.oostenveld@donders.ru.nl	      | ethic, data management|
