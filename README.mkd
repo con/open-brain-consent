@@ -38,7 +38,7 @@ GLiMR approach for data sharing -- local vs global repository
 - 10.20 Sharing brain MRI data under GDPR (Cyril Pernet)
 - 10.40 Issuing a Data User Agreement - exemple from the Donders (Robert Oostenvelt)
 - 11.00 Collecting and sharing Patients data (Francesca Benedetta Pizzini)
-- 11.30 General Discussion (Nils Broecks, chairing/answering GDPR questions)
+- 11.30 General Discussion (Nils Broeckx, chairing/answering GDPR questions)
 - 12.30 Lunch
 - 13.30 Split per working groups to update the documentation
 - 16.00 Wrap-up
@@ -56,4 +56,4 @@ GLiMR approach for data sharing -- local vs global repository
 | Heunis 	           | Stephan 	  | jsheunis@gmail.com                 | cognitive neuroscience, method, OBC|
 | Herholz            | Peer 	    | herholz.peer@gmail.com             | cognitive neuroscience, method, OBC|
 | Oostenveld	       | Robert	    | r.oostenveld@donders.ru.nl	       | ethic, data management|
-| Broecks   	       | Nils  	    | nils.broeckx@dewallens-partners.be | law, GDPR|
+| Broeckx   	       | Nils  	    | nils.broeckx@dewallens-partners.be | law, GDPR|
