@@ -53,7 +53,7 @@ GLiMR approach for data sharing -- local vs global repository
 | Mutsaerts 	       |Henk-Jan 	  | henkjanmutsaerts@gmail.com	       | signal processing|
 | Benedetta Pizzini  | Francesca 	| francesca.pizzini@aovr.veneto.it	 | clinical|
 | Barker	           | Gareth	    | gareth.barker@kcl.ac.uk	           | ethic,  multi-centre trials|
-| Heunis 	           | Stephan 	  | jsheunis@gmail.com                 | |
-| Herholz            | Peer 	    | herholz.peer@gmail.com             | |
+| Heunis 	           | Stephan 	  | jsheunis@gmail.com                 | cognitive neuroscience, method, OBC|
+| Herholz            | Peer 	    | herholz.peer@gmail.com             | cognitive neuroscience, method, OBC|
 | Oostenveld	       | Robert	    | r.oostenveld@donders.ru.nl	       | ethic, data management|
 | Broecks   	       | Nils  	    | nils.broeckx@dewallens-partners.be | law, GDPR|
