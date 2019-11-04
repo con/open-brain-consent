@@ -38,7 +38,7 @@ GLiMR approach for data sharing -- local vs global repository
 - 10.20 Sharing brain MRI data under GDPR (Cyril Pernet)
 - 10.40 Issuing a Data User Agreement - exemple from the Donders (Robert Oostenvelt)
 - 11.00 Collecting and sharing Patients data (Francesca Benedetta Pizzini)
-- 11.30 General Discussion
+- 11.30 General Discussion (Nils Broecks, chairing/answering GDPR questions)
 - 12.30 Lunch
 - 13.30 Split per working groups to update the documentation
 - 16.00 Wrap-up
@@ -47,12 +47,13 @@ GLiMR approach for data sharing -- local vs global repository
 
 | surname | name | email | expertise |
 | ------- | ---- | ----- | --------- |
-| Pernet	           | Cyril      |	cyril.pernet@ed.ac.uk	            | bioinformatics, data management |
-| Vasilis 	         | Katsaros	  | bslkatsaros@gmail.com	            | clinical|
-| de la Iglesia Vayá | Maria      |	maigva@gmail.com	                | bioinformatics, data base, multi-centre trials|
-| Mutsaerts 	       |Henk-Jan 	  | henkjanmutsaerts@gmail.com	      | signal processing|
-| Benedetta Pizzini  | Francesca 	| francesca.pizzini@aovr.veneto.it	| clinical|
-| Barker	           | Gareth	    | gareth.barker@kcl.ac.uk	          | ethic,  multi-centre trials|
-| Heunis 	           | Stephan 	  | jsheunis@gmail.com                | |
-| Herholz            | Peer 	    | herholz.peer@gmail.com            | |
-| Oostenveld	       | Robert	    | r.oostenveld@donders.ru.nl	      | ethic, data management|
+| Pernet	           | Cyril      |	cyril.pernet@ed.ac.uk	             | bioinformatics, data management |
+| Vasilis 	         | Katsaros	  | bslkatsaros@gmail.com	             | clinical|
+| de la Iglesia Vayá | Maria      |	maigva@gmail.com	                 | bioinformatics, data base, multi-centre trials|
+| Mutsaerts 	       |Henk-Jan 	  | henkjanmutsaerts@gmail.com	       | signal processing|
+| Benedetta Pizzini  | Francesca 	| francesca.pizzini@aovr.veneto.it	 | clinical|
+| Barker	           | Gareth	    | gareth.barker@kcl.ac.uk	           | ethic,  multi-centre trials|
+| Heunis 	           | Stephan 	  | jsheunis@gmail.com                 | |
+| Herholz            | Peer 	    | herholz.peer@gmail.com             | |
+| Oostenveld	       | Robert	    | r.oostenveld@donders.ru.nl	       | ethic, data management|
+| Broecks   	       | Nils  	    | nils.broeckx@dewallens-partners.be | law, GDPR|
