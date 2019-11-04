@@ -28,7 +28,7 @@ GLiMR approach for data sharing -- local vs global repository
 ## Goal
 
 * [update consent form](https://github.com/CPernet/open-brain-consent/blob/GLiMR-workshop/docs/source/ultimate.rst) with GDPR items
-* draft a data user agreement
+* draft a data user agreement ([Donders' DUA](https://data.donders.ru.nl/doc/dua/RU-DI-HD-1.0.html?1))
 * recommendation on pseudo-anonymization
 * recommendation on sharing (GLiMR specific)
 
