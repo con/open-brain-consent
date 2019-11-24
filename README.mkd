@@ -34,6 +34,8 @@ GLiMR approach for data sharing -- local vs global repository
 
 ## Schedule
 
+We'll stream the morning session https://hangouts.google.com/call/7qLIhUOTC29xiNsEDcjfAEEI 
+
 - 10.00 Introduction to the OBC (Stephan Heunis)
 - 10.20 Sharing brain MRI data under GDPR (Cyril Pernet)
 - 10.40 Issuing a Data User Agreement - exemple from the Donders (Robert Oostenvelt)
