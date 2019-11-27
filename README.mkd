@@ -50,7 +50,7 @@ We'll stream the morning session https://hangouts.google.com/call/7qLIhUOTC29xiN
 | surname | name | email | expertise |
 | ------- | ---- | ----- | --------- |
 | Pernet	           | Cyril      |	cyril.pernet@ed.ac.uk	             | bioinformatics, data management |
-| Vasilis 	         | Katsaros	  | bslkatsaros@gmail.com	             | clinical|
+| Katsaros 	         | Vasilis	  | bslkatsaros@gmail.com	             | clinical|
 | de la Iglesia Vayá | Maria      |	maigva@gmail.com	                 | bioinformatics, data base, multi-centre trials|
 | Mutsaerts 	       |Henk-Jan 	  | henkjanmutsaerts@gmail.com	       | signal processing|
 | Benedetta Pizzini  | Francesca 	| francesca.pizzini@aovr.veneto.it	 | clinical|
