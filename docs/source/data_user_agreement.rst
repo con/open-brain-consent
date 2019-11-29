@@ -3,7 +3,8 @@
 Data User Agreement Template
 ============================
 
-This template is based on the 'Donder’s Institute DUA Version RU-DI-HD-1.0. <https://data.donders.ru.nl/doc/dua/RU-DI-HD-1.0.html?2>'_. Given tham brain imaging data can be used to single out individuals, it is safe to consider them as 'personal data' under 'GDPR <https://gdpr-info.eu/>', even after using a pseudo-anonymization procedure like defacing. To allow easy sharing, it is recommended to use a Data User Agreement (DUA) over a license.
+This template is based on the `Donder’s Institute DUA Version RU-DI-HD-1.0. <https://data.donders.ru.nl/doc/dua/RU-DI-HD-1.0.html?2>`_. Given that brain imaging data can be used to single out individuals, it is safe to consider them as 'personal data' under `GDPR <https://gdpr-info.eu/>`_, even after using a pseudo-anonymization procedure like defacing. To allow easy sharing, it is recommended to use a Data User Agreement (DUA) over a license.
+
 
 
 General considerations for a Data User Agreement
@@ -20,7 +21,7 @@ Data user agreement for accessing identifiable human data
 
 I request access to the data collected in the digital repository of the <DEPARTMENT>, part of the <INSTITUTION>, established at <CITY>, <COUNTRY> (hereinafter referred to as the <INSTITUTION SHORTNAME>).
 
-By accepting this agreement, I become the 'data controller <https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/obligations/controller-processor/what-data-controller-or-data-processor_en>' (as defined under the GDPR) of the data that I have access to, and am responsible that I access these data under the following terms:
+By accepting this agreement, I become the `data controller <https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/obligations/controller-processor/what-data-controller-or-data-processor_en>`_ (as defined under the GDPR) of the data that I have access to, and am responsible that I access these data under the following terms:
 
 1. I will comply with all relevant rules and regulations imposed by my institution and my government.  This agreement never has prevalence over existing general data protection regulations that are applicable in my country.
 2. I will not attempt to establish or retrieve the identity of the study participants. I will not link these data to any other database in a way that could provide identifying information. I shall not request the pseudonymisation key that would link these data to an individual's personal information, nor will I accept any additional information about individual participants under this Data Use Agreement.
