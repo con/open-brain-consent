@@ -19,6 +19,7 @@ Content
    ultimate.rst
    anon_tools.rst
    contribute.rst
+   data_user_agreement.rst
 
 
 .. include:: ../../README.rst
