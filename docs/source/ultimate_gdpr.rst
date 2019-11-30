@@ -41,7 +41,7 @@ If you have questions about your rights, please contact the person responsible f
 xxx (see Appendix for contact details)
 
 If you have questions or complaints about the processing of your personal data, we advise you to first contact the research location. You can also contact the Data Protection Officer of xxx  (see the contact details in Appendix ) or the [xxx] Data Protection Authority.
-|
-|Date:
-|Collected by:
-|Signature:  
+
+- Date:
+- Collected by:
+- Signature:  
