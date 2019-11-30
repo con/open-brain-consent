@@ -1,11 +1,14 @@
 .. _chap_consent_ultimate:
 
+It is recommended to have an information sheet and consent for the study of interest and also a specific form for data sharing.
+The form includes some sentences in square brackets [], meaning they may be removed depending on your local legislation and ethic committee.
+
 Ultimate consent form - GDPR edition
 ======================================
 
 Usage and storage of your data
 ______________________________
-Your personal data will be collected, used and stored for this study.  This includes data from your brain and other scans, and may also include test results from the study you took part in, family and medical history and also data such as gender and age. The collection, use and storage of your data are done for the purpose of conducting this study as well as further scientific research in the [field of neuroscience], as detailed below.
+While the collection, use and storage of your data are done for the purpose of conducting the study you are currently participating, these data might also be used for other future research projects in the field of medical and cognitive neuroscience. This includes data from your brain and/or other scans, and may also include test results from the study you took part in, family and medical history and also data such as gender and age.
 
 Confidentiality of your data
 ____________________________
