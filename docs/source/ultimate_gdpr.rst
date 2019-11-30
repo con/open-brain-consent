@@ -10,7 +10,7 @@ Usage and storage of your data
 ______________________________
 While the collection, use and storage of your data are done for the purpose of conducting the study you are currently participating, these data might also be used for other future research projects in the field of medical and cognitive neuroscience. This includes data from your brain and/or other scans, and may also include test results from the study you took part in, family and medical history and also data such as gender and age.
 
-By agreeing to participate, you will be making a free and generous gift for research that might help others.  It is possible that some of the research conducted using your information eventually could lead to the development of new methods for studying brain, new diagnostic tests, new drugs or other commercial products. Should this occur, there is no plan to provide you with any part of the profits generated from such products and you will not have any ownership rights in the products. We ask you to consent to this access.
+By agreeing to participate, you will be making a free and generous gift for research that might help others.  [It is possible that some of the research conducted using your information eventually could lead to the development of new methods for studying brain, new diagnostic tests, new drugs or other commercial products. Should this occur, there is no plan to provide you with any part of the profits generated from such products and you will not have any ownership rights in the products.] We ask you to consent to this access.
 
 Confidentiality of your data
 ____________________________
@@ -38,9 +38,9 @@ For general information about your rights when processing your personal data, yo
 
 If you have questions about your rights, please contact the person responsible for the processing of your personal data. For this study, that is:
 
-xxx (see Appendix A for contact details)
+xxx (see Appendix for contact details)
 
-If you have questions or complaints about the processing of your personal data, we advise you to first contact the research location. You can also contact the Data Protection Officer of xxx  (see the contact details in Appendix A) or the [xxx] Data Protection Authority.
+If you have questions or complaints about the processing of your personal data, we advise you to first contact the research location. You can also contact the Data Protection Officer of xxx  (see the contact details in Appendix ) or the [xxx] Data Protection Authority.
 
 Date:
 Collected by:
