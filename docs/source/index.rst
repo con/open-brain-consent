@@ -17,6 +17,7 @@ Content
    recommendations.rst
    discussions.rst
    ultimate.rst
+   ultimate_gdpr.rst
    anon_tools.rst
    contribute.rst
    data_user_agreement.rst
