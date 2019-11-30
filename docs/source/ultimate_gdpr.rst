@@ -26,11 +26,11 @@ There is no plan to delete your data as they can be re-used for legitimate resea
 
 Withdrawing consent
 ___________________
-You can withdraw your consent to the use of your personal data. This applies to this study and also to storage and use for future research. The study data collected until the moment you withdraw your consent can still be used in this study.
+You can withdraw your consent to the use of your personal data. This applies to this study and also to the sharing for future research. You have however to understand that once shared with other institutions, it is impossible to remove your data from such copies.
 
 Passing on to countries outside the European Union (EU)
 _______________________________________________________
-In this study, your encoded data can also be accessed by and sent to countries outside the EU and countries with similar data protection laws. This is necessary so that non-EU based scientific collaborators in this research can run analyses to verify the scientific results produced from this study or for future research unrelated in the field of medical and cognitive neuroscience. In those countries, the EU rules on the protection of your personal data do not apply. However, your privacy will be protected at an equal level, by means of a Data Sharing and Usage Agreement.
+Your encoded data can also be accessed by and sent to countries outside the EU. This is necessary so that non-EU based scientists can run analyses to verify the scientific results produced from this study or for future unrelated research in the field of medical and cognitive neuroscience. In those countries, the EU rules on the protection of your personal data do not apply. However, your privacy will be protected at an equal level, by means of a `Data Sharing and Usage Agreement<https://github.com/CPernet/open-brain-consent/blob/GLiMR-workshop/docs/source/data_user_agreement.rst>`_.
 
 More information about your rights when processing data
 _______________________________________________________
