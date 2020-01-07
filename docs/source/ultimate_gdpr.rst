@@ -1,4 +1,4 @@
-.. _chap_consent_ultimate:
+.. _chap_consent_ultimate_gdpr:
 
 It is recommended to have an information sheet and consent for the study of interest and also a specific form for data sharing.
 The form includes some sentences in square brackets [], meaning they may be removed depending on your local legislation and ethics committee.
