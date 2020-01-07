@@ -44,4 +44,4 @@ If you have questions or complaints about the processing of your personal data, 
 
 - Date:
 - Collected by:
-- Signature:  
+- Signature:
