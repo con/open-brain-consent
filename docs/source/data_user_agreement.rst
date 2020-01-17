@@ -3,19 +3,23 @@
 Data User Agreement Template
 ============================
 
-This template is based on the `Donder’s Institute DUA Version RU-DI-HD-1.0. <https://data.donders.ru.nl/doc/dua/RU-DI-HD-1.0.html?2>`_. Given that brain imaging data can be used to single out individuals, it is safe to consider them as 'personal data' under `GDPR <https://gdpr-info.eu/>`_, even after using a pseudo-anonymization procedure like defacing. To allow easy sharing, it is recommended to use a Data User Agreement (DUA) over a license.
+.. _Data User Agreement (DUA):
 
-
+This template is based on the `Donder’s Institute DUA Version RU-DI-HD-1.0. <https://data.donders.ru.nl/doc/dua/RU-DI-HD-1.0.html?2>`_.
+Given that brain imaging data can be used to identify individuals, it is safe to consider them as 'personal data' under the `GDPR <https://gdpr-info.eu/>`_, even after using a pseudo-anonymization procedure like defacing.
+To allow sharing of such personal data, it is recommended to use a Data User Agreement (DUA) over a license.
 
 General considerations for a Data User Agreement
 -------------------------------------------------
 
-This DUA is meant to be sufficiently restrictive to publicly sharing biomedical data, which under GDPR should be seen as personal. If a direct collaboration is in place we recommend to be less restrictive.
+This DUA is meant to be sufficiently restrictive to publicly sharing biomedical data, which under GDPR should be seen as personal data. If a direct collaboration for data sharing is in place we recommend to be less restrictive.
 
 - If applicable, the agreement must specify how to deal with subject confidentiality issues.
 - Point 4 on secondary and derived data redistribution is contentious - and careful consideration should be taken to include this or not.
 - Related to point 4, you could specify how credits and acknowledgements are to be handled. For instance, if someone uses a template that was built by a researcher or group of researchers who used your data, do you want to be acknowledged as well.
 
+
+.. _optimal combination:
 Data user agreement for accessing identifiable human data
 ---------------------------------------------------------
 

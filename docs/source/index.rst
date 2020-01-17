@@ -18,9 +18,11 @@ Content
    discussions.rst
    ultimate.rst
    ultimate_gdpr.rst
+   data_privacy_impact_assessment.rst
+   data_user_agreement.rst
    anon_tools.rst
    contribute.rst
-   data_user_agreement.rst
+
 
 
 .. include:: ../../README.rst
