@@ -1,5 +1,5 @@
-# GLiMR workshop branch - OBC, GDPR and clinical data
-_27th Novembre, COST Association (floor 15), 149 Avenue Louise, Brussels_
+# GLiMR workshop ([COST](https://www.cost.eu/) action CA18206) - Open Brain Consent, GDPR and clinical data
+_27th Novembre 2019, COST Association (floor 15), 149 Avenue Louise, Brussels_
 
 ## Background
 
@@ -34,18 +34,19 @@ GLiMR approach for data sharing -- local vs global repository
 
 ## Schedule
 
-We'll stream the morning session https://hangouts.google.com/call/7qLIhUOTC29xiNsEDcjfAEEI 
+We streamed the morning session on google hangout. 
 
-- 10.00 Introduction to the OBC (Stephan Heunis)
-- 10.20 Sharing brain MRI data under GDPR (Cyril Pernet)
-- 10.40 Issuing a Data User Agreement - exemple from the Donders (Robert Oostenvelt)
-- 11.00 Collecting and sharing Patients data (Francesca Benedetta Pizzini)
-- 11.30 General Discussion (Nils Broeckx, chairing/answering GDPR questions)
-- 12.30 Lunch
+- 10.00 Sharing brain MRI data under GDPR (Cyril Pernet)
+- 10.40 Introduction to the OBC (Stephan Heunis)
+- 11.15 Issuing a Data User Agreement - exemple from the Donders (Robert Oostenvelt)
+- 12.00 Collecting and sharing Patients data (Francesca Benedetta Pizzini)
+- 12.30 General Discussion (Nils Broeckx, chairing/answering GDPR questions)
 - 13.30 Split per working groups to update the documentation
 - 16.00 Wrap-up
 
-## Participants
+From there, discussionh on github followed to update all documentation.
+
+## Workshop Participants
 
 | surname | name | email | expertise |
 | ------- | ---- | ----- | --------- |
