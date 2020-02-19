@@ -58,22 +58,24 @@ From there, discussion on github followed to update all documentation.
 Workshop Participants
 -----------------------
 
-+------------+------------+-----------+
-| Header 1   | Header 2   | Header 3  |
-+============+============+===========+
-| body row 1 | column 2   | column 3  |
-+------------+------------+-----------+
-
 +--------------------+------------+------------------------------------+------------------------------------+
 | surname            | name       | email                              | expertise                          |
 +====================+============+====================================+====================================+
 | Pernet	           | Cyril      |	cyril.pernet@ed.ac.uk	             | neuroinformatics, data management  |
++--------------------+------------+------------------------------------+------------------------------------+
 | Katsaros 	         | Vasilis	  | bslkatsaros@gmail.com	             | clinical                           |
++--------------------+------------+------------------------------------+------------------------------------+
 | Mutsaerts 	       |Henk-Jan 	  | henkjanmutsaerts@gmail.com	       | signal processing                  |
++--------------------+------------+------------------------------------+------------------------------------+
 | Benedetta Pizzini  | Francesca 	| francesca.pizzini@aovr.veneto.it	 | clinical                           |
++--------------------+------------+------------------------------------+------------------------------------+
 | Barker	           | Gareth	    | gareth.barker@kcl.ac.uk	           | ethic,  multi-centre trials        |
++--------------------+------------+------------------------------------+------------------------------------+
 | Heunis 	           | Stephan 	  | jsheunis@gmail.com                 | cognitive neuroscience, method, OBC|
++--------------------+------------+------------------------------------+------------------------------------+
 | Herholz            | Peer 	    | herholz.peer@gmail.com             | cognitive neuroscience, method, OBC|
++--------------------+------------+------------------------------------+------------------------------------+
 | Oostenveld	       | Robert	    | r.oostenveld@donders.ru.nl	       | ethic, data management             |
++--------------------+------------+------------------------------------+------------------------------------+
 | Broeckx   	       | Nils  	    | nils.broeckx@dewallens-partners.be | law, GDPR                          |
 +--------------------+------------+------------------------------------+------------------------------------+
