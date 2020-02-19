@@ -58,15 +58,16 @@ From there, discussion on github followed to update all documentation.
 Workshop Participants
 -----------------------
 
-| surname | name | email | expertise |
-| ------- | ---- | ----- | --------- |
-| Pernet	           | Cyril      |	cyril.pernet@ed.ac.uk	             | bioinformatics, data management |
-| Katsaros 	         | Vasilis	  | bslkatsaros@gmail.com	             | clinical|
-| de la Iglesia Vayá | Maria      |	maigva@gmail.com	                 | bioinformatics, data base, multi-centre trials|
-| Mutsaerts 	       |Henk-Jan 	  | henkjanmutsaerts@gmail.com	       | signal processing|
-| Benedetta Pizzini  | Francesca 	| francesca.pizzini@aovr.veneto.it	 | clinical|
-| Barker	           | Gareth	    | gareth.barker@kcl.ac.uk	           | ethic,  multi-centre trials|
++--------------------+------------+------------------------------------+------------------------------------+
+| surname            | name       | email                              | expertise                          |
++====================+============+====================================+====================================+
+| Pernet	           | Cyril      |	cyril.pernet@ed.ac.uk	             | neuroinformatics, data management  |
+| Katsaros 	         | Vasilis	  | bslkatsaros@gmail.com	             | clinical                           |
+| Mutsaerts 	       |Henk-Jan 	  | henkjanmutsaerts@gmail.com	       | signal processing                  |
+| Benedetta Pizzini  | Francesca 	| francesca.pizzini@aovr.veneto.it	 | clinical                           |
+| Barker	           | Gareth	    | gareth.barker@kcl.ac.uk	           | ethic,  multi-centre trials        |
 | Heunis 	           | Stephan 	  | jsheunis@gmail.com                 | cognitive neuroscience, method, OBC|
 | Herholz            | Peer 	    | herholz.peer@gmail.com             | cognitive neuroscience, method, OBC|
-| Oostenveld	       | Robert	    | r.oostenveld@donders.ru.nl	       | ethic, data management|
-| Broeckx   	       | Nils  	    | nils.broeckx@dewallens-partners.be | law, GDPR|
+| Oostenveld	       | Robert	    | r.oostenveld@donders.ru.nl	       | ethic, data management             |
+| Broeckx   	       | Nils  	    | nils.broeckx@dewallens-partners.be | law, GDPR                          |
++--------------------+------------+------------------------------------+------------------------------------+
