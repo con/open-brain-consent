@@ -127,7 +127,7 @@ Firmando qui sotto, sta accettando di fornire i suoi dati per ricerche future. A
 
 Polish
 ~~~~~~
-(translation courtesy of Karolina Finc, Monika Boruta-Żywiczyńska, and Marcin Koculak)
+(translation courtesy of Karolina Finc, Monika Boruta-Żywiczyńska, and Marcin Koculak; reviewed by Dorota Jarecka)
 
 Dane i próbki zgromadzone w tym badaniu mogą zostać wykorzystane także w innych, przyszłych projektach badawczych, związanych lub niezwiązanych z celami niniejszego badania. Zgromadzone dane, łącznie z danymi z obrazowania mózgu, zostaną zanonimizowane i udostępnione publicznie w ogólnodostępnej internetowej bazie danych. 
 
