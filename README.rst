@@ -52,9 +52,9 @@ Consent form
 Goal minimum
 ~~~~~~~~~~~~
 
-To address this problem we decided to collect :ref:`chap_consent_samples` which have
+To address this problem we collected :ref:`chap_consent_samples` which have
 been previously approved by ethic committees in different
-institutions.  Such samples could serve a basis for introducing
+institutions.  Such samples can be used for
 similar *ad-hoc* consent forms at other institutions so they fulfill
 the desires of any particular committee, while allowing public sharing
 of collected data.
@@ -62,11 +62,9 @@ of collected data.
 Ultimate goal
 ~~~~~~~~~~~~~
 
-Analysis of those might allow us to distill an
-:ref:`chap_consent_ultimate` (or a set of those for different
-use-cases and jurisdictions, and/or guidelines) which would be
-compliant with all regulatory statues, while allowing for open sharing
-and access to the neuroimaging data.
+:ref:`chap_consent_ultimate` and :ref:`chap_consent_ultimate_gdpr`
+were created to provide suggested consent form(s) for different
+use-cases, jurisdictions, and/or guidelines.
 
 If regulated by the same federal/state laws, there is really no
 objective reason why there could be no consensus among IRB committees

@@ -15,12 +15,11 @@ Content
 
    samples.rst
    recommendations.rst
-   discussions.rst
    ultimate.rst
    gdpr/index.rst
    anon_tools.rst
    contribute.rst
-
+   discussions.rst
 
 
 .. include:: ../../README.rst
