@@ -36,7 +36,7 @@ You can withdraw your consent to the use of your personal data at any time. This
 
 Passing on to countries outside the European Union (EU)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Your encoded data can also be accessed by and sent to countries outside the EU. This is necessary so that non-EU based scientists can run analyses to verify the scientific results produced from this study or for future unrelated research in the field of medical and cognitive neuroscience. In those countries, the EU rules on the protection of your personal data do not apply. However, your privacy will be protected at an equal level, by means of a `Data Sharing and Usage Agreement <https://github.com/CPernet/open-brain-consent/blob/GLiMR-workshop/docs/source/data_user_agreement.rst>`_.
+Your encoded data can also be accessed by and sent to countries outside the EU. This is necessary so that non-EU based scientists can run analyses to verify the scientific results produced from this study or for future unrelated research in the field of medical and cognitive neuroscience. In those countries, the EU rules on the protection of your personal data do not apply. However, your privacy will be protected at an equal level, by means of a :ref:`chap_dua`.
 
 More information about your rights when processing data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
