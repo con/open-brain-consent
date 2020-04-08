@@ -6,7 +6,7 @@ Data User Agreement
 .. _Data User Agreement (DUA):
 
 This template is based on the `Donder’s Institute DUA Version RU-DI-HD-1.0. <https://data.donders.ru.nl/doc/dua/RU-DI-HD-1.0.html?2>`_.
-Given that brain imaging data can be used to identify individuals, it is safe to consider them as 'personal data' under the `GDPR <https://gdpr-info.eu/>`_, even after using a pseudo-anonymization procedure like defacing (see our information on `(peudo)anonymization tools <https://github.com/CPernet/open-brain-consent/blob/GLiMR-workshop/docs/source/anon_tools.rst>`_).
+Given that brain imaging data can be used to identify individuals, it is safe to consider them as 'personal data' under the `GDPR <https://gdpr-info.eu/>`_, even after using a pseudo-anonymization procedure like defacing (see our information on :ref:`(peudo)anonymization tools <chap_anonymization_tools>`.
 To allow sharing of such personal data, it is recommended to use a Data User Agreement (DUA) over a license.
 
 General considerations for a Data User Agreement
