@@ -17,9 +17,10 @@ Content
    recommendations.rst
    discussions.rst
    ultimate.rst
-   ultimate_gdpr.rst
-   data_privacy_impact_assessment.rst
-   data_user_agreement.rst
+   gdpr/ultimate_gdpr.rst
+   gdpr/data_privacy_impact_assessment.rst
+   gdpr/data_user_agreement.rst
+   gdpr/credit.rst
    anon_tools.rst
    contribute.rst
 
