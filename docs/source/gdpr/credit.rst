@@ -1,5 +1,5 @@
-The final push to make the GDPR version of the open brain consent took place during a GLiMR workshop (`COST
-<https://www.cost.eu/>`_ action CA18206) the 27th Novembre 2019, COST Association, 149 Avenue Louise, Brussels.
+.. _chap_gdpr_credit:
+
 
 Background
 ==========
