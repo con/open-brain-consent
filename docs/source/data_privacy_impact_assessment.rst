@@ -1,7 +1,7 @@
 .. _chap_dpia:
 
 Data Privacy Impact assessment (DPIA)
-====================================
+=====================================
 
 .. _Data Privacy Impact assessment (DPIA):
 

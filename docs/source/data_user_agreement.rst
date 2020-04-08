@@ -20,6 +20,7 @@ This DUA is meant to be sufficiently restrictive to publicly sharing biomedical 
 
 
 .. _optimal combination:
+
 Data user agreement for accessing identifiable human data
 ---------------------------------------------------------
 
