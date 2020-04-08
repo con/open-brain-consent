@@ -33,11 +33,11 @@ It distinguishes between forms that would typically follow the format required b
 .. image:: /_static/delineating_templates_gdpr.png
 
 In short, the process starts with the institution-based ethics application that explains the study and its purpose, but would typically also include a patient/participant information letter and a consent form for the study of interest.
-These forms then refer to GDPR-specific templates provided here:
+These forms then refer to GDPR-specific templates (provided here or separate documents)
 
-- :ref:`Privacy notice` (a.k.a. the Ultimate consent form - GDPR edition)
-- :ref:`Data Privacy Impact assessment (DPIA)`
-- :ref:`Data User Agreement (DUA)`
+- :ref:`Privacy notice`
+- :ref:`chap_dpia`
+- :ref:`chap_dua`
 
 .. _Privacy notice:
 
