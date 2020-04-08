@@ -1,7 +1,7 @@
 .. _chap_dua:
 
-Data User Agreement Template
-============================
+Data User Agreement
+===================
 
 .. _Data User Agreement (DUA):
 
