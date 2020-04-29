@@ -7,40 +7,38 @@ Make open data sharing a no-brainer for ethics committees.
 Statement of the problem
 ========================
 
-The ideology of open and reproducible science makes its ways into
-various fields of science.  Neuroimaging is a driving force today
-behind many fields of brain sciences.  Despite possibly terabytes of
-neuroimaging data collected for research daily, just a small fraction
-becomes publicly available. Partially it is because management of
-neuroimaging data requires to confirm to established legal norms,
+The ideology of open and reproducible science makes its ways into various fields
+of science.  Neuroimaging is a driving force today behind many fields of brain
+sciences. Despite possibly terabytes of neuroimaging data collected for research
+daily, just a small fraction becomes publicly available. Partially it is because
+management of neuroimaging data requires to confirm to established legal norms,
 i.e. addressing the aspect of research participants privacy.  Those norms are
-usually established by institutional review boards (IRB, or otherwise
-called ethics committees), which are in turn "governed" by the federal
-regulations, such as `45 Code of Federal Regulations Part 46
-<http://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html>`_ in US.
+usually established by institutional review boards (IRB, or otherwise called
+ethics committees), which are in turn "governed" by national, federal and
+supra-national regulations.
 
 Flexibility in interpretation of original regulations established in
 the past century, decentralization of those committees, and lack of a
 "community" influence over them created the problem: **for
-neuroimaging studies there is no commonly accepted version of a
+neuroimaging studies there was no commonly accepted version of a
 Consent form template which would allow for collected imaging data to
 be shared as openly as possible while providing adequate guarantees
 for research participants' privacy**.  In majority of the cases, used Consent forms
-simply do not include **any** provision for public sharing of the data
+simply did not include **any** provision for public sharing of the data
 to get a "speedy" IRB approval for a study.  Situation is particularly
-tricky because major granting agencies (e.g. NIH, NSF) nowadays
+tricky because major granting agencies (e.g. NIH, NSF, RCUK) nowadays
 require public data sharing, but do not provide explicit instructions
 on *how*.
 
 Overall approach
 ================
 
-We would like to facilitate neuroimaging data sharing by providing an "out of
-the box" solution addressing aforementioned human research participants concerns and
-consisting of
+To facilitate neuroimaging data sharing, we providing an "out of
+the box" solution addressing aforementioned human research participants
+concerns and consisting of
 
-- widely acceptable consent form allowing deposition of anonymized data
-  to public data archives
+- widely acceptable consent forms (with various translations) allowing
+  deposition of anonymized data to public data archives
 
 - collection of tools/pipelines to help anonymization of neuroimaging
   data making it ready for sharing
@@ -66,7 +64,7 @@ Ultimate goal
 were created to provide suggested consent form(s) for different
 use-cases, jurisdictions, and/or guidelines.
 
-If regulated by the same federal/state laws, there is really no
+If regulated by the same supra-national/federal/state laws, there is really no
 objective reason why there could be no consensus among IRB committees
 within the same jurisdiction. Although somewhat a utopian statement,
 we hope that with examples/precedent cases and possibly **your**
