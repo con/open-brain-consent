@@ -64,12 +64,12 @@ Translations
 .. toctree::
    :maxdepth: 2
 
-   german.rst
-   greek.rst
-   turkish.rst
-   spanish.rst
-   norwegian.rst
-   italian.rst
-   czech.rst
-   french.rst
-   bosnian.rst
+   i18n/ultimate_gdpr.de.rst
+   i18n/ultimate_gdpr.el.rst
+   i18n/ultimate_gdpr.tr.rst
+   i18n/ultimate_gdpr.ef.rst
+   i18n/ultimate_gdpr.fr.rst
+   i18n/ultimate_gdpr.no.rst
+   i18n/ultimate_gdpr.it.rst
+   i18n/ultimate_gdpr.cs.rst
+   i18n/ultimate_gdpr.bs.rst
