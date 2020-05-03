@@ -36,7 +36,7 @@ We would welcome your feedback  very much, in particular
 
 - what concerns on public sharing of neuroimaging data you might have
   if any identifiable information removed (e.g. skull stripped) and
-  subjects agreed to those terms?
+  research participants agreed to those terms?
 
 - what particular consent form composition and wording aspects would
   you recommend? (e.g. "make it an explicit additional form requiring
