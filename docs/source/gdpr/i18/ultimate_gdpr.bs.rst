@@ -1,4 +1,4 @@
-.. _chap_consent_ultimate_gdpr_ba:
+.. _chap_consent_ultimate_gdpr_bs:
 
 translation courtesy of Dr Amira Serifovic Trbalic
 

@@ -1,4 +1,4 @@
-.. _chap_consent_ultimate_gdpr_cz:
+.. _chap_consent_ultimate_gdpr_cs:
 
 translation courtesy of Dr Radim Jančálek
 

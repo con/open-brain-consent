@@ -1,4 +1,4 @@
-.. _chap_dua_gr:
+.. _chap_dua_el:
 
 translation courtesy of Dr Vasileios K. Katsaros
 

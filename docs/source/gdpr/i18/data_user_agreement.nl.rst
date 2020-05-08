@@ -1,4 +1,4 @@
-.. _chap_dua_be-nl:
+.. _chap_dua_nl:
 
 translation courtesy of Dr Patricia Clement and Dr Henk-Jan Mutsaerts
 

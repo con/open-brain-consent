@@ -1,4 +1,4 @@
-.. _chap_dua_cz:
+.. _chap_dua_cs:
 
 translation courtesy of Dr Radim Jančálek
 

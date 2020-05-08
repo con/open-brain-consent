@@ -1,4 +1,4 @@
-.. _chap_consent_ultimate_gdpr_gr:
+.. _chap_consent_ultimate_gdpr_el:
 
 translation courtesy of Dr Vasileios K. Katsaros
 

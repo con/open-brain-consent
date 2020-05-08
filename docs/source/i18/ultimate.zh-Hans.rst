@@ -1,4 +1,4 @@
-.. _chap_consent_ultimate_cn:
+.. _chap_consent_ultimate_zh-Hans:
 
 中文(Chinese, simplified)
 

@@ -1,4 +1,4 @@
-.. _chap_consent_ultimate_gdpr_be-nl:
+.. _chap_consent_ultimate_gdpr_nl:
 
 translation courtesy of Dr Patricia Clement and Dr Henk-Jan Mutsaerts
 
