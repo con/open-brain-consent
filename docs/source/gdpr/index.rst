@@ -57,7 +57,25 @@ Documents
    ultimate_gdpr.rst
    data_privacy_impact_assessment.rst
    data_user_agreement.rst
-
+   i18/ultimate_gdpr.bs.rst
+   i18/ultimate_gdpr.cs.rst
+   i18/ultimate_gdpr.de.rst
+   i18/ultimate_gdpr.el.rst
+   i18/ultimate_gdpr.es.rst
+   i18/ultimate_gdpr.fr.rst
+   i18/ultimate_gdpr.it.rst
+   i18/ultimate_gdpr.nl.rst
+   i18/ultimate_gdpr.no.rst
+   i18/ultimate_gdpr.tr.rst
+   i18/data_user_agreement.bs.rst
+   i18/data_user_agreement.cs.rst
+   i18/data_user_agreement.el.rst
+   i18/data_user_agreement.es.rst
+   i18/data_user_agreement.fr.rst
+   i18/data_user_agreement.it.rst
+   i18/data_user_agreement.nl.rst
+   i18/data_user_agreement.no.rst
+   i18/data_user_agreement.tr.rst
 
 .. _General Data Protection Regulation: https://ec.europa.eu/info/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules/eu-data-protection-rules_en
 .. _Initial GitHub issue: https://github.com/con/open-brain-consent/issues/24
