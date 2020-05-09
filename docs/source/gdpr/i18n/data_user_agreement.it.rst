@@ -1,6 +1,6 @@
 .. _chap_dua_it:
 
-translation courtesy of Dr Francesca Pizzini
+(translation courtesy of Dr Francesca Pizzini)
 
 DUA per l'accesso a dati umani identificabili
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

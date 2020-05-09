@@ -1,6 +1,6 @@
 .. _chap_dua_tr:
 
-translation courtesy of Dr. Esin Öztürk Işık
+(translation courtesy of Dr. Esin Öztürk Işık)
 
 Tanımlanabilir insan verilerine erişmek için veri kullanıcı sözleşmesi
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

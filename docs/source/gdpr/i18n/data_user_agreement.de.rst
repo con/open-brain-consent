@@ -1,6 +1,6 @@
 .. _chap_dua_de:
 
-translation courtesy of Dr Vera Keil
+(translation courtesy of Dr Vera Keil)
 
 Vereinbarung über den Zugriff auf identifizierbare menschliche Daten
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

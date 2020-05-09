@@ -1,6 +1,6 @@
 .. _chap_dua_cs:
 
-translation courtesy of Dr Radim Jančálek
+(translation courtesy of Dr Radim Jančálek)
 
 Dohoda o užívání dat pro přístup k identifikovatelným lidským údajům
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

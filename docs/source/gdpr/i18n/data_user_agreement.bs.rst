@@ -1,6 +1,6 @@
 .. _chap_dua_bs:
 
-translation courtesy of Dr Amira Serifovic Trbalic
+(translation courtesy of Dr Amira Serifovic Trbalic)
 
 Ugovor sa korisnikom podataka za pristup prepoznatljivim ljudskim podacima
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

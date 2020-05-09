@@ -1,6 +1,6 @@
 .. _chap_dua_es:
 
-translation courtesy of Dr Maria de la Iglesia
+(translation courtesy of Dr Maria de la Iglesia)
 
 Acuerdo de usuario de datos para acceder a datos humanos identificables
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

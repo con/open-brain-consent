@@ -1,6 +1,6 @@
 .. _chap_dua_el:
 
-translation courtesy of Dr Vasileios K. Katsaros
+(translation courtesy of Dr Vasileios K. Katsaros)
 
 Συμφωνία χρήστη δεδομένων για την πρόσβαση σε αναγνωρίσιμα ανθρώπινα δεδομένα
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
