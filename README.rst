@@ -54,7 +54,7 @@ of collected data.
 Ultimate Consent Forms
 ======================
 
-:ref:`chap_consent_ultimate` and :ref:`chap_consent_ultimate_gdpr`
+:ref:`chap_consent_ultimate` and :ref:`chap_gdpr_documents`
 were created to provide suggested consent form(s) for different
 use-cases, jurisdictions, and/or guidelines.
 

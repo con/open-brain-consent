@@ -48,8 +48,10 @@ In short, the process starts with the institution-based ethics application that 
 These forms then refer to GDPR-specific templates (provided here or separate documents).
 
 
-Documents
----------
+.. _chap_gdpr_documents:
+
+GDPR Documents
+--------------
 
 .. toctree::
    :maxdepth: 2
