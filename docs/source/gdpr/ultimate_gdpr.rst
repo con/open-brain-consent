@@ -5,7 +5,7 @@ Ultimate consent form - GDPR edition
 ====================================
 
 English
---------
+-------
 
 Instructions
 ~~~~~~~~~~~~
@@ -54,3 +54,19 @@ If you have questions or complaints about the processing of your personal data, 
 - Date:
 - Collected by:
 - Signature:
+
+Translations
+------------
+
+.. toctree::
+   :maxdepth: 2
+
+   i18n/ultimate_gdpr.bs.rst
+   i18n/ultimate_gdpr.cs.rst
+   i18n/ultimate_gdpr.de.rst
+   i18n/ultimate_gdpr.el.rst
+   i18n/ultimate_gdpr.es.rst
+   i18n/ultimate_gdpr.fr.rst
+   i18n/ultimate_gdpr.it.rst
+   i18n/ultimate_gdpr.no.rst
+   i18n/ultimate_gdpr.tr.rst

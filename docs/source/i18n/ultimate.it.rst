@@ -1,6 +1,8 @@
 .. _chap_consent_ultimate_it:
 
-translation courtesy of Valentina Borghesani and Matteo Visconti di Oleggio Castello
+Italian
+~~~~~~~
+(translation courtesy of Valentina Borghesani and Matteo Visconti di Oleggio Castello)
 
 Single access type version (all data shared publicly; recommended)
 ------------------------------------------------------------------

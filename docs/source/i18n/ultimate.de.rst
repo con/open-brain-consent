@@ -1,6 +1,8 @@
 .. _chap_consent_ultimate_de:
 
-translation courtesy of Sara Fernández
+German
+~~~~~~
+(translation courtesy of Sara Fernández)
 
 Single access type version (all data shared publicly; recommended)
 ------------------------------------------------------------------

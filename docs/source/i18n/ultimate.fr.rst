@@ -1,6 +1,9 @@
 .. _chap_consent_ultimate_fr:
 
-translation courtesy of Cyril Pernet, Camille Maumet, and Clara Moreau
+French
+~~~~~~
+(translation courtesy of Cyril Pernet, Camille Maumet, and Clara Moreau)
+
 
 Single access type version (all data shared publicly; recommended)
 ------------------------------------------------------------------

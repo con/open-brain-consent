@@ -1,6 +1,8 @@
 .. _chap_consent_ultimate_gdpr_de:
 
-translation courtesy of Dr Vera Keil
+German
+------
+(translation courtesy of Dr Vera Keil)
 
 Die aktuelle Version der endgültigen Einverständniserklärung (GDPR-Ausgabe) ist unten angegeben. Diese enthält GDPR-spezifische Formulierungen, die sich auf die Auswirkungen auf die Privatsphäre aufgrund der Absicht der Verarbeitung und Weitergabe der Daten des Teilnehmers beziehen. Als solches wird dies als das Formular für die Datenschutzerklärung angesehen. Die informierte Einwilligung ("informed consent") zur Teilnahme an der Studie wird für den Teilnehmer weiterhin im Haupt-Einwilligungsformular festgehalten. Das Formular enthält einige Sätze in eckigen Klammern [], was darauf hinweist, dass sie je nach Ihrer örtlichen Gesetzgebung und Ethikkommission entfernt und/oder ersetzt werden können.
 

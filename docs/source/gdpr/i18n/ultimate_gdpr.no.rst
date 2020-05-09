@@ -1,6 +1,8 @@
 .. _chap_consent_ultimate_gdpr_no:
 
-translation courtesy of of Dr. Kyrre E. Emblem
+Norwegian
+----------
+(translation courtesy of Dr. Kyrre E. Emblem)
 
 Nåværende versjon av det generelle samtykkeskjemaet (GDPR versjon) er vist nedenfor. Dette samtykket omhandler personvernmessige forhold i tråd med GDPR, og med det formål å dele og behandle studiedeltakerens data. Merk at informert samtykke som bekrefter deltakelse i studien vil uansett være registrert i det studiespesifikke samtykkeskjemaet. Det generelle samtykkeskjemaet inneholder også noen setninger i hakeparenteser [], som indikerer at disse kan fjernes og / eller erstattes avhengig av lokale retningslinjer og krav fra regional etiske komité.
 

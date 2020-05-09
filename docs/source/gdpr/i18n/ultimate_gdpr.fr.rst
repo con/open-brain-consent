@@ -1,6 +1,8 @@
 .. _chap_consent_ultimate_gdpr_fr:
 
-translation courtesy of Anne Hespel and Dr Elise Bannier
+French
+------
+(translation courtesy of Anne Hespel and Dr Elise Bannier)
 
 La version en vigueur du formulaire de consentement au partage des données à caractère personnel est présentée ci-dessous. Elle suit une formulation spécifique au RGPD qui concerne les impacts en matière de protection de la vie privée pour le partage des données du participant à une recherche relevant du domaine des neurosciences médicales et cognitives en vue de les analyser. Ce document représente un engagement de confidentialité du responsable de traitement envers le participant à l’étude. Le consentement de participation à l'étude constitue un consentement à part enregistré pour le participant comme formulaire de consentement principal. Le formulaire de partage comprend quelques phrases entre crochets [ ], ce qui indique qu'elles peuvent être supprimées et/ou remplacées en fonction de la législation locale et du comité d'éthique.
 

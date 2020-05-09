@@ -1,6 +1,7 @@
-.. _chap_consent_ultimate_zh-Hans:
+.. _chap_consent_ultimate_zh:
 
 中文(Chinese, simplified)
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 translated by: Fengjuan Wang, Hua Zhu with contributions from Cheng Wang; Proofread: Yue Hu, Chuan-Peng Hu, Feilong Ma
 (翻译：王凤娟、朱桦；校对：胡悦、胡传鹏)

@@ -1,6 +1,9 @@
 .. _chap_consent_ultimate_es:
 
-translation courtesy of María de la Iglesia Vayá & Nicolas Pascual Leone Espinosa
+Spanish
+~~~~~~~
+(translation courtesy of María de la Iglesia Vayá & Nicolas Pascual Leone Espinosa)
+
 
 Single access type version (all data shared publicly; recommended)
 ------------------------------------------------------------------

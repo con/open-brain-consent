@@ -1,6 +1,8 @@
 .. _chap_consent_ultimate_pl:
 
-translation courtesy of Karolina Finc, Monika Boruta-Żywiczyńska, and Marcin Koculak; reviewed by Dorota Jarecka
+Polish
+~~~~~~
+(translation courtesy of Karolina Finc, Monika Boruta-Żywiczyńska, and Marcin Koculak; reviewed by Dorota Jarecka)
 
 Single access type version (all data shared publicly; recommended)
 ------------------------------------------------------------------
