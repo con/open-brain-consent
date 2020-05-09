@@ -30,9 +30,6 @@ tricky because major granting agencies (e.g. NIH, NSF, RCUK) nowadays
 require public data sharing, but do not provide explicit instructions
 on *how*.
 
-Overall approach
-================
-
 To facilitate neuroimaging data sharing, we providing an "out of
 the box" solution addressing aforementioned human research participants
 concerns and consisting of
@@ -44,11 +41,8 @@ concerns and consisting of
   data making it ready for sharing
 
 
-Consent form
-------------
-
-Goal minimum
-~~~~~~~~~~~~
+Sample Consent Forms
+====================
 
 To address this problem we collected :ref:`chap_consent_samples` which have
 been previously approved by ethic committees in different
@@ -57,8 +51,8 @@ similar *ad-hoc* consent forms at other institutions so they fulfill
 the desires of any particular committee, while allowing public sharing
 of collected data.
 
-Ultimate goal
-~~~~~~~~~~~~~
+Ultimate Consent Forms
+======================
 
 :ref:`chap_consent_ultimate` and :ref:`chap_consent_ultimate_gdpr`
 were created to provide suggested consent form(s) for different
@@ -71,7 +65,7 @@ we hope that with examples/precedent cases and possibly **your**
 enthusiastic involvement we cold achieve our goal.
 
 Anonymization
---------------
+=============
 
 Data must be de-identified before distribution.  We will collect
 information on :ref:`existing <chap_anonymization_tools>` and

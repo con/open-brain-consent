@@ -7,8 +7,8 @@
    :end-before: link list
 
 
-Content
-=======
+Content table
+=============
 
 .. toctree::
    :maxdepth: 3
