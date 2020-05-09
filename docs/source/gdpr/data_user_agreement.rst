@@ -34,3 +34,21 @@ By accepting this agreement, I become the `data controller <https://ec.europa.eu
 4. [OPTIONAL] When sharing secondary or derivative data (e.g. group statistical maps or templates), I will only do so if they are on a group level, and cannot be deduced information from individual participants.
 5. I will reference the specific source of the accessed data when publicly presenting any results or algorithms that benefited from their use: (a) Papers, book chapters, books, posters, oral presentations, and all other presentations of results derived from the data should acknowledge the origin of the data as follows: "Data were provided (in part) by <Research centre/University Department> <University, Country>”. (b) Authors of publications or presentations using the data should cite relevant publications describing the methods developed and used by the <Research centre/University Department> to acquire and process the data. The specific publications that are appropriate to cite in any given study will depend on what the data were used and for what purposes. When applicable, a list of publications will be included in the collection. (c) Neither the <Research centre/University Department> or <University>, nor the researchers that provide this data will be liable for any results and/or derived data. They shall not be included as an author of publications or presentations without consent.
 6. Failure to abide by these guidelines will result in termination of my privileges to access these data.
+
+
+Translations
+------------
+
+.. toctree::
+   :maxdepth: 1
+
+   i18n/data_user_agreement.bs.rst
+   i18n/data_user_agreement.cs.rst
+   i18n/data_user_agreement.de.rst
+   i18n/data_user_agreement.el.rst
+   i18n/data_user_agreement.es.rst
+   i18n/data_user_agreement.fr.rst
+   i18n/data_user_agreement.it.rst
+   i18n/data_user_agreement.nl.rst
+   i18n/data_user_agreement.no.rst
+   i18n/data_user_agreement.tr.rst

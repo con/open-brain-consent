@@ -59,7 +59,7 @@ Translations
 ------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    i18n/ultimate_gdpr.bs.rst
    i18n/ultimate_gdpr.cs.rst
@@ -68,5 +68,6 @@ Translations
    i18n/ultimate_gdpr.es.rst
    i18n/ultimate_gdpr.fr.rst
    i18n/ultimate_gdpr.it.rst
+   i18n/ultimate_gdpr.nl.rst
    i18n/ultimate_gdpr.no.rst
    i18n/ultimate_gdpr.tr.rst
