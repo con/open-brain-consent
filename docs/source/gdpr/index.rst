@@ -69,6 +69,7 @@ Documents
    i18n/ultimate_gdpr.tr.rst
    i18n/data_user_agreement.bs.rst
    i18n/data_user_agreement.cs.rst
+   i18n/data_user_agreement.de.rst
    i18n/data_user_agreement.el.rst
    i18n/data_user_agreement.es.rst
    i18n/data_user_agreement.fr.rst

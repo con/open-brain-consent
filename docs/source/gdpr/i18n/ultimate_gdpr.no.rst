@@ -20,19 +20,19 @@ Tilgang til dataene dine ved tilsyn
 Ved behov for en uavhengig kontroll, vil enkelte personer trenge tilgang til dataene dine slik de er oppbevart ved institusjonen som utførte forskningen, inkludert alle originaldata som også inneholder navnet ditt. Dette er nødvendig for å sjekke om studien er gjennomført på en god og forsvarlig måte, og for å kunne ha mulighet til å varsle deg og legen din i tilfelle det oppdages tilfeldige funn som følge av undersøkelsen. Personer som har tilgang til dataene dine for en slik gjennomgang er: den lokale komiteen som overvåker sikkerheten i studien, datakontrolløren [ved INSTITUSJONEN] i den opprinnelige forskningsstudien, og lokale, nasjonale eller internasjonale tilsynsmyndigheter. Disse personene vil til enhver tid holde dataene dine konfidensielle i henhold til nasjonale retningslinjer og lovverk.
 
 Hvor lenge dataene dine blir oppbevart
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Det foreligger ingen plan om å slette dataene dine så lenge de kan gjenbrukes til ny forskning som følger de samme forskningsetiske kriterier. Vi vil vurdere hvorvidt data skal oppbevares videre hvert [antall år].
 
 Mulighet for å trekke sitt samtykke
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Du står til enhver tid fritt til å trekke tilbake samtykket ditt uten å oppgi grunn. Dette gjelder både for nåværende studier og potensielle fremtidige forskningsstudier. Unntakene er kun hvis forskningsdataene dine allerede er delt med andre institusjoner, anonymisert eller brukt i vitenskapelige publikasjoner.
 
 Utlevering av data til land utenfor den Europeiske Union (EU)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Hvis du godtar å delta i denne studien, godtar du også at dine avidentifiserte forskningsdata kan overføres til andre prosjektdeltakere eller en server i Norge eller utlandet, herunder også til land utenfor EU/EØS. Disse mottakerne kan være lokalisert i et land med lover som ikke har samme standarder som europeisk lovverk. Dette tiltaket er ønskelig slik at forskere utenfor EU kan utføre analyser på dataene dine for å bekrefte tidligere funn, samt utføre ny og uavhengig forskning innen nevrovitenskap. Ditt personvern vil være beskyttet på lik linje med alle andre forskningsdeltakere i henhold til følgende dokument (engelsk): Data Sharing and Usage Agreement.
 
 Utfyllende informasjon om dine rettigheter som forskningsdeltaker
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 For generell informasjon om dine rettigheter som forskningsdeltaker kan du kontakte personvernombudet ved institusjonen hvor forskningen er utført, alternativt kontakte Datatilsynet eller gå inn på hjemmesiden til [regional forskningskomite]: https://rekportalen.no/
 
 Du har rett til å klage på behandlingen av dine opplysninger. Har du ytterligere spørsmål om dine rettigheter, eller vil klage på behandlingen av disse, vennligst kontakt personen som står oppført på samtykkeskjema du har signert. For denne studier er dette [navn] (se vedlegg for kontaktinformasjon).

@@ -21,11 +21,11 @@ Doğrulama için verilerinize erişim
 Bazı kişiler, adınızla birlikte orijinal veriler de dahil olmak üzere, araştırma yerindeki tüm verilerinize erişebilir. Bu, çalışmanın iyi ve güvenilir bir şekilde yürütülüp yürütülmediğini kontrol etmek ve beyin taramalarınızdan kaynaklanan rastlantısal bulgular olması durumunda sizi ve doktorunuzu bilgilendirmek için gereklidir. İncelemek üzere verilerinize erişimi olan kişiler: çalışmanın güvenliğini izleyen yerel komite, çalışmanın yürütücüsü için çalışan veri denetleyicisi [XXX Üniversitesi] ve yerel, ulusal ve uluslararası yönetim makamlarıdır. Bu kişiler verilerinizi gizli tutacaklardır.
 
 Verilerinizin saklanma süresi
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Meşru araştırma çalışmalarında tekrar kullanılabileceğinden verilerinizi silme planı yoktur. Ancak, her [xxx yılda bir] saklanmaya değer olup olmadığını yeniden değerlendireceğiz.
 
 Onayı geri çekme
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
 Kişisel verilerinizin kullanımına ilişkin izninizi istediğiniz zaman geri alabilirsiniz. Bu durum, hem bu çalışma hem de gelecekteki araştırmalar için paylaşımında geçerlidir. Ancak, diğer kurumlarla paylaşıldıktan sonra, verilerinizin bu kopyalarını kaldırmanın imkansız olduğunu anlamalısınız.
 
 Avrupa Birliği (AB) dışındaki ülkelere iletim
@@ -33,7 +33,7 @@ Avrupa Birliği (AB) dışındaki ülkelere iletim
 Kodlanan verileriniz, AB dışındaki ülkelerden de erişilebilir, veya bu ülkelere gönderilebilir. Bu, AB üyesi olmayan bilim adamlarının bu çalışmadan elde edilen bilimsel sonuçları doğrulaması veya tıbbi ve bilişsel sinirbilim alanında gelecekteki başka araştırmalar için analizler yapabilmeleri için gereklidir. Bu ülkelerde, kişisel verilerinizin korunmasına ilişkin AB kuralları geçerli değildir. Ancak, bir Veri Paylaşımı ve Kullanım Sözleşmesi ile, gizlilik haklarınız eşit düzeyde korunacaktır.
 
 Verileri işlerken haklarınız hakkında daha fazla bilgi
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Kişisel verilerinizi işlerken sahip olduğunuz haklar hakkında genel bilgi için [xxx] Veri Koruma Kurumu'nun web sitesine başvurabilirsiniz.
 
 Haklarınızla ilgili sorularınız varsa, lütfen kişisel verilerinizin işlenmesinden sorumlu kişiyle iletişime geçin. Bu çalışma için, bu kişi:
