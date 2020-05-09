@@ -1,5 +1,7 @@
 .. _chap_dua_fr:
 
+French
+------
 (translation courtesy of Anne Hespel and Dr Elise Bannier)
 
 Engagement de l'utilisateur des données pour l'accès à des données personnelles directement ou indirectement identifiantes

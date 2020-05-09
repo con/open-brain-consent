@@ -1,5 +1,7 @@
 .. _chap_dua_bs:
 
+Bosnian
+-------
 (translation courtesy of Dr Amira Serifovic Trbalic)
 
 Ugovor sa korisnikom podataka za pristup prepoznatljivim ljudskim podacima

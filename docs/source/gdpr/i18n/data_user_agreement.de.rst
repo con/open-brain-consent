@@ -1,5 +1,7 @@
 .. _chap_dua_de:
 
+German
+------
 (translation courtesy of Dr Vera Keil)
 
 Vereinbarung über den Zugriff auf identifizierbare menschliche Daten

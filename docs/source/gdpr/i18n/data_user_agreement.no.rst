@@ -1,5 +1,7 @@
 .. _chap_dua_no:
 
+Norwegian
+---------
 (translation courtesy of of Dr. Kyrre E. Emblem)
 
 Databehandleravtale for tilgang til personsensitive data

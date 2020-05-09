@@ -19,6 +19,9 @@ This DUA is meant to be sufficiently restrictive to publicly sharing biomedical 
 - Related to point 4, you could specify how credits and acknowledgements are to be handled. For instance, if someone uses a template that was built by a researcher or group of researchers who used your data, do you want to be acknowledged as well.
 
 
+English
+-------
+
 .. _optimal combination:
 
 Data user agreement for accessing identifiable human data

@@ -1,5 +1,7 @@
 .. _chap_dua_cs:
 
+Czech
+-----
 (translation courtesy of Dr Radim Jančálek)
 
 Dohoda o užívání dat pro přístup k identifikovatelným lidským údajům
