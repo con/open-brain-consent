@@ -20,12 +20,12 @@ Content
    anon_tools.rst
    contribute.rst
    discussions.rst
-   i18/ultimate.de.rst
-   i18/ultimate.es.rst
-   i18/ultimate.fr.rst
-   i18/ultimate.it.rst
-   i18/ultimate.pl.rst
-   i18/ultimate.zh-Hans.rst
+   i18n/ultimate.de.rst
+   i18n/ultimate.es.rst
+   i18n/ultimate.fr.rst
+   i18n/ultimate.it.rst
+   i18n/ultimate.pl.rst
+   i18n/ultimate.zh-Hans.rst
 
 .. include:: ../../README.rst
    :start-after: link list
