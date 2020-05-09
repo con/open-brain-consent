@@ -13,7 +13,7 @@ Despite the increased importance that funders and institutions are currently pla
 Our goal is to share community-contributed templates for consent forms and other documentation required for ethical approval of brain research data processing and sharing under the GDPR.
 
 History and links
------------------
+~~~~~~~~~~~~~~~~~
 Several people and groups have contributed to this project over the past years.
 Below are some links pointing to events/initiatives where work was done on the templates.
 
@@ -35,7 +35,7 @@ More info:
 
 
 Summary of GDPR-related updates
--------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Several forms are typically necessary when applying for approval from an ethical review board to conduct and share brain imaging research.
 This includes (but is not limited to) the study protocol, a patient or participant information letter, a consent form, and extra information.
 While the types and formats of these forms vary between countries and institutions, the GDPR requires attention to specific details that are mostly standard across EU member states.
@@ -48,8 +48,10 @@ In short, the process starts with the institution-based ethics application that 
 These forms then refer to GDPR-specific templates (provided here or separate documents).
 
 
-Documents
----------
+.. _chap_gdpr_documents:
+
+GDPR Documents
+--------------
 
 .. toctree::
    :maxdepth: 2
@@ -57,7 +59,6 @@ Documents
    ultimate_gdpr.rst
    data_privacy_impact_assessment.rst
    data_user_agreement.rst
-
 
 .. _General Data Protection Regulation: https://ec.europa.eu/info/priorities/justice-and-fundamental-rights/data-protection/2018-reform-eu-data-protection-rules/eu-data-protection-rules_en
 .. _Initial GitHub issue: https://github.com/con/open-brain-consent/issues/24

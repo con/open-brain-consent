@@ -7,8 +7,8 @@
    :end-before: link list
 
 
-Content
-=======
+Content table
+=============
 
 .. toctree::
    :maxdepth: 3
@@ -16,11 +16,18 @@ Content
    samples.rst
    recommendations.rst
    ultimate.rst
+
+.. toctree::
+   :maxdepth: 4
+
    gdpr/index.rst
+
+.. toctree::
+   :maxdepth: 3
+
    anon_tools.rst
    contribute.rst
    discussions.rst
-
 
 .. include:: ../../README.rst
    :start-after: link list
