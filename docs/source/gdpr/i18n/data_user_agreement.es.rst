@@ -7,6 +7,8 @@ Spanish
 Acuerdo de usuario de datos para acceder a datos humanos identificables
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+**Version:** OBC-GDPR-DUA.es 1.0.0
+
 Solicito el acceso a los datos recogidos en el depósito digital del <DEPARTAMENTO>, parte de la <INSTITUCIÓN>, establecido en <CIUDAD>, <PAÍS> (en lo sucesivo, el <Nombre corto de la INSTITUCIÓN>).
 
 Al aceptar este acuerdo, me convierto en el responsable o encargado del tratamiento (según la definición de la RGPD) de los datos a los que tengo acceso, y soy responsable de que acceda a estos datos bajo los siguientes términos:

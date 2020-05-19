@@ -7,6 +7,8 @@ Dutch
 Tanımlanabilir insan verilerine erişmek için veri kullanıcı sözleşmesi
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+**Version:** OBC-GDPR-DUA.nl 1.0.0
+
 <ŞEHİR>, <ÜLKE>'de kurulmuş olan <KURUM>’una bağlı <BÖLÜM>’ün (bundan sonra <KURUM KISA ADI> olarak anılacaktır) dijital deposunda toplanan verilere erişim istiyorum.
 
 Bu sözleşmeyi kabul ederek, erişim hakkım olan verilerin veri denetleyicisi (GDPR altında tanımlandığı gibi) haline geliyorum ve bu verilere aşağıdaki şartlar altında erişmekten sorumluyum:

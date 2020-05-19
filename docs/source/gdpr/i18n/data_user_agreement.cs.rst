@@ -7,6 +7,8 @@ Czech
 Dohoda o užívání dat pro přístup k identifikovatelným lidským údajům
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+**Version:** OBC-GDPR-DUA.cs 1.0.0
+
 Žádám o přístup k údajům shromážděným v digitálním úložišti <ODDĚLENÍ>, která je součástí <INSTITUCE>, zřízená v <MĚSTO>, <STÁT> (dále uvedený jako <ZKRATKA INSTITUCE>).
 
 Přijetím této dohody se stávám správcem údajů (podle definice GDPR), ke kterým mám přístup, a jsem zodpovědný za to, že k těmto údajům přistupuji za následujících podmínek:

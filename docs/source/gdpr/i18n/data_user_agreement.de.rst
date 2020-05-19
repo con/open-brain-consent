@@ -7,6 +7,8 @@ German
 Vereinbarung über den Zugriff auf identifizierbare menschliche Daten
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+**Version:** OBC-GDPR-DUA.de 1.0.0
+
 Ich beantrage Zugang zu den Daten, die im digitalen Repository des <DEPARTMENT>, Teil der <INSTITUTION>, eingerichtet unter <CITY>, <COUNTRY> (im Folgenden als <INSTITUTION SHORTNAME> bezeichnet) gesammelt wurden.
 
 Durch die Annahme dieser Vereinbarung werde ich zum Datenverantwortlichen (wie im GDPR definiert) für die Daten, zu denen ich Zugang habe, und bin dafür verantwortlich, dass ich unter den folgenden Bedingungen auf diese Daten zugreife:
