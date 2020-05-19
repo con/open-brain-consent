@@ -7,6 +7,8 @@ Italian
 Single access type version (all data shared publicly; recommended)
 ------------------------------------------------------------------
 
+**Version:** OBC-ULT.it 1.0.0
+
 I dati ed i campioni raccolti in questo studio potrebbero essere utilizzati in futuro per altri progetti di ricerca oltre allo studio a cui sta attualmente prendendo parte. Tali ricerche potranno riguardare qualsiasi argomento, non necessariamente collegato a quello dello studio cui sta partecipando. I dati raccolti, inclusi i risultati dei metodi di neuroimaging adottati, saranno condivisi attraverso una piattaforma online ed una banca dati accessibile pubblicamente.
 
 I dati che verranno condivisi pubblicamente non saranno associati al suo nome, ma solo ad un codice numerico, in modo tale che nessuno possa identificarla o sapere quali sono i suoi dati. Inoltre, al meglio delle nostre conoscenze, non condivideremo altre informazioni che potrebbero essere usate per risalire a quali sono i suoi dati.

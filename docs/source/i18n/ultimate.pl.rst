@@ -7,6 +7,8 @@ Polish
 Single access type version (all data shared publicly; recommended)
 ------------------------------------------------------------------
 
+**Version:** OBC-ULT.pl 1.0.0
+
 Dane i próbki zgromadzone w tym badaniu mogą zostać wykorzystane także w innych, przyszłych projektach badawczych, związanych lub niezwiązanych z celami niniejszego badania. Zgromadzone dane, łącznie z danymi z obrazowania mózgu, zostaną zanonimizowane i udostępnione publicznie w ogólnodostępnej internetowej bazie danych.
 
 Anonimizacja oznacza, że dane, które udostępnimy w internetowej bazie danych, nie będą zawierały Twojego imienia i nazwiska, a jedynie kod uczestnika badania, co uniemożliwi bezpośrednią identyfikację Twojej osoby. Dzięki temu osoby trzecie nie będą mogły ustalić Twojej tożsamości ani określić, które dane należą do Ciebie. Ponadto, nie będziemy udostępniać żadnych innych informacji, takich jak rysy twarzy czy data wykonania Twojego badania, które mogłyby pomóc osobom znającym Cię w odgadnięciu, które spośród zgromadzonych danych dotyczą Ciebie.

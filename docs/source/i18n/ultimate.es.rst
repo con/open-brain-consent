@@ -8,6 +8,8 @@ Spanish
 Single access type version (all data shared publicly; recommended)
 ------------------------------------------------------------------
 
+**Version:** OBC-ULT.es 1.0.0
+
 Los datos y las muestras de este estudio puede que se usen para otros futuros proyectos de investigación además del estudio en que usted está participando actualmente. Esos futuros proyectos pueden estar enfocados en cualquier otra temática y puede que sean irrelevantes a los objetivos de este estudio preliminar. Le daremos acceso a los datos que estamos recogiendo, incluyendo los datos de imágenes vía internet y a un base de datos completamente en abierto.
 
 Los datos que compartimos con el público general no contendrán su nombre, solo un numero de código que no le identifican, las personas no sabrán ni su nombre ni que los datos son suyos. Además, no compartiremos ninguna otra

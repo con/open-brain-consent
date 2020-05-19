@@ -8,6 +8,8 @@ French
 Single access type version (all data shared publicly; recommended)
 ------------------------------------------------------------------
 
+**Version:** OBC-ULT.fr 1.0.0
+
 Les données et les échantillons de l’étude à laquelle vous participez actuellement pourraient être utilisés pour d’autres projets de recherche futurs. Ces futurs projets peuvent concerner un sujet sans rapport avec les objectifs de l’étude en cours. Nous donnerons accès aux données que nous recueillons, y compris les données d'imagerie, au grand public via Internet sur une base de données complètement ouverte.
 
 Les données que nous partagerons avec le grand public ne seront pas identifiables et n’auront seulement qu’un numéro de code, de telle sorte que personne ne saura votre nom ou quelles données sont les vôtres. De plus, compte-tenu de nos connaissances, nous pensons que nous ne partagerons aucune autre information qui pourrait aider les gens à identifier vos données.
@@ -26,6 +28,8 @@ En signant ci dessous, vous acceptez de fournir vos données pour des recherches
 
 Two access types version (some data shared publicly, more data shared to approved researchers)
 ----------------------------------------------------------------------------------------------
+
+**Version:** OBC-ULT.fr 1.0.0
 
 Les données et les échantillons de l’étude à laquelle vous participez actuellement pourraient être utilisés pour d’autres projets de recherche futurs. Ces futurs projets peuvent concerner un sujet sans rapport avec les objectifs de l’étude en cours. Nous donnerons accès aux données que nous recueillons, y compris les données d'imagerie, au grand public via Internet sur une base de données complètement ouverte.
 
