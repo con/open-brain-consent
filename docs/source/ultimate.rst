@@ -11,6 +11,8 @@ English
 Single access type version (all data shared publicly; recommended)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+**Version:** OBC-ULT 1.0.0
+
 The data and samples from this study might be used for other, future research projects in addition to the study you are currently participating in. Those future projects can focus on any topic that might be unrelated to the goals of this study. We will give access to the data we are collecting, including the imaging data, to the general public via the Internet and a fully open database.
 
 The data we share with the general public will not have your name on it, only a code number, so people will not know your name or which data are yours. In addition, we will not share any other information that we think might help people who know you guess which data are yours.
@@ -30,6 +32,8 @@ By signing below, you agree to provide your data for future research. You agree 
 
 Two access types version (some data shared publicly, more data shared to approved researchers)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Version:** OBC-ULT-2T 1.0.0
 
 The data and samples from this study might be used for other, future research projects in addition to the study you are currently participating in. Those future projects can focus on any topic and might be unrelated to the goals of this study. We will give access to some of the data, including the imaging data, to the general public via the Internet and a fully open database. The data we will share publicly are limited to <explain what will you share publicly>. Additionally we will make all of our data available to other investigators through a controlled access database. To minimize risks to your privacy, a committee of experts will carefully review every data request from other scientists before allowing them to use this controlled access database, in order to make sure they can also protect your personal information. These other investigators may be at <your institution> or at other research centers (academic or commercial) around the world.
 
