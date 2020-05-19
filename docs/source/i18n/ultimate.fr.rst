@@ -29,7 +29,7 @@ En signant ci dessous, vous acceptez de fournir vos données pour des recherches
 Two access types version (some data shared publicly, more data shared to approved researchers)
 ----------------------------------------------------------------------------------------------
 
-**Version:** OBC-ULT.fr 1.0.0
+**Version:** OBC-ULT-2T.fr 1.0.0
 
 Les données et les échantillons de l’étude à laquelle vous participez actuellement pourraient être utilisés pour d’autres projets de recherche futurs. Ces futurs projets peuvent concerner un sujet sans rapport avec les objectifs de l’étude en cours. Nous donnerons accès aux données que nous recueillons, y compris les données d'imagerie, au grand public via Internet sur une base de données complètement ouverte.
 

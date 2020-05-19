@@ -35,7 +35,8 @@ Single access type version (all data shared publicly; recommended)
 Two access types version (some data shared publicly, more data shared to approved researchers)
 -----------------------------------------------------------------------------------------------
 
-**Version:** OBC-ULT.zh 1.0.0
+**Version:** OBC-ULT-2T.zh 1.0.0
+
 两种访问类型版本（仅部分数据共享给公众，更多数据共享给被批准的研究者）
 
 
