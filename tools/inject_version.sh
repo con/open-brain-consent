@@ -36,7 +36,7 @@ shift
 
 for f in "$@"; do
 	# First inject the marker if not present at all
-	grep -q -e "$ver_marker" "$f" || sed -e "s,\(-----------\)$,\1\n\n$ver_marker ,g" -i "$f"
+	grep -q -e "$ver_marker" "$f" || sed -e "s,\(~~~~~~~~~\)$,\1\n\n$ver_marker ,g" -i "$f"
 	# Now replace existing version with desired value but also adding the language
 	# if that one was defined in the $version provided
 	lang=$(echo "$f" | sed -ne '/i18n/s,.*\.\([a-z][-a-z]*\)\.rst,\1,gp')
