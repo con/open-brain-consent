@@ -7,6 +7,8 @@ Italian
 DUA per l'accesso a dati umani identificabili
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+**Version:** OBC-GDPR-DUA.it 1.0.0
+
 Richiedo l'accesso ai dati raccolti nell’archivio digitale del <DIPARTIMENTO>, parte dell’<ISTITUZIONE>, situata nella <CITTA’>, <NAZIONE> (di seguito denominato <ABBREVIAZIONE DELL’ISTITUZIONE>).
 
 Accettando questo accordo, divento il responsabile del trattamento dei dati (come definito dal GDPR) a cui ho accesso e sono responsabile dell’accesso a questi dati nei seguenti termini:

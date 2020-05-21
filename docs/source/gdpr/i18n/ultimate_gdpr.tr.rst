@@ -4,6 +4,8 @@ Turkish
 -------
 (translation courtesy of Dr. Esin Öztürk Işık)
 
+**Version:** OBC-GDPR-ULT.tr 1.0.0
+
 Nihai onay formunun (GDPR basımı) geçerli versiyonu aşağıda verilmiştir. Bu form, katılımcının verilerini işleme ve paylaşma niyetine bağlı gizlilik sonuçlarıyla ilgili GDPR'ye özel ifadeler içerir. Bu nedenle, bu bir Gizlilik Bildirimi formu olarak görülür. Katılımcıların çalışmaya katılması için gereken aydınlatılmış onam hala ana onam formunda kaydedilir. Formda, köşeli parantez [] içinde, yerel yasalara ve etik kurulunuza bağlı olarak kaldırılabileceğini ve/veya değiştirilebileceğini belirten bazı cümleler bulunmaktadır.
 
 Verilerinizin kullanımı ve depolanması

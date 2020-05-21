@@ -7,6 +7,8 @@ Norwegian
 Databehandleravtale for tilgang til personsensitive data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+**Version:** OBC-GDPR-DUA.no 1.0.0
+
 På vegne av min institusjon ber jeg herved om tilgang til dataene som er lagret i den digitale databasen til <FORSKERGRUPPE / NAVN><INSTITUSJON>, i <BY>, <LAND> (heretter kalt <INSTITUSJON FORKORTELSE>).
 
 Ved å godta denne avtalen blir jeg databehandler (som definert under GDPR) for dataene jeg får tilgang til, og er således ansvarlig for å oppfylle følgende vilkår:

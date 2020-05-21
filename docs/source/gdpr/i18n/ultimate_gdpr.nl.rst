@@ -4,6 +4,8 @@ Dutch
 -----
 (translation courtesy of Dr Patricia Clement and Dr Henk-Jan Mutsaerts)
 
+**Version:** OBC-GDPR-ULT.nl 1.0.0
+
 Hieronder wordt de huidige versie van de definitieve toestemmingsformulier (conform de Algemene Verordening Gegevensbescherming (AVG; eng: General Data Protection Regulation (GDPR)) weergegeven. Deze bevat AVG-specifieke bewoordingen die betrekking hebben op privacy-gerelateerde implicaties, vanwege de intentie om de gegevens van de deelnemer te verwerken en te delen. Als zodanig wordt dit gezien als het toestemmingsformulier Privacyverklaring. Geïnformeerde toestemming om deel te nemen aan het onderzoek wordt nog steeds geregistreerd voor de deelnemer in het algemene informatie- en toestemmingsformulier. Dit formulier bevat enkele zinnen tussen vierkante haken [], wat aangeeft dat ze kunnen verwijderd en/of vervangen worden, afhankelijk van uw lokale wetgeving en ethische commissie.
 
 Gebruik en opslag van uw gegevens

@@ -4,6 +4,8 @@ Italian
 -------
 (translation courtesy of Dr Francesca Pizzini)
 
+**Version:** OBC-GDPR-ULT.it 1.0.0
+
 La versione corrente del modulo di consenso finale (edizione GDPR) è riportata di seguito. Questa contiene una formulazione specifica del GDPR che si riferisce alle implicazioni sulla privacy dovute all'intenzione di elaborare e condividere i dati dei partecipanti. Come tale, questo è indicato come il “modulo Informativa sulla privacy”. Il consenso informato a partecipare allo studio è ancora registrato nel modulo di consenso principale per il partecipante. Il modulo include alcune frasi tra parentesi quadre [], le quali indicano che possono essere rimosse e / o sostituite a seconda della legislazione locale e del comitato etico.
 
 Utilizzo e archiviazione dei dati

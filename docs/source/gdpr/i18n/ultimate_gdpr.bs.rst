@@ -4,6 +4,8 @@ Bosnian
 -------
 (translation courtesy of Dr Amira Serifovic Trbalic)
 
+**Version:** OBC-GDPR-ULT.bs 1.0.0
+
 Trenutna verzija finalnog obrasca pristanka (GDPR izdanje) data je u nastavku. Ona sadrži specifične GDPR formulacije koje se odnose na implikacije na privatnost zbog namjere obrade i dijeljenja podataka učesnika. Kao takav, ovo se smatra obrascem Obavijesti o privatnosti. Informirani pristanak za sudjelovanje u studiji i dalje se bilježi za učesnika u glavnom obrascu pristanka. Obrazac uključuje neke rečenice u zagradama [], što znači da se mogu ukloniti i/ili zamijeniti ovisno o Vašem lokalnom zakonodavstvu i etičkom odboru.
 
 Korištenje i pohrana Vaših podataka

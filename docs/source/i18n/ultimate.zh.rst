@@ -9,6 +9,8 @@ translated by: Fengjuan Wang, Hua Zhu with contributions from Cheng Wang; Proofr
 Single access type version (all data shared publicly; recommended)
 -------------------------------------------------------------------
 
+**Version:** OBC-ULT.zh 1.0.0
+
 # 1. 单一访问类型版本（所有数据可以共享给公众，推荐方法）
 
 您在本研究中所提供的数据和样本未来可能会被其他研究项目使用。未来的这些项目也许会与本研究的问题相关，也有可能无关。通过互联网和完全公开的数据库，我们将完全共享本次研究中的数据，包括脑影像数据。
@@ -32,6 +34,9 @@ Single access type version (all data shared publicly; recommended)
 
 Two access types version (some data shared publicly, more data shared to approved researchers)
 -----------------------------------------------------------------------------------------------
+
+**Version:** OBC-ULT-2T.zh 1.0.0
+
 两种访问类型版本（仅部分数据共享给公众，更多数据共享给被批准的研究者）
 
 

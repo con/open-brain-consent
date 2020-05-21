@@ -7,6 +7,8 @@ Bosnian
 Ugovor sa korisnikom podataka za pristup prepoznatljivim ljudskim podacima
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+**Version:** OBC-GDPR-DUA.bs 1.0.0
+
 Zahtijevam pristup podacima prikupljenim u digitalnom repozitoriju <ODJELA>, dijela <INSTITUCIJE>, osnovane u <GRAD>, <DRŽAVA> (u nastavku referirano kao <SKRAĆENO IME INSTITUCIJE >).
 
 Prihvatanjem ovog ugovora, postajem kontrolor podataka (kako je definirano u GDPR-u) kojima imam pristup i odgovoran sam da tim podacima pristupim pod slijedećim uvjetima:

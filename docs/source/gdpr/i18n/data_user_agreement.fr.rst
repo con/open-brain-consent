@@ -7,6 +7,8 @@ French
 Engagement de l'utilisateur des données pour l'accès à des données personnelles directement ou indirectement identifiantes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+**Version:** OBC-GDPR-DUA.fr 1.0.0
+
 Je demande l'accès aux données numériques collectées dans le dépôt numérique du <Département>, faisant partie de la <Institution>, établi à <Ville>, <Pays> (ci-après dénommé le <NOM DE L'INSTITUTION>).
 
 En acceptant cet accord, je deviens le nouveau responsable de traitement de données au sens du RGPD vis à vis des données auxquelles j'ai accès. A ce titre, je m’engage à respecter la réglementation en vigueur et à satisfaire aux conditions suivantes :

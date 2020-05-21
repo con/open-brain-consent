@@ -4,6 +4,8 @@ Spanish
 --------
 (translation courtesy of Dr Maria de la Iglesia)
 
+**Version:** OBC-GDPR-ULT.es 1.0.0
+
 Se presenta a continuación la versión actual del formulario de consentimiento definitivo (edición RGPD). Contiene una redacción específica de la RGPD que se refiere a las implicaciones en la privacidad debido a la intención de procesar y compartir los datos del sujeto participante. Como tal, se considera el formulario de notificación de privacidad. El consentimiento informado para participar en el estudio se sigue registrando para el sujeto participante en el formulario de consentimiento principal. El formulario incluye algunas frases entre corchetes [], lo que indica que pueden ser eliminadas y/o reemplazadas dependiendo de su legislación local y del comité de ética.
 
 Uso y almacenamiento de sus datos
