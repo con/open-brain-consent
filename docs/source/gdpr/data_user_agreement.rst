@@ -52,6 +52,7 @@ Translations
    i18n/data_user_agreement.de.rst
    i18n/data_user_agreement.el.rst
    i18n/data_user_agreement.es.rst
+   i18n/data_user_agreement.fi.rst
    i18n/data_user_agreement.fr.rst
    i18n/data_user_agreement.it.rst
    i18n/data_user_agreement.nl.rst
