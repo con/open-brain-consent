@@ -26,8 +26,9 @@ Content table
    :maxdepth: 3
 
    anon_tools.rst
-   contribute.rst
    discussions.rst
 
 .. include:: README.rst
    :start-after: link list
+
+.. include:: ../../CONTRIBUTING.rst
