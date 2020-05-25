@@ -27,6 +27,8 @@ English
 Data user agreement for accessing identifiable human data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+**Version:** OBC-GDPR-DUA 1.0.0
+
 I request access to the data collected in the digital repository of the <DEPARTMENT>, part of the <INSTITUTION>, established at <CITY>, <COUNTRY> (hereinafter referred to as the <INSTITUTION SHORTNAME>).
 
 By accepting this agreement, I become the `data controller <https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/obligations/controller-processor/what-data-controller-or-data-processor_en>`_ (as defined under the GDPR) of the data that I have access to, and am responsible that I access these data under the following terms:

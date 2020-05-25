@@ -7,6 +7,8 @@ Ultimate consent form - GDPR edition
 English
 -------
 
+**Version:** OBC-GDPR-ULT 1.0.0
+
 Instructions
 ~~~~~~~~~~~~
 The current version of the ultimate consent form (GDPR edition) is given below.

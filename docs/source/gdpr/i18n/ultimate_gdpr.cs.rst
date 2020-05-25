@@ -4,6 +4,8 @@ Czech
 -----
 (translation courtesy of Dr Radim Jančálek)
 
+**Version:** OBC-GDPR-ULT.cs 1.0.0
+
 Současná finální verze formuláře souhlasu (GDPR vydání) je k dispozici níže. Obsahuje GDPR specifické formulace, které souvisí s dopady na soukromí v důsledku záměru zpracovat a sdílet pacientská data. Jako takový je formulář vnímán jako Formulář o ochraně osobních údajů. Informovaný souhlas participanta s účastí ve studii je stále zaznamenáván v hlavním formuláři souhlasu. Formulář zahrnuje některé věty v hranatých závorkách [], které označují, že lze formulace odstranit nebo nahradit s ohledem na lokální legislativu a etickou komisi.
 
 Používání a ukládání vašich dat
