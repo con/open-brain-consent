@@ -7,7 +7,7 @@ Finnish
 Tunnistettavien tietojen käyttäjän käyttöoikeussopimus
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Versio:** OBC-GDPR-DUA.fi 1.0.0
+**Versio:** OBC-GDPR-DUA.fi 1.1.0
 
 Pyydän käyttöoikeutta <OSASTON> digitaaliseen tietovarantoon tallennettuihin tietoihin. <OSASTO> on osa <TUTKIMUSLAITOSTA>, jonka kotipaikka on <KAUPUNKI>, <MAA> (jäljempänä <TUTKIMUSLAITOKSEN LYHYT NIMI>).
 

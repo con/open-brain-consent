@@ -4,11 +4,7 @@ Finnish
 -------
 (translation courtesy of Marko Havu)
 
-**Versio:** OBC-GDPR-ULT.fi 1.0.0
-
-Ohjeet
-~~~~~~
-Alla on yleiskäyttöisen (GDPR-yhteensopivan) suostumuslomakkeen viimeisin versio. Lomakkeessa käytetään GDPR:n mukaisia sanamuotoja, kun viitataan yksityisyyden suojaan ja siihen, miten tutkittavien tietoja aiotaan käsitellä ja jakaa. Niinpä lomaketta voidaan pitää tietosuojailmoituksena. Tietoon perustuva suostumus pyydetään edelleen varsinaisella suostumuslomakkeella. Osa lomakkeen virkkeistä on hakasulkeissa ``[]`` sen merkiksi, että ne voidaan poistaa tai korvata sen mukaan, mitä paikallinen lainsäädäntö tai eettinen lautakunta asiasta määräävät. Osa virkkeistä sisältää täytettäviä kenttiä. Ne on merkitty kulmasulkein ``<>``.
+**Versio:** OBC-GDPR-ULT.fi 1.1.0
 
 Tietojen käsittely ja tallennus
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
