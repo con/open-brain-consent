@@ -45,7 +45,7 @@ Your encoded data can also be accessed by and sent to countries outside the EU. 
 
 More information about your rights when processing data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-For general information about your rights when processing your personal data, you can consult the website of the <Institution> Data Protection Authority.
+For general information about your rights regarding the processing of your personal data, you can consult the website of the <Institution> Data Protection Authority.
 
 If you have questions about your rights, please contact the person responsible for the processing of your personal data. For this study, that is:
 
