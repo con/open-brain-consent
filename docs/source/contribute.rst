@@ -53,8 +53,8 @@ Contact information
 - Directly via email at open-brain-consent@datalad.org
 - `GitHub issues`_ page
 
-.. _GitHub issues: https://github.com/datalad/open-brain-consent/issues
-.. _GitHub pull requests: https://github.com/datalad/open-brain-consent/pulls
+.. _GitHub issues: https://github.com/con/open-brain-consent/issues
+.. _GitHub pull requests: https://github.com/con/open-brain-consent/pulls
 .. _persistent URLs: https://en.wikipedia.org/wiki/Persistent_uniform_resource_locator
 .. _DOIs: https://doi.org/10.1000/182
 .. _samples:
