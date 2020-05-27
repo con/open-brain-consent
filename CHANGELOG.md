@@ -14,6 +14,49 @@ TODO Summary
 ### Removed
 ### Security
 
+## [0.2.6] - 2019-??-??
+
+TODO Summary
+
+### Added
+### Changed
+### Fixed
+### Removed
+### Security
+
+## [0.2.5] - 2019-10-10
+### Added
+- Zenodo badge
+- MRI and EEG sample forms for Donders Centre for Cognitive
+  Neuroimaging
+### Changed
+- "Research participants" is now used instead of "subjects"
+
+## [0.2.4] - 2018-10-19
+### Added
+- Pointer to BIDSonym and pydeface
+
+## [0.2.3] - 2018-09-07
+### Fixed
+- Fix to Arizona consent form URL
+
+## [0.2.2] - 2018-07-29
+### Fixed
+- Minor fixes to Chinese translation
+### Added
+- Sample consent forms from psychLMU and GIN
+
+
+## [0.2.1] - 2018-06-21
+### Fixed
+- Minor reference syntax
+
+## [0.2] - 2018-06-20
+
+### Added
+- Ultimate Consent Form translations
+  - Italian and Spanish (public only portion)
+  - Chinese
 
 ## [0.1] - 2018-02-08
 
@@ -34,3 +77,5 @@ Initial release:
 [Unreleased]: https://github.com/datalad/datalad/open-brain-consent/compare/0.1...HEAD
 [0.1]: https://github.com/datalad/open-brain-consent/commits/0.1
 [0.0.2]: https://github.com/datalad/open-brain-consent/commits/0.0.2
+[0.2.4]: https://github.com/datalad/open-brain-consent/commits/0.2.4
+[0.2.5]: https://github.com/datalad/open-brain-consent/commits/0.2.5
