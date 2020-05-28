@@ -7,7 +7,7 @@ Ultimate consent form - GDPR edition
 English
 -------
 
-**Version:** OBC-GDPR-ULT 1.0.0
+**Version:** OBC-GDPR-ULT 1.1.0
 
 Instructions
 ~~~~~~~~~~~~
@@ -43,9 +43,9 @@ Passing on to countries outside the European Union (EU)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Your encoded data can also be accessed by and sent to countries outside the EU. This is necessary so that non-EU based scientists can run analyses to verify the scientific results produced from this study or for future unrelated research in the field of medical and cognitive neuroscience. In those countries, the EU rules on the protection of your personal data do not apply. However, your privacy will be protected at an equal level, by means of a :ref:`chap_dua`.
 
-More information about your rights when processing data
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-For general information about your rights when processing your personal data, you can consult the website of the <Institution> Data Protection Authority.
+More information about your rights regarding processing of the data
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+For general information about your rights regarding the processing of your personal data, you can consult the website of the <Institution> Data Protection Authority.
 
 If you have questions about your rights, please contact the person responsible for the processing of your personal data. For this study, that is:
 
