@@ -1,0 +1,37 @@
+
+{
+    "title": "OBC: Open Brain Consent project",
+    "description": "Open Brain Consent project provides samples of consent forms and references to tools to assist in open neuroimaging data sharing",
+    "creators": [
+        {
+            "affiliation": "Dartmouth College, NH, USA",
+            "name": "Halchenko, Yaroslav O.",
+            "orcid": "0000-0003-3456-2493"
+        },
+        {
+            "affiliation": "Google, USA",
+            "name": "Gorgolewski, Krzysztof J.",
+            "orcid": "0000-0003-3321-7583"
+        },
+        {
+            "affiliation": "University of Edinburgh, Edinburgh, GB",
+            "name": "Pernet, Cyril",
+            "orcid": "0000-0003-4010-4632"
+        },
+        {
+            "affiliation": "Université de Montreal, Canada",
+            "name": "Borghesani, Valentina",
+            "orcid": "0000-0002-7909-8631"
+        },
+    ],
+    "keywords": [
+        "neuroscience",
+        "neuroimaging",
+        "open science",
+        "data sharing",
+        "GDPR",
+        "IRB"
+    ],
+    "license": "CC-BY-SA-4.0",
+    "upload_type": "other"
+}
