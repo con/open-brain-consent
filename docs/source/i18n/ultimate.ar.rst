@@ -1,4 +1,4 @@
-.. _chap_consent_ultimate_fr:
+.. _chap_consent_ultimate_ar:
 
 Arabic
 ~~~~~~
