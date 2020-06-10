@@ -2,7 +2,7 @@
 
 French
 ------
-(translation courtesy of Anne Hespel and Dr Elise Bannier)
+(translation courtesy of Dr Anne Hespel and Dr Elise Bannier)
 
 **Version:** OBC-GDPR-ULT.fr 1.0.0
 
