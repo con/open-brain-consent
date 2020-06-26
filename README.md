@@ -1,4 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3403176.svg)](https://doi.org/10.5281/zenodo.3403176)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Documentation Status](https://readthedocs.org/projects/open-brain-consent/badge/?version=stable)](https://open-brain-consent.readthedocs.io/en/stable/?badge=stable)
 
 # Open Brain Consent
@@ -26,3 +29,21 @@ Every kind of contribution to this effort is welcome!
 Please find information on how to contribute in [the contributing chapter](https://open-brain-consent.readthedocs.io/en/stable/contribute.html).
 
 Please find the recommendations and resources we have assembled at [open-brain-consent.readthedocs.io](https://open-brain-consent.readthedocs.io/en/stable/).
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://www.onerussian.com"><img src="https://avatars3.githubusercontent.com/u/39889?v=4" width="100px;" alt=""/><br /><sub><b>Yaroslav Halchenko</b></sub></a><br /><a href="#infra-yarikoptic" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#projectManagement-yarikoptic" title="Project Management">📆</a> <a href="https://github.com/con/open-brain-consent/commits?author=yarikoptic" title="Code">💻</a> <a href="#content-yarikoptic" title="Content">🖋</a> <a href="https://github.com/con/open-brain-consent/pulls?q=is%3Apr+reviewed-by%3Ayarikoptic" title="Reviewed Pull Requests">👀</a> <a href="#maintenance-yarikoptic" title="Maintenance">🚧</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
