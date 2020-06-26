@@ -53,8 +53,20 @@ Contact information
 - Directly via email at open-brain-consent@datalad.org
 - `GitHub issues`_ page
 
+Acknowledgement
+===============
+
+Tackling these challenges requires diverse types of contributions.
+Every contribution is very welcomed and we try to acknowledge as many as we can.
+For our repository, the `allcontributors bot`_ recognizes the contributors to this initiative - be this in the form of feedback, further content, in-person discussions, review, maintenance or many more `contribution types <https://allcontributors.org/docs/en/emoji-key>`_.
+You can find an overview of the wonderful people that contributed to this project in the associated `GitHub repository`_.
+Maintainers are encouraged to alert the `allcontributors bot`_ if they are aware of a yet unrecognized contribution by commenting on issues or PRs with a bot invocation that follows the structure ``@all-contributors please add @jane for code feedback review``.
+
 .. _GitHub issues: https://github.com/con/open-brain-consent/issues
 .. _GitHub pull requests: https://github.com/con/open-brain-consent/pulls
 .. _persistent URLs: https://en.wikipedia.org/wiki/Persistent_uniform_resource_locator
 .. _DOIs: https://doi.org/10.1000/182
 .. _Internet Archive Wayback Machine: https://archive.org/web/
+.. _GitHub repository: https://github.com/con/open-brain-consent/
+.. _allcontributors bot: https://allcontributors.org/
+.. _contribution types: https://allcontributors.org/docs/en/emoji-key/
