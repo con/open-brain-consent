@@ -3,7 +3,7 @@
 
 .. _chap_index:
 
-.. include:: ../../README.rst
+.. include:: README.rst
    :end-before: link list
 
 
@@ -29,5 +29,5 @@ Content table
    contribute.rst
    discussions.rst
 
-.. include:: ../../README.rst
+.. include:: README.rst
    :start-after: link list
