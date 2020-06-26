@@ -2,6 +2,7 @@
 [![Documentation Status](https://readthedocs.org/projects/open-brain-consent/badge/?version=stable)](https://open-brain-consent.readthedocs.io/en/stable/?badge=stable)
 
 # Open Brain Consent
+
 ### Make open data sharing a no-brainer for ethics committees. 
 
 The ideology of open and reproducible science makes its ways into various fields of science.
@@ -18,5 +19,10 @@ Situation is particularly tricky because major granting agencies (e.g. NIH, NSF,
 To facilitate neuroimaging data sharing, we providing an "out of the box" solution addressing aforementioned human research participants concerns and consisting of
 - widely acceptable consent forms (with various translations) allowing deposition of anonymized data to public data archives
 - collection of tools/pipelines to help anonymization of neuroimaging data making it ready for sharing
+
+### Contributing
+
+Every kind of contribution to this effort is welcome!
+Please find information on how to contribute in [the contributing chapter](https://open-brain-consent.readthedocs.io/en/stable/contribute.html).
 
 Please find the recommendations and resources we have assembled at [open-brain-consent.readthedocs.io](https://open-brain-consent.readthedocs.io/en/stable/).
