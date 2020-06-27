@@ -29,6 +29,18 @@
       ]
     },
     {
+      "login": "vborghe",
+      "name": "vborghesani",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11749857?v=4",
+      "profile": "http://valentina.borghesani.org/",
+      "contributions": [
+        "code",
+        "translation",
+        "maintenance",
+        "infra"
+      ]
+    },
+    {
       "login": "CPernet",
       "name": "Cyril Pernet",
       "avatar_url": "https://avatars2.githubusercontent.com/u/4772878?v=4",
