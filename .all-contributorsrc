@@ -69,6 +69,16 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "jpellman",
+      "name": "John Pellman",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5000591?v=4",
+      "profile": "https://libjpel.so",
+      "contributions": [
+        "bug",
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
