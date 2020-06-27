@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3403176.svg)](https://doi.org/10.5281/zenodo.3403176)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Documentation Status](https://readthedocs.org/projects/open-brain-consent/badge/?version=stable)](https://open-brain-consent.readthedocs.io/en/stable/?badge=stable)
 
@@ -45,6 +45,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/mkoculak"><img src="https://avatars0.githubusercontent.com/u/16628635?v=4" width="100px;" alt=""/><br /><sub><b>Marcin Koculak</b></sub></a><br /><a href="#translation-mkoculak" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/mhavu"><img src="https://avatars0.githubusercontent.com/u/2302090?v=4" width="100px;" alt=""/><br /><sub><b>Marko Havu</b></sub></a><br /><a href="#translation-mhavu" title="Translation">🌍</a></td>
     <td align="center"><a href="https://libjpel.so"><img src="https://avatars2.githubusercontent.com/u/5000591?v=4" width="100px;" alt=""/><br /><sub><b>John Pellman</b></sub></a><br /><a href="https://github.com/con/open-brain-consent/issues?q=author%3Ajpellman" title="Bug reports">🐛</a> <a href="#infra-jpellman" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://chrisgorgolewski.org"><img src="https://avatars2.githubusercontent.com/u/238759?v=4" width="100px;" alt=""/><br /><sub><b>Chris Gorgolewski</b></sub></a><br /><a href="#translation-chrisgorgo" title="Translation">🌍</a> <a href="#content-chrisgorgo" title="Content">🖋</a></td>
   </tr>
 </table>
 
