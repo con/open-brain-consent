@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3403176.svg)](https://doi.org/10.5281/zenodo.3403176)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Documentation Status](https://readthedocs.org/projects/open-brain-consent/badge/?version=stable)](https://open-brain-consent.readthedocs.io/en/stable/?badge=stable)
 
@@ -49,6 +49,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://chrisgorgolewski.org"><img src="https://avatars2.githubusercontent.com/u/238759?v=4" width="100px;" alt=""/><br /><sub><b>Chris Gorgolewski</b></sub></a><br /><a href="#translation-chrisgorgo" title="Translation">🌍</a> <a href="#content-chrisgorgo" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.stefanappelhoff.com"><img src="https://avatars1.githubusercontent.com/u/9084751?v=4" width="100px;" alt=""/><br /><sub><b>Stefan Appelhoff</b></sub></a><br /><a href="#translation-sappelhoff" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://satra.cogitatum.org"><img src="https://avatars2.githubusercontent.com/u/184063?v=4" width="100px;" alt=""/><br /><sub><b>Satrajit Ghosh</b></sub></a><br /><a href="#content-satra" title="Content">🖋</a></td>
   </tr>
 </table>
 
