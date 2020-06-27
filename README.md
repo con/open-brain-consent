@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3403176.svg)](https://doi.org/10.5281/zenodo.3403176)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Documentation Status](https://readthedocs.org/projects/open-brain-consent/badge/?version=stable)](https://open-brain-consent.readthedocs.io/en/stable/?badge=stable)
 
@@ -44,6 +44,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://www.sbirc.ed.ac.uk/cyril/"><img src="https://avatars2.githubusercontent.com/u/4772878?v=4" width="100px;" alt=""/><br /><sub><b>Cyril Pernet</b></sub></a><br /><a href="https://github.com/con/open-brain-consent/commits?author=CPernet" title="Code">💻</a> <a href="#translation-CPernet" title="Translation">🌍</a> <a href="#maintenance-CPernet" title="Maintenance">🚧</a> <a href="#infra-CPernet" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     <td align="center"><a href="https://github.com/mkoculak"><img src="https://avatars0.githubusercontent.com/u/16628635?v=4" width="100px;" alt=""/><br /><sub><b>Marcin Koculak</b></sub></a><br /><a href="#translation-mkoculak" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/mhavu"><img src="https://avatars0.githubusercontent.com/u/2302090?v=4" width="100px;" alt=""/><br /><sub><b>Marko Havu</b></sub></a><br /><a href="#translation-mhavu" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://libjpel.so"><img src="https://avatars2.githubusercontent.com/u/5000591?v=4" width="100px;" alt=""/><br /><sub><b>John Pellman</b></sub></a><br /><a href="https://github.com/con/open-brain-consent/issues?q=author%3Ajpellman" title="Bug reports">🐛</a> <a href="#infra-jpellman" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
   </tr>
 </table>
 
