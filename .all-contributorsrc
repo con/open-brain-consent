@@ -41,6 +41,18 @@
       ]
     },
     {
+      "login": "CPernet",
+      "name": "Cyril Pernet",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4772878?v=4",
+      "profile": "http://www.sbirc.ed.ac.uk/cyril/",
+      "contributions": [
+        "code",
+        "translation",
+        "maintenance",
+        "infra"
+      ]
+    },
+    {
       "login": "mkoculak",
       "name": "Marcin Koculak",
       "avatar_url": "https://avatars0.githubusercontent.com/u/16628635?v=4",
@@ -48,7 +60,7 @@
       "contributions": [
         "translation"
       ]
-    }
+    }        
   ],
   "contributorsPerLine": 7,
   "projectName": "open-brain-consent",
