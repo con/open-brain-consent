@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3403176.svg)](https://doi.org/10.5281/zenodo.3403176)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Documentation Status](https://readthedocs.org/projects/open-brain-consent/badge/?version=stable)](https://open-brain-consent.readthedocs.io/en/stable/?badge=stable)
 
@@ -58,6 +58,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://huchuanpeng.com"><img src="https://avatars0.githubusercontent.com/u/7300419?v=4" width="100px;" alt=""/><br /><sub><b>Chuan-Peng Hu</b></sub></a><br /><a href="#translation-hcp4715" title="Translation">🌍</a></td>
     <td align="center"><a href="http://peerherholz.github.io"><img src="https://avatars0.githubusercontent.com/u/20129524?v=4" width="100px;" alt=""/><br /><sub><b>Peer Herholz</b></sub></a><br /><a href="#content-PeerHerholz" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/AsykaKolbacyka"><img src="https://avatars0.githubusercontent.com/u/67231944?v=4" width="100px;" alt=""/><br /><sub><b>AsykaKolbacyka</b></sub></a><br /><a href="#design-AsykaKolbacyka" title="Design">🎨</a></td>
   </tr>
 </table>
 
