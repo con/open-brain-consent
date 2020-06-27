@@ -143,6 +143,15 @@
       "contributions": [
         "infra"
       ]
+    },
+    {
+      "login": "hcp4715",
+      "name": "Chuan-Peng Hu",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7300419?v=4",
+      "profile": "http://huchuanpeng.com",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
