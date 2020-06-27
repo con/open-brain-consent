@@ -39,6 +39,15 @@
         "maintenance",
         "infra"
       ]
+    },
+    {
+      "login": "mkoculak",
+      "name": "Marcin Koculak",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/16628635?v=4",
+      "profile": "https://github.com/mkoculak",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
