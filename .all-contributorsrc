@@ -60,7 +60,16 @@
       "contributions": [
         "translation"
       ]
-    }        
+    },
+    {
+      "login": "mhavu",
+      "name": "Marko Havu",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2302090?v=4",
+      "profile": "https://github.com/mhavu",
+      "contributions": [
+        "translation"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "projectName": "open-brain-consent",
