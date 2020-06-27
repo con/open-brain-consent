@@ -107,6 +107,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "robertoostenveld",
+      "name": "Robert Oostenveld",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/899043?v=4",
+      "profile": "https://github.com/robertoostenveld",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
