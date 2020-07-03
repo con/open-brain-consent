@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3403176.svg)](https://doi.org/10.5281/zenodo.3403176)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Documentation Status](https://readthedocs.org/projects/open-brain-consent/badge/?version=stable)](https://open-brain-consent.readthedocs.io/en/stable/?badge=stable)
 
@@ -59,6 +59,35 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://huchuanpeng.com"><img src="https://avatars0.githubusercontent.com/u/7300419?v=4" width="100px;" alt=""/><br /><sub><b>Chuan-Peng Hu</b></sub></a><br /><a href="#translation-hcp4715" title="Translation">🌍</a></td>
     <td align="center"><a href="http://peerherholz.github.io"><img src="https://avatars0.githubusercontent.com/u/20129524?v=4" width="100px;" alt=""/><br /><sub><b>Peer Herholz</b></sub></a><br /><a href="#content-PeerHerholz" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/AsykaKolbacyka"><img src="https://avatars0.githubusercontent.com/u/67231944?v=4" width="100px;" alt=""/><br /><sub><b>AsykaKolbacyka</b></sub></a><br /><a href="#design-AsykaKolbacyka" title="Design">🎨</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/50816018529642639627559528262906053204?s=128" width="100px;" alt=""/><br /><sub><b> Nicolas Pascual Leone Espinosa</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/3286594976052355665756813966559391795?s=128" width="100px;" alt=""/><br /><sub><b>Karolina Finc</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/129191881538174400234909343737821206176?s=128" width="100px;" alt=""/><br /><sub><b>Dr. Kyrre E. Emblem</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/4691228916091123621709038074142801892?s=128" width="100px;" alt=""/><br /><sub><b>Saurabh Chavan</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://unicornify.pictures/avatar/201254758934706648287772069158647925952?s=128" width="100px;" alt=""/><br /><sub><b>Dr Radim Jančálek</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/227744230451921531094269175890707961174?s=128" width="100px;" alt=""/><br /><sub><b>Hardik Kothare </b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/115564128361764407310819661237289578203?s=128" width="100px;" alt=""/><br /><sub><b>Valentina Borghesani </b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/331779447641493845804226957467132862211?s=128" width="100px;" alt=""/><br /><sub><b>Dr Francesca Pizzini</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/168303728220231581562694179710521562469?s=128" width="100px;" alt=""/><br /><sub><b>Clara Moreau</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/204357623244501477137334102859890418518?s=128" width="100px;" alt=""/><br /><sub><b>Dr Amira Serifovic Trbalic</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/140890128984856104640333123676081178303?s=128" width="100px;" alt=""/><br /><sub><b>Sara Fernández</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://unicornify.pictures/avatar/61700033103512558814640108900367250360?s=128" width="100px;" alt=""/><br /><sub><b>Dr Vera Keil</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/295591703619980376282459646695045405785?s=128" width="100px;" alt=""/><br /><sub><b>Dr Henk-Jan Mutsaerts</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/317452050964486276281487666867339101373?s=128" width="100px;" alt=""/><br /><sub><b>Anne Hespel </b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/252802718727300670504627158800121396591?s=128" width="100px;" alt=""/><br /><sub><b>Dr. Esin Öztürk Işık</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/69522165094006649829964301479204649060?s=128" width="100px;" alt=""/><br /><sub><b>Monika Boruta-Żywiczyńska</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/34643475542453809928725084302431092545?s=128" width="100px;" alt=""/><br /><sub><b>María de la Iglesia Vayá </b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/146034832033234963545725326912853601122?s=128" width="100px;" alt=""/><br /><sub><b>Dr Anne Hespel </b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://unicornify.pictures/avatar/321287267194492895197491731370358741236?s=128" width="100px;" alt=""/><br /><sub><b>Dr Patricia Clement </b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/79392824976212577294463559588700788209?s=128" width="100px;" alt=""/><br /><sub><b>Dr Elise Bannier</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/151390569491455074342299757350879636412?s=128" width="100px;" alt=""/><br /><sub><b>Dr Maria de la Iglesia</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><img src="https://unicornify.pictures/avatar/312184497630168570921714213494253435042?s=128" width="100px;" alt=""/><br /><sub><b>Dr Vasileios K. Katsaros</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://camillemaumet.com"><img src="https://avatars1.githubusercontent.com/u/5374264?v=4" width="100px;" alt=""/><br /><sub><b>Camille Maumet</b></sub></a><br /><a href="#translation-cmaumet" title="Translation">🌍</a></td>
   </tr>
 </table>
 
