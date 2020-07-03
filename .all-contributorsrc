@@ -343,6 +343,15 @@
         "translation",
         "review"
       ]
+    },
+    {
+      "login": "mvdoc",
+      "name": "Matteo Visconti di Oleggio Castello",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6150554?v=4",
+      "profile": "https://mvdoc.me",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
