@@ -324,6 +324,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "cmaumet",
+      "name": "Camille Maumet",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5374264?v=4",
+      "profile": "http://camillemaumet.com",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
