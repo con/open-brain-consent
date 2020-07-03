@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3403176.svg)](https://doi.org/10.5281/zenodo.3403176)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Documentation Status](https://readthedocs.org/projects/open-brain-consent/badge/?version=stable)](https://open-brain-consent.readthedocs.io/en/stable/?badge=stable)
 
@@ -88,6 +88,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><img src="https://unicornify.pictures/avatar/151390569491455074342299757350879636412?s=128" width="100px;" alt=""/><br /><sub><b>Dr Maria de la Iglesia</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
     <td align="center"><img src="https://unicornify.pictures/avatar/312184497630168570921714213494253435042?s=128" width="100px;" alt=""/><br /><sub><b>Dr Vasileios K. Katsaros</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
     <td align="center"><a href="http://camillemaumet.com"><img src="https://avatars1.githubusercontent.com/u/5374264?v=4" width="100px;" alt=""/><br /><sub><b>Camille Maumet</b></sub></a><br /><a href="#translation-cmaumet" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/djarecka"><img src="https://avatars3.githubusercontent.com/u/1662746?v=4" width="100px;" alt=""/><br /><sub><b>Dorota Jarecka</b></sub></a><br /><a href="#translation-djarecka" title="Translation">🌍</a> <a href="https://github.com/con/open-brain-consent/pulls?q=is%3Apr+reviewed-by%3Adjarecka" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
