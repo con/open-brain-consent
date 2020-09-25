@@ -9,6 +9,12 @@ This template is based on the `Donder’s Institute DUA Version RU-DI-HD-1.0. <h
 Given that brain imaging data can be used to identify individuals, it is safe to consider them as 'personal data' under the `GDPR <https://gdpr-info.eu/>`_, even after using a pseudo-anonymization procedure like defacing (see our information on :ref:`(peudo)anonymization tools <chap_anonymization_tools>`.
 To allow sharing of such personal data, it is recommended to use a Data User Agreement (DUA) over a license.
 
+The term "license" is more general than DUA, but both are "contracts" between a licensor and licensee.
+
+Not all licenses that are common online (like GPL, or BSD, or MIT) are appropriate for data or for databases. A lot of licenses relate to "something" that is created (or authored) by the licensor, which is not the case in data (although the "database", as in "the design on how to store the data" can be result of creative work of the licensor). A "data use agreement" is a specific form of license (or contract) that is designed for data and can into account that besides the rights of the licensor (e.g. the researcher or the university) there may also be rights of the participants whose data is included. This indeed relates to re-identification etc.  For example the CC licenses do not explicitly consider that the shared content might be re-identified.
+
+So I think you could call an "agreement" or a "contract" between data provider and data downloader a "license", but calling it a "data use agreement" makes it more explicit that it is not about the (re)use of a creative work (like written text or code by an author) but reuse of measured/observed data.
+
 General considerations for a Data User Agreement
 ------------------------------------------------
 
