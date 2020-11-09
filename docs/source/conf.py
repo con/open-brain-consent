@@ -58,7 +58,7 @@ copyright = u'2015-2020, ' + authors
 # The short X.Y version.
 # TODO: derive from git describe but it might not work on RTD - needs to be
 # checked
-version = '1.0.0'
+version = '1.1.0'
 # The full version, including alpha/beta/rc tags.
 release = version + '+some'
 
