@@ -2,6 +2,7 @@
 
 Spanish
 ~~~~~~~
+(translation courtesy of María de la Iglesia Vayá, Nicolas Pascual Leone Espinosa & Guiomar Niso)
 
 
 Single access type version (all data shared publicly; recommended)
