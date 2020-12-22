@@ -361,6 +361,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "fabianp",
+      "name": "Fabian Pedregosa",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/277639?v=4",
+      "profile": "http://fa.bianp.net",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
