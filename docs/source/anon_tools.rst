@@ -63,4 +63,4 @@ Even more data/information preserving approach is to just obscure
 facial features in the anatomical images:
 
 - `Obscuring Surface Anatomy in Volumetric Imaging Data <http://link.springer.com/article/10.1007%2Fs12021-012-9160-3>`_
-  Used for HCP data
+  Used for HCP data, using the `Face Masking <https://nrg.wustl.edu/software/face-masking/>` tool.
