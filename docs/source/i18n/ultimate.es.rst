@@ -23,7 +23,7 @@ Desde nuestro conocimiento y mejor entender, los datos que publicamos en abierto
 
 Mantendremos la parte privada de sus datos (nombre, información para contactarle, etc.) en un lugar seguro durante al menos <x> años. De esta manera, si uno de los investigadores que utilice los datos de este estudio encuentra algo en sus escaneos cerebrales que pudieran tener un valor diagnóstico, podremos contactar con usted. Después de este periodo de tiempo, destruiremos su información para proteger su privacidad.
 
-**Permitirnos usar y compartir sus datos es voluntario. Sin embargo, tiene que estar dispuesto a compartir sus datos de esta forma para poder participar en este estudio. Si no está dispuesto, no podrá participar en el estudio.**
+**Permitirnos usar y compartir sus datos es voluntario. Sin embargo, tiene que estar dispuesto a compartir sus datos de esta forma para poder participar en este estudio. Si no está dispuesto a compartir sus datos, no podrá participar en el estudio.**
 
 Al firmar abajo, está aceptando proporcionar sus datos a futuras investigaciones. De esta forma acepta que los datos podrán ser compartidos con otros investigadores de otras instituciones por todo el mundo. Los detalles, resultados, e implicaciones de estos estudios son desconocidos.
 
