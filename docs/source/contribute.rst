@@ -22,7 +22,7 @@ Additional Materials
 We're always looking for new materials to add to this shared neuroimaging resource.  In particular, we're looking for:
 
 - Samples of consent forms allowing re-distribution/deposit to
-  public archives 
+  public archives
 
 - Relevant publications and discussions
 
@@ -55,6 +55,8 @@ Contact information
 
 Acknowledgement
 ===============
+
+When using our template forms, you can mention that your ethics followed the OBC recommendations: Open Brain Consent working group (2021). The Open Brain Consent: Informing research participants and obtaining consent to share brain imaging data. Human Brain Mapping, 1-7 https://doi.org/10.1002/hbm.25351.
 
 Tackling these challenges requires diverse types of contributions.
 Every contribution is very welcomed and we try to acknowledge as many as we can.
