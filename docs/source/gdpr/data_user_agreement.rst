@@ -3,6 +3,8 @@
 Data User Agreement
 ===================
 
+A DUA does not provide a legal basis to share personal data (the consent does). A DUA allows controlling what happens to the data when it is shared. A DUA can be a legal instrument if the data are shared for further processing with similar purposes as the original research project (it gives a legal basis to the secondary data user).
+
 .. _Data User Agreement (DUA):
 
 This template is based on the `Donder’s Institute DUA Version RU-DI-HD-1.0. <https://data.donders.ru.nl/doc/dua/RU-DI-HD-1.0.html?2>`_.
