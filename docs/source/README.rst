@@ -34,12 +34,15 @@ To facilitate neuroimaging data sharing, we providing an "out of
 the box" solution addressing aforementioned human research participants
 concerns and consisting of
 
-- widely acceptable consent forms (with various translations) allowing
-  deposition of anonymized data to public data archives
+- widely acceptable consent form templates (with various translations) allowing
+  deposition of pseudonymised data to public data archives
+
+- a template data user agreement (if your repository allows DUA instead of a licence)
 
 - collection of tools/pipelines to help anonymization of neuroimaging
   data making it ready for sharing
 
+You can read a summary of this work in our post-print: `The Open Brain Consent: Informing research participants and obtaining consent to share brain imaging data <https://psyarxiv.com/f6mnp/>`_
 
 Sample Consent Forms
 ====================
