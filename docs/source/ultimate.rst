@@ -56,6 +56,7 @@ Translations
 .. toctree::
    :maxdepth: 2
 
+   i18n/ultimate.ar.rst
    i18n/ultimate.de.rst
    i18n/ultimate.es.rst
    i18n/ultimate.fr.rst
