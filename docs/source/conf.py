@@ -207,6 +207,10 @@ latex_documents = [
    authors, 'manual'),
 ]
 
+# ones with unicode support
+# latex_engine = "xelatex"
+latex_engine = "lualatex"
+
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
 latex_logo = "_static/OBC_LogoCheck.pdf"
