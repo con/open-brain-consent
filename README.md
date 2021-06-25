@@ -20,8 +20,8 @@ In majority of the cases, used Consent forms simply did not include any provisio
 Situation is particularly tricky because major granting agencies (e.g. NIH, NSF, RCUK) nowadays require public data sharing, but do not provide explicit instructions on how.
 
 To facilitate neuroimaging data sharing, we providing an "out of the box" solution addressing aforementioned human research participants concerns and consisting of
-- widely acceptable consent forms (with various translations) allowing deposition of anonymized data to public data archives
-- collection of tools/pipelines to help anonymization of neuroimaging data making it ready for sharing
+- widely acceptable consent forms (with various translations) allowing deposition of de-identified data to public data archives
+- collection of tools/pipelines to help de-identification of neuroimaging data making it ready for sharing
 
 ### Contributing
 

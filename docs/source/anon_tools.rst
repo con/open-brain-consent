@@ -33,7 +33,7 @@ One of the approaches is perform complete skull stripping, e.g. using
   of `AFNI <http://afni.nimh.nih.gov/>`_
 -  `FreeSurfer <https://surfer.nmr.mgh.harvard.edu/>`_
 
-Some dedicated anonymization tools work on this principle, e.g. `DeID`_
+Some dedicated de-identification tools work on this principle, e.g. `DeID`_
 
 Faces/dental stripping
 ~~~~~~~~~~~~~~~~~~~~~~
