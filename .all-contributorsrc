@@ -370,6 +370,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "DimitriPapadopoulos",
+      "name": "Dimitri Papadopoulos Orfanos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3234522?v=4",
+      "profile": "https://github.com/DimitriPapadopoulos",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
