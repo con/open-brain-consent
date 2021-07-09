@@ -34,8 +34,8 @@ Workshop Participants
 Issues addressed during the workshop
 =====================================
 
-Anonymization
--------------
+De-identification
+-----------------
 
 Following the OBC, data must be de-identified before distribution. However, it has become clear that one can single out subjects from biomedical data and/or MRI scans (including fMRI profiles from connectivity). This means that changes to the data (removing ID and defacing) is only a pseudo-anonymization procedure and according to GDPR, that procedure leaves the data as 'personal' (as opposed to 'anonymized').
 

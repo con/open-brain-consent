@@ -39,7 +39,7 @@ concerns and consisting of
 
 - a template data user agreement (if your repository allows DUA instead of a licence)
 
-- collection of tools/pipelines to help anonymization of neuroimaging
+- collection of tools/pipelines to help de-identification of neuroimaging
   data making it ready for sharing
 
 You can read a summary of this work in our post-print: `The Open Brain Consent: Informing research participants and obtaining consent to share brain imaging data <https://psyarxiv.com/f6mnp/>`_
@@ -67,13 +67,13 @@ within the same jurisdiction. Although somewhat a utopian statement,
 we hope that with examples/precedent cases and possibly **your**
 enthusiastic involvement we cold achieve our goal.
 
-Anonymization
-=============
+De-identification
+=================
 
 Data must be de-identified before distribution.  We will collect
 information on :ref:`existing <chap_anonymization_tools>` and
 possibly establishing an *ultimate* easy to use pipeline to
-standardize anonymization of neuroimaging data to simplify data
+standardize de-identification of neuroimaging data to simplify data
 sharing.
 
 

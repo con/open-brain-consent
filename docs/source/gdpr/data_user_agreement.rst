@@ -8,7 +8,7 @@ A DUA does not provide a legal basis to share personal data (the consent does). 
 .. _Data User Agreement (DUA):
 
 This template is based on the `Donder’s Institute DUA Version RU-DI-HD-1.0 <https://data.donders.ru.nl/doc/dua/RU-DI-HD-1.0.html?2>`_.
-Given that brain imaging data can be used to identify individuals, it is safe to consider them as 'personal data' under the `GDPR <https://gdpr-info.eu/>`_, even after using a pseudo-anonymization procedure like defacing (see our information on :ref:`(peudo)anonymization tools <chap_anonymization_tools>`.
+Given that brain imaging data can be used to identify individuals, it is safe to consider them as 'personal data' under the `GDPR <https://gdpr-info.eu/>`_, even after using a pseudo-anonymization procedure like defacing (see our information on :ref:`de-identification tools <chap_anonymization_tools>`.
 
 To allow sharing of such personal data, it is recommended to use a Data User Agreement (DUA) over a license. The term "license" is more general than DUA, but both are "contracts" between a licensor and licensee.
 
