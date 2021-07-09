@@ -42,7 +42,7 @@ Following the OBC, data must be de-identified before distribution. However, it h
 GDPR
 ----
 
-There are specific items required in a consent form that needs to be updated: data controller, data processor, legal basis, right to withdraw, info and contact of the data protection officer, how data are pseudoanonymized, infrastructure where data are stored, where data are shared, how people will access data, signature of who collected the consent, where and when.
+There are specific items required in a consent form that needs to be updated: data controller, data processor, legal basis, right to withdraw, info and contact of the data protection officer, how data are pseudonymized, infrastructure where data are stored, where data are shared, how people will access data, signature of who collected the consent, where and when.
 
 GDPR doesn't allow sharing freely personal data outside the EEA --> a data user agreement must be used, limiting redistribution, excluding attempt to reidentify, and including what to do re-identification occurs.
 
@@ -56,7 +56,7 @@ Goal
 
 * `update consent form <https://github.com/con/open-brain-consent/blob/master/docs/source/ultimate.rst>`_ with GDPR items
 * draft a data user agreement (`Donders' DUA <https://data.donders.ru.nl/doc/dua/RU-DI-HD-1.0.html?1>`_)
-* recommendation on pseudo-anonymization
+* recommendation on pseudonymization
 * recommendation on sharing (GLiMR specific)
 
 Schedule
