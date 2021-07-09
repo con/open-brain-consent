@@ -6,6 +6,7 @@ Spanish
 
 
 Single access type version (all data shared publicly; recommended)
+*Versión para acceso único (todos los datos son compartidos públicamente; recomendado)*
 ------------------------------------------------------------------
 
 **Version:** OBC-ULT.es 1.0.0
@@ -29,6 +30,7 @@ Al firmar abajo, está aceptando proporcionar sus datos a futuras investigacione
 
 
 Two access types version (some data shared publicly, more data shared to approved researchers)
+*Versión para dos tipos de acceso (algunos datos se comparten públicamente, y otros datos se comparten con investigadores aprobados)*
 ----------------------------------------------------------------------------------------------
 
 **Version:** OBC-ULT-2T.es 1.0.0
