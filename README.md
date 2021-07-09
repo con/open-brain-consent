@@ -25,7 +25,7 @@ To facilitate neuroimaging data sharing, we providing an "out of the box" soluti
 
 ### Contributing
 
-Every kind of contribution to this effort is welcome!
+Every kind of contribution to this effort is welcome!*
 Please find information on how to contribute in [the contributing chapter](https://open-brain-consent.readthedocs.io/en/stable/contribute.html).
 
 Please find the recommendations and resources we have assembled at [open-brain-consent.readthedocs.io](https://open-brain-consent.readthedocs.io/en/stable/).
