@@ -35,7 +35,7 @@ the box" solution addressing aforementioned human research participants
 concerns and consisting of
 
 - widely acceptable consent form templates (with various translations) allowing
-  deposition of pseudonymised data to public data archives
+  deposition of de-identified data to public data archives
 
 - a template data user agreement (if your repository allows DUA instead of a licence)
 
