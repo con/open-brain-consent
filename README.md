@@ -21,7 +21,10 @@ Situation is particularly tricky because major granting agencies (e.g. NIH, NSF,
 
 To facilitate neuroimaging data sharing, we providing an "out of the box" solution addressing aforementioned human research participants concerns and consisting of
 - widely acceptable consent forms (with various translations) allowing deposition of de-identified data to public data archives
+- a template data user agreement (if your repository allows DUA instead of a licence)
 - collection of tools/pipelines to help de-identification of neuroimaging data making it ready for sharing
+
+You can read a summary of this work in our paper: [The Open Brain Consent: Informing research participants and obtaining consent to share brain imaging data](https://doi.org/10.1002/hbm.25351)
 
 ### Contributing
 

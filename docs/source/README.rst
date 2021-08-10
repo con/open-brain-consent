@@ -35,14 +35,14 @@ the box" solution addressing aforementioned human research participants
 concerns and consisting of
 
 - widely acceptable consent form templates (with various translations) allowing
-  deposition of pseudonymised data to public data archives
+  deposition of de-identified data to public data archives
 
 - a template data user agreement (if your repository allows DUA instead of a licence)
 
 - collection of tools/pipelines to help de-identification of neuroimaging
   data making it ready for sharing
 
-You can read a summary of this work in our post-print: `The Open Brain Consent: Informing research participants and obtaining consent to share brain imaging data <https://psyarxiv.com/f6mnp/>`_
+You can read a summary of this work in our paper: `The Open Brain Consent: Informing research participants and obtaining consent to share brain imaging data <https://doi.org/10.1002/hbm.25351>`_
 
 Sample Consent Forms
 ====================
@@ -75,7 +75,6 @@ information on :ref:`existing <chap_anonymization_tools>` and
 possibly establishing an *ultimate* easy to use pipeline to
 standardize de-identification of neuroimaging data to simplify data
 sharing.
-
 
 Useful links
 ============
