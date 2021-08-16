@@ -42,7 +42,7 @@ concerns and consisting of
 - collection of tools/pipelines to help de-identification of neuroimaging
   data making it ready for sharing
 
-You can read a summary of this work in our paper: `The Open Brain Consent: Informing research participants and obtaining consent to share brain imaging data <https://doi.org/10.1002/hbm.25351>`_
+You can read a summary of this work in our post-print: `The Open Brain Consent: Informing research participants and obtaining consent to share brain imaging data <https://psyarxiv.com/f6mnp/>`_
 
 Sample Consent Forms
 ====================
