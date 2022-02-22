@@ -2,7 +2,7 @@
 
 Arabic
 ~~~~~~
-(translation courtesy of Kyan Younes)
+(translation courtesy of Kyan Younes, reviewed by Lara Harb)
 
 
 Single access type version (all data shared publicly; recommended)
