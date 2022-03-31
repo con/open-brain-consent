@@ -379,6 +379,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "con",
+      "name": "Center for Open Neuroscience",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13295221?v=4",
+      "profile": "http://centerforopenneuroscience.org",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
