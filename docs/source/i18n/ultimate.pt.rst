@@ -26,7 +26,7 @@ Manteremos a parte privada dos seus dados (nome, informação de contacto, etc.)
 Ao assinar abaixo, estará a concordar em providenciar os seus dados para investigações futuras. Aceita que estes possam ser partilhados com investigadores de outras instituições de todo o mundo. Os detalhes, resultados e implicações desses estudos são desconhecidos. 
 
 
-Versão para dois tipos de acesso (alguns dados são partilhados publicamente, outros apenas com investigadores aprovados)*
+Versão para dois tipos de acesso (alguns dados são partilhados publicamente, outros apenas com investigadores aprovados)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Version:** OBC-ULT-2T.pt 1.0.0
