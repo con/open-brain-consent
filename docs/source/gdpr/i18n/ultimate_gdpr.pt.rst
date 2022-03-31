@@ -6,8 +6,6 @@ Portuguese
 
 **Version:** OBC-GDPR-ULT.pt 1.0.0
 
-Instruções
-
 A versão em vigor do formulário de consentimento (edição RGPD) encontra-se abaixo. Esta versão contém terminologia específica do RGPD que diz respeito às implicações para a privacidade, tendo em conta o intuito de processar e partilhar dados de participantes. Desta forma, neste documento estão descritas as políticas de privacidade. O consentimento para participar no estudo é recolhido no formulário de consentimento informado. O formulário inclui algumas frases entre parênteses rectos [], indicando que estas podem ser removidas e/ou substituídas consoante a legislação nacional e a comissão de ética. Algumas frases incluem campos entre <> que devem ser acrescentados.
 
 Tratamento e armazenamento dos seus dados
@@ -41,11 +39,12 @@ Os dados codificados podem ser acedidos e enviados para países fora da União E
 Mais informação relativamente aos seus direitos relativos ao processamento dos dados
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Para informações gerais acerca dos seus direitos relativos ao processamento de dados pessoais, pode consultar o website do/da <Instituição> Autoridade de proteção de dados. 
-Se tiver questões relativamente aos seus direitos, por favor contacte a pessoa responsável pelo processamento dos seus dados pessoais. Para este estudo, a pessoa é 
+Se tiver questões relativamente aos seus direitos, por favor contacte a pessoa responsável pelo processamento dos seus dados pessoais. Para este estudo, a pessoa é:
 
 <Informação de contacto> (ver informação de contacto em apêndice)
 
-Se tiver questões ou queixas relativamente ao processamento dos seus dados pessoais, aconselhamos que contacte primeiramente o centro onde o estudo  está a ser realizado. Pode também contactar o Encarregado de Proteção de Dados do/da <Instituição> (ver informação de contacto em apêndice) ou a Autoridade de Proteção de Dados  do/da <Instituição>.
--	Data:
--	Consentimento recolhido por:
--	Assinatura:
+Se tiver questões ou queixas relativamente ao processamento dos seus dados pessoais, aconselhamos que contacte primeiramente o centro onde o estudo  está a ser realizado. Pode também contactar o Encarregado de Proteção de Dados do/da <Instituição> (ver informação de contacto em apêndice) ou a Autoridade de Proteção de Dados do/da <Instituição>.
+
+- Data:
+- Consentimento recolhido por:
+- Assinatura:
