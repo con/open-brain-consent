@@ -4,7 +4,7 @@ Portuguese
 ----------
 (translation courtesy of Ana Pina Rodrigues, Alexandre Sayal, Bruno Direito, Fernando Ferreira-Santos)
 
-**Version:** OBC-GDPR-ULT.pt 1.0.0
+**Version:** OBC-GDPR-ULT.pt 1.1.0
 
 A versão em vigor do formulário de consentimento (edição RGPD) encontra-se abaixo. Esta versão contém terminologia específica do RGPD que diz respeito às implicações para a privacidade, tendo em conta o intuito de processar e partilhar dados de participantes. Desta forma, neste documento estão descritas as políticas de privacidade. O consentimento para participar no estudo é recolhido no formulário de consentimento informado. O formulário inclui algumas frases entre parênteses retos [], indicando que estas podem ser removidas e/ou substituídas consoante a legislação nacional e a comissão de ética. Algumas frases incluem campos entre <> que devem ser acrescentados.
 
