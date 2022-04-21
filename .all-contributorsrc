@@ -379,6 +379,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "alexsayal",
+      "name": "Alexandre Sayal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9429033?v=4",
+      "profile": "http://alexandresayal.me",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
