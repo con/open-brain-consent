@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3403176.svg)](https://doi.org/10.5281/zenodo.3403176)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-47-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-48-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Documentation Status](https://readthedocs.org/projects/open-brain-consent/badge/?version=stable)](https://open-brain-consent.readthedocs.io/en/stable/?badge=stable)
 
@@ -100,6 +100,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/DimitriPapadopoulos"><img src="https://avatars.githubusercontent.com/u/3234522?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dimitri Papadopoulos Orfanos</b></sub></a><br /><a href="https://github.com/con/open-brain-consent/issues?q=author%3ADimitriPapadopoulos" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://alexandresayal.me"><img src="https://avatars.githubusercontent.com/u/9429033?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alexandre Sayal</b></sub></a><br /><a href="#translation-alexsayal" title="Translation">🌍</a></td>
     <td align="center"><a href="http://ferreira-santos.eu"><img src="https://avatars.githubusercontent.com/u/7377598?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fernando Ferreira-Santos</b></sub></a><br /><a href="#translation-ferreira-santos" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/brunodireito"><img src="https://avatars.githubusercontent.com/u/3036523?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bruno Miguel</b></sub></a><br /><a href="#translation-brunodireito" title="Translation">🌍</a></td>
   </tr>
 </table>
 
