@@ -73,4 +73,5 @@ Translations
    i18n/ultimate_gdpr.it.rst
    i18n/ultimate_gdpr.nl.rst
    i18n/ultimate_gdpr.no.rst
+   i18n/ultimate_gdpr.pt.rst
    i18n/ultimate_gdpr.tr.rst
