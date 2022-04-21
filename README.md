@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3403176.svg)](https://doi.org/10.5281/zenodo.3403176)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-45-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-46-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Documentation Status](https://readthedocs.org/projects/open-brain-consent/badge/?version=stable)](https://open-brain-consent.readthedocs.io/en/stable/?badge=stable)
 
@@ -98,6 +98,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://guiomarniso.com"><img src="https://avatars1.githubusercontent.com/u/4451818?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Julia Guiomar Niso Galán</b></sub></a><br /><a href="#translation-guiomar" title="Translation">🌍</a></td>
     <td align="center"><a href="http://fa.bianp.net"><img src="https://avatars3.githubusercontent.com/u/277639?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fabian Pedregosa</b></sub></a><br /><a href="https://github.com/con/open-brain-consent/pulls?q=is%3Apr+reviewed-by%3Afabianp" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/DimitriPapadopoulos"><img src="https://avatars.githubusercontent.com/u/3234522?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dimitri Papadopoulos Orfanos</b></sub></a><br /><a href="https://github.com/con/open-brain-consent/issues?q=author%3ADimitriPapadopoulos" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://alexandresayal.me"><img src="https://avatars.githubusercontent.com/u/9429033?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alexandre Sayal</b></sub></a><br /><a href="#translation-alexsayal" title="Translation">🌍</a></td>
   </tr>
 </table>
 
