@@ -62,4 +62,5 @@ Translations
    i18n/ultimate.hi.rst
    i18n/ultimate.it.rst
    i18n/ultimate.pl.rst
+   i18n/ultimate.pt.rst
    i18n/ultimate.zh.rst
