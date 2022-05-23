@@ -4,25 +4,30 @@ All notable changes to this project will be documented (for humans) in this file
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [1.1.0] - 2020-11-09
 
-TODO Summary
-
-### Added
-### Changed
-### Fixed
-### Removed
-### Security
-
-## [0.2.6] - 2019-??-??
-
-TODO Summary
+Enhancements and extensions.  We got a logo now!
 
 ### Added
+- `.all-contributorsrc` setup.
+- Hindi translation for Ultimate consent form
+- Clarification on DUA vs a license (within GDPR DUA)
+- OBC logo
+
+## [1.0.0] - 2020-06-16
+
+Major refactoring and extension with GDPR edition.  To establish a
+consistent versioning starting point we are releasing it as 1.0.0.
+
+### Added
+- GDPR edition for the Ultimate consent form and supplemental
+  documents, translated into a number of languages
+- New translations of the Ultimate consent form
+- Versioning and branding (OBC) for all forms and translations
+  which allows for convenient review of changes in the base English
+  version and adjusting translations and their versions
 ### Changed
-### Fixed
-### Removed
-### Security
+- Various little wording etc changes
 
 ## [0.2.5] - 2019-10-10
 ### Added

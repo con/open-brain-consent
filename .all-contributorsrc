@@ -1,0 +1,426 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "yarikoptic",
+      "name": "Yaroslav Halchenko",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/39889?v=4",
+      "profile": "http://www.onerussian.com",
+      "contributions": [
+        "infra",
+        "projectManagement",
+        "code",
+        "content",
+        "review",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "adswa",
+      "name": "Adina Wagner",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29738718?v=4",
+      "profile": "http://www.adina-wagner.com",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "vborghe",
+      "name": "Valentina Borghesani",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11749857?v=4",
+      "profile": "http://valentina.borghesani.org/",
+      "contributions": [
+        "code",
+        "translation",
+        "maintenance",
+        "infra"
+      ]
+    },
+    {
+      "login": "CPernet",
+      "name": "Cyril Pernet",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4772878?v=4",
+      "profile": "http://www.sbirc.ed.ac.uk/cyril/",
+      "contributions": [
+        "code",
+        "translation",
+        "maintenance",
+        "infra"
+      ]
+    },
+    {
+      "login": "mkoculak",
+      "name": "Marcin Koculak",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/16628635?v=4",
+      "profile": "https://github.com/mkoculak",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "mhavu",
+      "name": "Marko Havu",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2302090?v=4",
+      "profile": "https://github.com/mhavu",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "jpellman",
+      "name": "John Pellman",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5000591?v=4",
+      "profile": "https://libjpel.so",
+      "contributions": [
+        "bug",
+        "infra"
+      ]
+    },
+    {
+      "login": "chrisgorgo",
+      "name": "Chris Gorgolewski",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/238759?v=4",
+      "profile": "http://chrisgorgolewski.org",
+      "contributions": [
+        "translation",
+        "content"
+      ]
+    },
+    {
+      "login": "sappelhoff",
+      "name": "Stefan Appelhoff",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9084751?v=4",
+      "profile": "https://www.stefanappelhoff.com",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "satra",
+      "name": "Satrajit Ghosh",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/184063?v=4",
+      "profile": "http://satra.cogitatum.org",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "robertoostenveld",
+      "name": "Robert Oostenveld",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/899043?v=4",
+      "profile": "https://github.com/robertoostenveld",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "pjtoussaint",
+      "name": "pjtoussaint",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/4642250?v=4",
+      "profile": "https://github.com/pjtoussaint",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "mlkieseler",
+      "name": "Marie-Luise Kieseler",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/13872144?v=4",
+      "profile": "https://github.com/mlkieseler",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "jsheunis",
+      "name": "Stephan Heunis",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/10141237?v=4",
+      "profile": "http://www.fmrwhy.com/",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "hcp4715",
+      "name": "Chuan-Peng Hu",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7300419?v=4",
+      "profile": "http://huchuanpeng.com",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "PeerHerholz",
+      "name": "Peer Herholz",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/20129524?v=4",
+      "profile": "http://peerherholz.github.io",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "AsykaKolbacyka",
+      "name": "AsykaKolbacyka",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/67231944?v=4",
+      "profile": "https://github.com/AsykaKolbacyka",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "name": " Nicolas Pascual Leone Espinosa",
+      "avatar_url": "https://unicornify.pictures/avatar/50816018529642639627559528262906053204?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Karolina Finc",
+      "avatar_url": "https://unicornify.pictures/avatar/3286594976052355665756813966559391795?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Dr. Kyrre E. Emblem",
+      "avatar_url": "https://unicornify.pictures/avatar/129191881538174400234909343737821206176?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Saurabh Chavan",
+      "avatar_url": "https://unicornify.pictures/avatar/4691228916091123621709038074142801892?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Dr Radim Jančálek",
+      "avatar_url": "https://unicornify.pictures/avatar/201254758934706648287772069158647925952?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Hardik Kothare ",
+      "avatar_url": "https://unicornify.pictures/avatar/227744230451921531094269175890707961174?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Valentina Borghesani ",
+      "avatar_url": "https://unicornify.pictures/avatar/115564128361764407310819661237289578203?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Dr Francesca Pizzini",
+      "avatar_url": "https://unicornify.pictures/avatar/331779447641493845804226957467132862211?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Clara Moreau",
+      "avatar_url": "https://unicornify.pictures/avatar/168303728220231581562694179710521562469?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Dr Amira Serifovic Trbalic",
+      "avatar_url": "https://unicornify.pictures/avatar/204357623244501477137334102859890418518?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Sara Fernández",
+      "avatar_url": "https://unicornify.pictures/avatar/140890128984856104640333123676081178303?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Dr Vera Keil",
+      "avatar_url": "https://unicornify.pictures/avatar/61700033103512558814640108900367250360?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Dr Henk-Jan Mutsaerts",
+      "avatar_url": "https://unicornify.pictures/avatar/295591703619980376282459646695045405785?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Anne Hespel ",
+      "avatar_url": "https://unicornify.pictures/avatar/317452050964486276281487666867339101373?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Dr. Esin Öztürk Işık",
+      "avatar_url": "https://unicornify.pictures/avatar/252802718727300670504627158800121396591?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Monika Boruta-Żywiczyńska",
+      "avatar_url": "https://unicornify.pictures/avatar/69522165094006649829964301479204649060?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "María de la Iglesia Vayá ",
+      "avatar_url": "https://unicornify.pictures/avatar/34643475542453809928725084302431092545?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Dr Anne Hespel ",
+      "avatar_url": "https://unicornify.pictures/avatar/146034832033234963545725326912853601122?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Dr Patricia Clement ",
+      "avatar_url": "https://unicornify.pictures/avatar/321287267194492895197491731370358741236?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Dr Elise Bannier",
+      "avatar_url": "https://unicornify.pictures/avatar/79392824976212577294463559588700788209?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Dr Maria de la Iglesia",
+      "avatar_url": "https://unicornify.pictures/avatar/151390569491455074342299757350879636412?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "name": "Dr Vasileios K. Katsaros",
+      "avatar_url": "https://unicornify.pictures/avatar/312184497630168570921714213494253435042?s=128",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "cmaumet",
+      "name": "Camille Maumet",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5374264?v=4",
+      "profile": "http://camillemaumet.com",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "djarecka",
+      "name": "Dorota Jarecka",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1662746?v=4",
+      "profile": "https://www.linkedin.com/in/djarecka",
+      "contributions": [
+        "translation",
+        "review"
+      ]
+    },
+    {
+      "login": "mvdoc",
+      "name": "Matteo Visconti di Oleggio Castello",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6150554?v=4",
+      "profile": "https://mvdoc.me",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "guiomar",
+      "name": "Julia Guiomar Niso Galán",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/4451818?v=4",
+      "profile": "http://guiomarniso.com",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "fabianp",
+      "name": "Fabian Pedregosa",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/277639?v=4",
+      "profile": "http://fa.bianp.net",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "DimitriPapadopoulos",
+      "name": "Dimitri Papadopoulos Orfanos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3234522?v=4",
+      "profile": "https://github.com/DimitriPapadopoulos",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "alexsayal",
+      "name": "Alexandre Sayal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9429033?v=4",
+      "profile": "http://alexandresayal.me",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "aprodrigues81",
+      "name": "aprodrigues81",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101356186?v=4",
+      "profile": "https://github.com/aprodrigues81",
+            "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "ferreira-santos",
+      "name": "Fernando Ferreira-Santos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7377598?v=4",
+      "profile": "http://ferreira-santos.eu",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "brunodireito",
+      "name": "Bruno Miguel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3036523?v=4",
+      "profile": "https://github.com/brunodireito",
+      "contributions": [
+        "translation"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "open-brain-consent",
+  "projectOwner": "con",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

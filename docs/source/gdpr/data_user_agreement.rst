@@ -3,11 +3,16 @@
 Data User Agreement
 ===================
 
+A DUA does not provide a legal basis to share personal data (the consent does). A DUA allows controlling what happens to the data when it is shared. A DUA can be a legal instrument if the data are shared for further processing with similar purposes as the original research project (it gives a legal basis to the secondary data user).
+
 .. _Data User Agreement (DUA):
 
-This template is based on the `Donder’s Institute DUA Version RU-DI-HD-1.0. <https://data.donders.ru.nl/doc/dua/RU-DI-HD-1.0.html?2>`_.
-Given that brain imaging data can be used to identify individuals, it is safe to consider them as 'personal data' under the `GDPR <https://gdpr-info.eu/>`_, even after using a pseudo-anonymization procedure like defacing (see our information on :ref:`(peudo)anonymization tools <chap_anonymization_tools>`.
-To allow sharing of such personal data, it is recommended to use a Data User Agreement (DUA) over a license.
+This template is based on the `Donder’s Institute DUA Version RU-DI-HD-1.0 <https://data.donders.ru.nl/doc/dua/RU-DI-HD-1.0.html?2>`_.
+Given that brain imaging data can be used to identify individuals, it is safe to consider them as 'personal data' under the `GDPR <https://gdpr-info.eu/>`_, even after using a pseudo-anonymization procedure like defacing (see our information on :ref:`de-identification tools <chap_anonymization_tools>`.
+
+To allow sharing of such personal data, it is recommended to use a Data User Agreement (DUA) over a license. The term "license" is more general than DUA, but both are "contracts" between a licensor and licensee.
+
+Not all licenses that are commonly used online (like GPL, MIT, CC-BY) are appropriate for data or for databases. A "data use agreement" is a specific form of license (or contract) that is designed for data and can take into account that besides the rights of the licensor (e.g. the researcher or the university) there may also be rights of the participants whose data is included, for example relating to re-identification. You could call an "agreement" or a "contract" between data provider and data downloader a "license", but calling it a "data use agreement" makes it more explicit that it is not about the (re)use of a creative work (like written text or code by an author) but reuse of measured/observed data.
 
 General considerations for a Data User Agreement
 ------------------------------------------------
@@ -33,7 +38,7 @@ I request access to the data collected in the digital repository of the <DEPARTM
 
 By accepting this agreement, I become the `data controller <https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations/obligations/controller-processor/what-data-controller-or-data-processor_en>`_ (as defined under the GDPR) of the data that I have access to, and am responsible that I access these data under the following terms:
 
-1. I will comply with all relevant rules and regulations imposed by my institution and my government.  This agreement never has prevalence over existing general data protection regulations that are applicable in my country.
+1. I will comply with all relevant rules and regulations imposed by my institution and my government. Rules established in this agreement thus take place in addition to existing general data protection regulations that are applicable in my country.
 2. I will not attempt to establish or retrieve the identity of the study participants. I will not link these data to any other database in a way that could provide identifying information. I shall not request the pseudonymisation key that would link these data to an individual's personal information, nor will I accept any additional information about individual participants under this Data Use Agreement.
 3. I will not redistribute these data or share access to these data with others, unless they have independently applied and been granted access to these data, i.e., signed this Data Use Agreement. This includes individuals in my institution.
 4. [OPTIONAL] When sharing secondary or derivative data (e.g. group statistical maps or templates), I will only do so if they are on a group level, and cannot be deduced information from individual participants.
@@ -52,8 +57,10 @@ Translations
    i18n/data_user_agreement.de.rst
    i18n/data_user_agreement.el.rst
    i18n/data_user_agreement.es.rst
+   i18n/data_user_agreement.fi.rst
    i18n/data_user_agreement.fr.rst
    i18n/data_user_agreement.it.rst
    i18n/data_user_agreement.nl.rst
    i18n/data_user_agreement.no.rst
+   i18n/data_user_agreement.pt.rst
    i18n/data_user_agreement.tr.rst

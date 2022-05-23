@@ -68,8 +68,10 @@ Translations
    i18n/ultimate_gdpr.de.rst
    i18n/ultimate_gdpr.el.rst
    i18n/ultimate_gdpr.es.rst
+   i18n/ultimate_gdpr.fi.rst
    i18n/ultimate_gdpr.fr.rst
    i18n/ultimate_gdpr.it.rst
    i18n/ultimate_gdpr.nl.rst
    i18n/ultimate_gdpr.no.rst
+   i18n/ultimate_gdpr.pt.rst
    i18n/ultimate_gdpr.tr.rst

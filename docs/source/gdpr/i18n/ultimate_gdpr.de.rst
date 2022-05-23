@@ -4,7 +4,7 @@ German
 ------
 (translation courtesy of Dr Vera Keil)
 
-**Version:** OBC-GDPR-ULT.de 1.0.0
+**Version:** OBC-GDPR-ULT.de 1.0.1
 
 Die aktuelle Version der endgültigen Einverständniserklärung (GDPR-Ausgabe) ist unten angegeben. Diese enthält GDPR-spezifische Formulierungen, die sich auf die Auswirkungen auf die Privatsphäre aufgrund der Absicht der Verarbeitung und Weitergabe der Daten des Teilnehmers beziehen. Als solches wird dies als das Formular für die Datenschutzerklärung angesehen. Die informierte Einwilligung ("informed consent") zur Teilnahme an der Studie wird für den Teilnehmer weiterhin im Haupt-Einwilligungsformular festgehalten. Das Formular enthält einige Sätze in eckigen Klammern [], was darauf hinweist, dass sie je nach Ihrer örtlichen Gesetzgebung und Ethikkommission entfernt und/oder ersetzt werden können.
 
@@ -12,7 +12,7 @@ Verwendung und Speicherung Ihrer Daten
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Während die Erhebung, Nutzung und Speicherung Ihrer Daten zum Zwecke der Durchführung der Studie erfolgt, an der Sie derzeit teilnehmen, können diese Daten auch für andere zukünftige Forschungsprojekte im Bereich der medizinischen und kognitiven Neurowissenschaften verwendet werden. Dazu gehören Daten von Ihrem Gehirn und/oder anderen Scans, und es können auch Testergebnisse der Studie, an der Sie teilgenommen haben, die Familien- und Krankengeschichte sowie Daten wie Geschlecht und Alter dazugehören.
 
-Wenn Sie sich zur Teilnahme bereit erklären, machen Sie ein kostenloses und großzügiges Geschenk an die Forschung, die anderen helfen könnte. Es ist möglich, dass ein Teil der Forschung, die mit Ihren Informationen durchgeführt wird, schließlich zur Entwicklung neuer Methoden zur Untersuchung des Gehirns, neuer diagnostischer Tests, neuer Medikamente oder anderer kommerzieller Produkte führen könnte. Sollte dies der Fall sein, ist nicht geplant, Ihnen einen Teil der mit solchen Produkten erzielten Gewinne zu überlassen, und Sie haben keine Eigentumsrechte an den Produkten]. Wir bitten Sie um Ihre Zustimmung zu diesem Zugriff auf Ihre Daten.
+Wenn Sie sich zur Teilnahme bereit erklären, machen Sie ein kostenloses und großzügiges Geschenk an die Forschung, die anderen helfen könnte. Es ist möglich, dass ein Teil der Forschung, die mit Ihren Informationen durchgeführt wird, schließlich zur Entwicklung neuer Methoden zur Untersuchung des Gehirns, neuer diagnostischer Tests, neuer Medikamente oder anderer kommerzieller Produkte führen könnte. Sollte dies der Fall sein, ist nicht geplant, Ihnen einen Teil der mit solchen Produkten erzielten Gewinne zu überlassen, und Sie haben keine Eigentumsrechte an den Produkten. Wir bitten Sie um Ihre Zustimmung zu diesem Zugriff auf Ihre Daten.
 
 Vertraulichkeit Ihrer Daten
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,5 +45,5 @@ Wenn Sie Fragen zu Ihren Rechten haben, wenden Sie sich bitte an die für die Ve
 Wenn Sie Fragen oder Beschwerden über die Verarbeitung Ihrer persönlichen Daten haben, empfehlen wir Ihnen, sich zunächst an die Forschungsstelle zu wenden. Sie können sich auch an den Datenschutzbeauftragten von [xxx] (siehe die Kontaktdaten im Anhang ) oder an die [xxx] Datenschutzbehörde wenden.
 
 - Datum:
-- Studienarzt:
+- Datenerhebung durch:
 - Unterschrift:

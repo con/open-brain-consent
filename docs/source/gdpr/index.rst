@@ -20,10 +20,9 @@ Below are some links pointing to events/initiatives where work was done on the t
 - `Initial GitHub issue`_ suggesting that GDPR should be added to the Open Brain Consent templates
 - `OHBM Hackathon 2019 project`_ aiming to create GDPR compatible templates and educational content
 - `Work-in-progress Google document`_ attempting to distill the core concepts of the GDPR as they relate to brain imaging research data
-- `COST workshop`_ to update templates to include clinical research and a data user agreement
+- `GliMR COST workshop <https://glimr.eu/post/hackathon/>`_ to update templates to include clinical research and a data user agreement
 
-The final push to make the GDPR version of the open brain consent took place during a GLiMR workshop (`COST
-<https://www.cost.eu/>`_ action CA18206) the 27th Novembre 2019, COST Association, 149 Avenue Louise, Brussels.
+The final push to make the GDPR version of the open brain consent took place during a GLiMR workshop (`COST <https://www.cost.eu/>`_ action CA18206) the 27th Novembre 2019, COST Association, 149 Avenue Louise, Brussels.
 See :ref:`GDPR/credit <chap_gdpr_credit>` document for more information.
 
 More info:
@@ -54,7 +53,7 @@ GDPR Documents
 --------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    ultimate_gdpr.rst
    data_privacy_impact_assessment.rst

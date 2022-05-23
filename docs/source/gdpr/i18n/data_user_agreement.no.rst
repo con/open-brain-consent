@@ -2,7 +2,7 @@
 
 Norwegian
 ---------
-(translation courtesy of of Dr. Kyrre E. Emblem)
+(translation courtesy of Dr. Kyrre E. Emblem)
 
 Databehandleravtale for tilgang til personsensitive data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
