@@ -4,6 +4,15 @@ All notable changes to this project will be documented (for humans) in this file
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [1.2.0] - 2022-09-22
+
+### Added
+- Portuguese and Arabic translations for OBC-ULT
+- Spanish translation for the 2nd form of the OBC-ULT
+### Fixed
+- A number of inconsistencies (e.g. use "de-identification" in favor of
+  "anonymization") and typos
+
 ## [1.1.0] - 2020-11-09
 
 Enhancements and extensions.  We got a logo now!
@@ -84,3 +93,6 @@ Initial release:
 [0.0.2]: https://github.com/datalad/open-brain-consent/commits/0.0.2
 [0.2.4]: https://github.com/datalad/open-brain-consent/commits/0.2.4
 [0.2.5]: https://github.com/datalad/open-brain-consent/commits/0.2.5
+[1.0.0]: https://github.com/datalad/open-brain-consent/commits/1.0.0
+[1.1.0]: https://github.com/datalad/open-brain-consent/commits/1.1.0
+[1.2.0]: https://github.com/datalad/open-brain-consent/commits/1.2.0
