@@ -8,7 +8,7 @@
   - `UCB_SpatialRep_MRI.pdf <http://socrates.berkeley.edu/~lynnlab/internal/consent/UCBSpatialRep_MRI.pdf>`_
   - `UCLA_sample_consent.html <http://research.bmap.ucla.edu/sample_consent.html>`_
   - `UK_cf_CUBRIC_InfoConsentDebrief_fMRIonly.doc.html <http://sites.cardiff.ac.uk/cubric/files/2014/05/CUBRIC_InfoConsentDebrief_fMRIonly.doc>`_
-  - `UK_gla_3T_fMRI_consent_form_v3.0.docx https://www.gla.ac.uk/media/Media_1071725_smxx.docx>`_
+  - `UK_gla_3T_fMRI_consent_form_v3.0.docx <https://www.gla.ac.uk/media/Media_1071725_smxx.docx>`_
   - `USC_Informed-Consent-Template-3-29-13-FMRI.doc <https://web.archive.org/web/20151022113019/https://oprs.usc.edu/files/2013/03/Informed-Consent-Template-3-29-13-FMRI.doc>`_
   - `psychLMU_ConsentForm_Template_Dyads_German.pdf <https://osf.io/3d5xb/download>`_
   - `psychLMU_ConsentForm_Template_NonDyads_German.pdf <https://osf.io/kv37u/download>`_
