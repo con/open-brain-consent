@@ -49,7 +49,7 @@ master_doc = 'index'
 project = u'Open Brain Consent'
 project_compressed = project.replace(' ', '')
 authors = u'Open Brain Consent working group'
-copyright = u'2015-2022, ' + authors
+copyright = u'2015-2025, ' + authors
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
