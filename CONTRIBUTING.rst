@@ -60,7 +60,7 @@ our Internationalization (`i18n`) teams.
 Versioning
 ----------
 
-All Open Brain Constent (OBC) documents now follow following
+All Open Brain Consent (OBC) documents now follow following
 versioning schema:
 
 `OBC-<NAME>[.translation] MAJOR.MINOR.PATCH`

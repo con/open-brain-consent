@@ -1,0 +1,8 @@
+[codespell]
+# Ref: https://github.com/codespell-project/codespell#using-a-config-file
+# Skip i18n directories (foreign language translations) and build artifacts
+skip = .git*,*.pdf,*.svg,.codespellrc,*/i18n/*,*/build/*,samples
+check-hidden = true
+# ignore-regex =
+# re-used is valid hyphenated form
+ignore-words-list = re-used
