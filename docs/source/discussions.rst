@@ -55,6 +55,6 @@ Cyril Pernet Apr 9, 2014
 
   In UK it's getting crazy. For our data bank we are planning
   de-identification ie face and ear removal and or scrubbing, you know
-  is case your insurance compagny decides to make 3d models of data,
+  is case your insurance company decides to make 3d models of data,
   recognize you, and found something weird in your brain that our
   radiologists and neurologist haven't seen before ...
