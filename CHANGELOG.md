@@ -74,19 +74,19 @@ consistent versioning starting point we are releasing it as 1.0.0.
 
 ## [0.1] - 2018-02-08
 
-Initial release with translations of the ultimate constent form.
+Initial release with translations of the ultimate consent form.
 
 ### Added
 - Ultimate Consent Form translations
   - German translation (public only portion)
   - French translation
-- More anonimization tools
+- More anonymization tools
 
 ## [0.0.2] - 2015-12-16
 
 Initial release:
 - Ultimate Consent Form (English version only)
-- links to samples of consent forms, anonimization tools
+- links to samples of consent forms, anonymization tools
 
 [Unreleased]: https://github.com/datalad/datalad/open-brain-consent/compare/0.1...HEAD
 [0.1]: https://github.com/datalad/open-brain-consent/commits/0.1
