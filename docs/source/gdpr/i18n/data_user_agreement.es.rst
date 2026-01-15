@@ -5,7 +5,6 @@ Spanish
 (translation courtesy of Dr Maria de la Iglesia and Guiomar Niso)
 
 Acuerdo de Uso de Datos para el acceso a datos humanos identificables
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Version:** OBC-GDPR-DUA.es 1.0.1
 
