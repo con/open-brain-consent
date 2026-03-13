@@ -25,6 +25,7 @@ Content table
 .. toctree::
    :maxdepth: 3
 
+   duo.rst
    anon_tools.rst
    discussions.rst
 
